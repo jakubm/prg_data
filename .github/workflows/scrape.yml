@@ -22,6 +22,7 @@ jobs:
     - name: Fetch departure data from prg-aero.com
       run: |-
         curl "http://prg-aero.com/departures.csv" > departures.csv
+        mkdir departures
         cp departures.csv departures/$(date +%F).csv
     - name: Fetch arrival data
       run: |-
@@ -29,6 +30,7 @@ jobs:
     - name: Fetch arrival data from prg-aero.com
       run: |-
         curl "http://prg-aero.com/arrivals.csv" > arrivals.csv
+        mkdir arrivals
         cp arrivals.csv arrivals/$(date +%F).csv
     - name: Commit and push if it changed
       run: |-
