@@ -19,9 +19,15 @@ jobs:
     - name: Fetch departure data
       run: |-
         curl "http://mfids.prg.aero/notificator/flights?spec=departure" > departures.xml
+    - name: Fetch departure data from prg-aero.com
+      run: |-
+        curl "http://prg-aero.com/departures.csv" > departures.csv
     - name: Fetch arrival data
       run: |-
         curl "http://mfids.prg.aero/notificator/flights?spec=arrivals" > arrivals.xml
+    - name: Fetch arrival data from prg-aero.com
+      run: |-
+        curl "http://prg-aero.com/arrivals.csv" > arrivals.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
