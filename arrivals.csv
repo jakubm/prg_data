@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2919001,a,2020-11-09 10:45:00 +0100,FR4944,Milan/BERGAMO,Ryanair,2,"",Expected 10:30,2020-11-08 10:46:07 +0100,2020-11-09 09:26:06 +0100,true,2020-11-09 10:30:00 +0100,5fa7be1cbebcb2cc7cf51b15,73H
+2919001,a,2020-11-09 10:45:00 +0100,FR4944,Milan/BERGAMO,Ryanair,2,"",Expected 10:25,2020-11-08 10:46:07 +0100,2020-11-09 10:20:07 +0100,true,2020-11-09 10:25:00 +0100,5fa7be1cbebcb2cc7cf51b15,73H
 2919006,a,2020-11-09 11:50:00 +0100,LO0527,Warsaw,Lot Polish Airlines,2,"","",2020-11-08 11:51:06 +0100,2020-11-08 11:51:06 +0100,true,,5fa7cd58bebcb2cc7cf524b4,DH4
 2919014,a,2020-11-09 13:25:00 +0100,FR8331,Rome/CIAMPINO,Ryanair,2,"","",2020-11-08 13:26:07 +0100,2020-11-08 13:26:07 +0100,true,,5fa7e39cbebcb2cc7cf52863,73H
 2919016,a,2020-11-09 15:55:00 +0100,FR1013,London/STANSTED,Ryanair,1,"","",2020-11-08 15:56:07 +0100,2020-11-08 15:56:07 +0100,true,,5fa806c4bebcb2cc7cf53542,73H
