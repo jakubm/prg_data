@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2919228,d,2020-11-13 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2020-11-12 06:11:06 +0100,2020-11-13 05:05:06 +0100,true,,5facc3b22d38e5c987d1e384,E90
+2919228,d,2020-11-13 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Boarding,2020-11-12 06:11:06 +0100,2020-11-13 05:35:06 +0100,true,,5facc3b22d38e5c987d1e384,E90
 2919234,d,2020-11-13 06:50:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,Check-in,2020-11-12 06:51:05 +0100,2020-11-13 03:52:05 +0100,true,,5faccd112d38e5c987d1e39c,73H
 2919235,d,2020-11-13 07:30:00 +0100,FR4945,Milan/BERGAMO,Ryanair,2,C22,Check-in,2020-11-12 07:31:06 +0100,2020-11-13 04:31:06 +0100,true,,5facd6712d38e5c987d1e44a,73H
 2919238,d,2020-11-13 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C5,"",2020-11-12 11:01:06 +0100,2020-11-12 11:01:06 +0100,true,,5fad07a12d38e5c987d1ec76,E70
