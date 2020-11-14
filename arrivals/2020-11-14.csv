@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2919321,a,2020-11-14 09:55:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2020-11-13 09:56:06 +0100,2020-11-13 09:56:06 +0100,true,,5fae49e42d38e5c987d206ba,CR9
+2919321,a,2020-11-14 09:55:00 +0100,LH1392,Frankfurt,Lufthansa,2,"",Expected 09:55,2020-11-13 09:56:06 +0100,2020-11-14 09:09:06 +0100,true,2020-11-14 09:55:00 +0100,5fae49e42d38e5c987d206ba,CR9
 2919330,a,2020-11-14 10:10:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 09:50,2020-11-13 10:11:06 +0100,2020-11-14 08:48:05 +0100,true,2020-11-14 09:50:00 +0100,5fae4d682d38e5c987d20732,E90
 2919333,a,2020-11-14 10:30:00 +0100,QS1241,Hurghada,SmartWings,1,"",Expected 11:35,2020-11-13 10:31:06 +0100,2020-11-14 07:16:06 +0100,true,2020-11-14 11:35:00 +0100,5fae52192d38e5c987d207db,73J
 2919341,a,2020-11-14 11:10:00 +0100,FR8331,Rome/CIAMPINO,Ryanair,2,"","",2020-11-13 11:11:06 +0100,2020-11-13 11:11:06 +0100,true,,5fae5b782d38e5c987d20b70,73H
