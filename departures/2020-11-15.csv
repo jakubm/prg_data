@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2919379,d,2020-11-15 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 05:53,2020-11-14 06:01:05 +0100,2020-11-15 06:02:06 +0100,true,2020-11-15 05:53:00 +0100,5faf64502d38e5c987d24401,E90
-2919385,d,2020-11-15 06:40:00 +0100,FR5007,Malaga,Ryanair,2,C22,Gate closed,2020-11-14 06:41:06 +0100,2020-11-15 06:30:06 +0100,true,,5faf6db02d38e5c987d246a6,73H
+2919385,d,2020-11-15 06:40:00 +0100,FR5007,Malaga,Ryanair,2,C22,Departed 06:48,2020-11-14 06:41:06 +0100,2020-11-15 06:56:06 +0100,true,2020-11-15 06:48:00 +0100,5faf6db02d38e5c987d246a6,73H
 2919387,d,2020-11-15 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B7,"",2020-11-14 09:46:06 +0100,2020-11-14 09:46:06 +0100,true,,5faf990c2d38e5c987d24aac,319
 2919391,d,2020-11-15 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C5,"",2020-11-14 11:01:06 +0100,2020-11-14 11:01:06 +0100,true,,5fafaaa02d38e5c987d25a81,E70
 2919392,d,2020-11-15 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B8,"",2020-11-14 11:36:06 +0100,2020-11-14 11:36:06 +0100,true,,5fafb2de2d38e5c987d25e82,320
