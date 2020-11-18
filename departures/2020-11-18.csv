@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2919561,d,2020-11-18 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Boarding,2020-11-17 06:11:05 +0100,2020-11-18 05:43:05 +0100,true,,5fb35b312d38e5c987d2bcc0,E90
+2919561,d,2020-11-18 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Last call,2020-11-17 06:11:05 +0100,2020-11-18 05:52:05 +0100,true,,5fb35b312d38e5c987d2bcc0,E90
 2919568,d,2020-11-18 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B7,"",2020-11-17 09:45:06 +0100,2020-11-17 09:45:06 +0100,true,,5fb38d8c2d38e5c987d2bdcb,319
 2919582,d,2020-11-18 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C9,"",2020-11-17 10:40:06 +0100,2020-11-17 17:13:06 +0100,true,,5fb39a702d38e5c987d2bfa8,CR9
 2919583,d,2020-11-18 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C19,"",2020-11-17 11:00:06 +0100,2020-11-17 11:00:06 +0100,true,,5fb39f202d38e5c987d2c0a1,DH4
