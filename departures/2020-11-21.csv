@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2919764,d,2020-11-21 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate closed,2020-11-20 06:11:08 +0100,2020-11-21 05:55:06 +0100,true,,5fb74fb22d38e5c987d316ea,E90
+2919764,d,2020-11-21 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 06:02,2020-11-20 06:11:08 +0100,2020-11-21 06:22:05 +0100,true,2020-11-21 06:02:00 +0100,5fb74fb22d38e5c987d316ea,E90
 2919770,d,2020-11-21 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Gate open,2020-11-20 07:06:06 +0100,2020-11-21 06:09:06 +0100,true,,5fb75c962d38e5c987d31811,221
 2919784,d,2020-11-21 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C9,"",2020-11-20 10:41:06 +0100,2020-11-20 10:41:06 +0100,true,,5fb78ef02d38e5c987d31ca2,E90
 2919785,d,2020-11-21 11:00:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2020-11-20 11:01:06 +0100,2020-11-20 11:01:06 +0100,true,,5fb793a02d38e5c987d31d89,E90
