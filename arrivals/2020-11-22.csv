@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2919822,a,2020-11-22 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2020-11-21 08:51:06 +0100,2020-11-21 08:51:06 +0100,true,,5fb8c6b12d38e5c987d354d1,319
+2919822,a,2020-11-22 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"",Expected 08:35,2020-11-21 08:51:06 +0100,2020-11-22 06:53:05 +0100,true,2020-11-22 08:35:00 +0100,5fb8c6b12d38e5c987d354d1,319
 2919841,a,2020-11-22 12:05:00 +0100,B20861,Minsk,Belavia,1,"","",2020-11-21 12:06:05 +0100,2020-11-21 12:06:05 +0100,true,,5fb8f4652d38e5c987d365ee,E75
 2919844,a,2020-11-22 12:35:00 +0100,QR0291,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"","",2020-11-21 12:36:06 +0100,2020-11-21 12:36:06 +0100,true,,5fb8fb6d2d38e5c987d3661a,788
 2919846,a,2020-11-22 12:50:00 +0100,EK0139,Dubai,Emirates,1,"","",2020-11-21 12:51:05 +0100,2020-11-21 12:51:05 +0100,true,,5fb8fef12d38e5c987d36628,77W
