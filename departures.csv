@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2919821,d,2020-11-22 06:40:00 +0100,FR5007,Malaga,Ryanair,2,C22,Gate open,2020-11-21 06:41:05 +0100,2020-11-22 05:32:05 +0100,true,,5fb8a8302d38e5c987d35220,73H
+2919821,d,2020-11-22 06:40:00 +0100,FR5007,Malaga,Ryanair,2,C22,Boarding,2020-11-21 06:41:05 +0100,2020-11-22 06:04:05 +0100,true,,5fb8a8302d38e5c987d35220,73H
 2919823,d,2020-11-22 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B8,"",2020-11-21 09:46:05 +0100,2020-11-21 09:49:05 +0100,true,,5fb8d3952d38e5c987d35669,319
 2919827,d,2020-11-22 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C23,"",2020-11-21 11:01:05 +0100,2020-11-21 11:01:05 +0100,true,,5fb8e52a2d38e5c987d35e70,DH4
 2919828,d,2020-11-22 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B4,"",2020-11-21 11:36:05 +0100,2020-11-21 11:36:05 +0100,true,,5fb8ed5d2d38e5c987d36381,320
