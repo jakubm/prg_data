@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2919909,a,2020-11-23 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 10:40,2020-11-22 10:56:06 +0100,2020-11-23 10:27:06 +0100,true,2020-11-23 10:40:00 +0100,5fba35742d38cdb512c9e6d8,E90
+2919909,a,2020-11-23 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Arrived 10:39,2020-11-22 10:56:06 +0100,2020-11-23 10:41:05 +0100,true,2020-11-23 10:39:00 +0100,5fba35742d38cdb512c9e6d8,E90
 2919927,a,2020-11-23 16:35:00 +0100,OK0919,Kyiv/BORYSPIL,Czech Airlines,1,"","",2020-11-22 16:36:06 +0100,2020-11-22 16:36:06 +0100,true,,5fba852e2d38cdb512ca0c61,73G
 2919929,a,2020-11-23 17:10:00 +0100,LO1521,Ostrava,Lot Polish Airlines,2,"","",2020-11-22 17:11:06 +0100,2020-11-22 17:11:06 +0100,true,,5fba8d582d38cdb512ca0ec6,E70
 2919930,a,2020-11-23 17:35:00 +0100,OK0761,Paris/CDG,Czech Airlines,2,"","",2020-11-22 17:36:06 +0100,2020-11-22 17:36:06 +0100,true,,5fba93342d38cdb512ca1328,AT7
