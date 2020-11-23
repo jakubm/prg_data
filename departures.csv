@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2919902,d,2020-11-23 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 06:08,2020-11-22 06:11:06 +0100,2020-11-23 06:17:06 +0100,true,2020-11-23 06:08:00 +0100,5fb9f2b22d38cdb512c9db10,E90
 2919908,d,2020-11-23 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Departed 07:01,2020-11-22 07:06:07 +0100,2020-11-23 07:15:06 +0100,true,2020-11-23 07:01:00 +0100,5fb9ff962d38cdb512c9dbc9,221
-2919912,d,2020-11-23 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B7,Check-in,2020-11-22 11:36:05 +0100,2020-11-23 09:07:06 +0100,true,,5fba3ede2d38cdb512c9f245,73H
+2919912,d,2020-11-23 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B7,Gate open,2020-11-22 11:36:05 +0100,2020-11-23 10:12:06 +0100,true,,5fba3ede2d38cdb512c9f245,73H
 2919915,d,2020-11-23 11:45:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2020-11-22 11:46:06 +0100,2020-11-23 09:46:05 +0100,true,,5fba412c2d38cdb512c9f515,E90
 2919920,d,2020-11-23 12:00:00 +0100,OK0760,Paris/CDG,Czech Airlines,2,C14,Check-in,2020-11-22 12:01:06 +0100,2020-11-23 09:33:05 +0100,true,,5fba44ba2d38cdb512c9fe9b,AT7
 2919926,d,2020-11-23 15:00:00 +0100,OK7106,Vilnius,Czech Airlines,2,C14,"",2020-11-22 15:01:06 +0100,2020-11-22 15:01:06 +0100,true,,5fba6eea2d38cdb512ca0a38,AT7
