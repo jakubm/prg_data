@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2919956,d,2020-11-24 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Boarding,2020-11-23 06:11:06 +0100,2020-11-24 05:55:05 +0100,true,,5fbb44312d38cdb512ca1ff0,E90
+2919956,d,2020-11-24 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate closed,2020-11-23 06:11:06 +0100,2020-11-24 06:02:05 +0100,true,,5fbb44312d38cdb512ca1ff0,E90
 2919971,d,2020-11-24 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C12,"",2020-11-23 10:41:05 +0100,2020-11-23 10:41:05 +0100,true,,5fbb837a2d38cdb512ca2308,CR9
 2919975,d,2020-11-24 11:20:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B14,"",2020-11-23 11:21:05 +0100,2020-11-23 11:21:05 +0100,true,,5fbb8cd02d38cdb512ca29ab,AT7
 2919978,d,2020-11-24 11:45:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2020-11-23 11:46:06 +0100,2020-11-23 11:46:06 +0100,true,,5fbb92ac2d38cdb512ca2db9,E90
