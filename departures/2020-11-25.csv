@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2919993,d,2020-11-25 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B8,Check-in,2020-11-24 09:46:06 +0100,2020-11-25 07:27:06 +0100,true,,5fbcc8162d38cdb512ca41bc,319
+2919993,d,2020-11-25 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B8,Boarding,2020-11-24 09:46:06 +0100,2020-11-25 08:20:05 +0100,true,,5fbcc8162d38cdb512ca41bc,319
 2920008,d,2020-11-25 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C12,"",2020-11-24 10:41:06 +0100,2020-11-24 10:41:06 +0100,true,,5fbcd4f02d38cdb512ca436b,CR9
 2920013,d,2020-11-25 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C19,"",2020-11-24 11:01:05 +0100,2020-11-24 11:01:05 +0100,true,,5fbcd9a12d38cdb512ca4474,DH4
 2920014,d,2020-11-25 11:20:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B14,"",2020-11-24 11:21:06 +0100,2020-11-24 11:21:06 +0100,true,,5fbcde502d38cdb512ca47aa,AT7
