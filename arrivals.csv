@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2920053,a,2020-11-26 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"",Expected 10:05,2020-11-25 10:01:06 +0100,2020-11-26 09:48:05 +0100,true,2020-11-26 10:05:00 +0100,5fbe1d102d38cdb512ca55d4,CR9
 2920063,a,2020-11-26 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 10:40,2020-11-25 10:56:05 +0100,2020-11-26 09:40:06 +0100,true,2020-11-26 10:40:00 +0100,5fbe29f42d38cdb512ca5a61,E90
-2920085,a,2020-11-26 12:15:00 +0100,SU2012,Moscow/SHEREMETYEVO,Aeroflot,1,"","",2020-11-25 12:16:05 +0100,2020-11-25 12:16:05 +0100,true,,5fbe3cb42d38cdb512ca6247,73H
+2920085,a,2020-11-26 12:15:00 +0100,SU2012,Moscow/SHEREMETYEVO,Aeroflot,1,"",Delayed,2020-11-25 12:16:05 +0100,2020-11-26 09:56:06 +0100,true,,5fbe3cb42d38cdb512ca6247,32A
 2920087,a,2020-11-26 15:30:00 +0100,QS1153,Malaga,SmartWings,2,"","",2020-11-25 15:31:06 +0100,2020-11-25 15:31:06 +0100,true,,5fbe6a682d38cdb512ca6c20,73G
 2920088,a,2020-11-26 16:45:00 +0100,OK0491,Stockholm/ARLANDA,Czech Airlines,2,"","",2020-11-25 16:46:05 +0100,2020-11-25 16:46:05 +0100,true,,5fbe7c062d38cdb512ca6c83,73H
 2920091,a,2020-11-26 17:35:00 +0100,OK0761,Paris/CDG,Czech Airlines,2,"","",2020-11-25 17:36:06 +0100,2020-11-25 17:36:06 +0100,true,,5fbe87be2d38cdb512ca6ca6,AT7
