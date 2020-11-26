@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2920046,d,2020-11-26 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Boarding,2020-11-25 06:11:06 +0100,2020-11-26 05:46:05 +0100,true,,5fbde7282d38cdb512ca511a,E90
+2920046,d,2020-11-26 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate closed,2020-11-25 06:11:06 +0100,2020-11-26 06:06:05 +0100,true,,5fbde7282d38cdb512ca511a,E90
 2920052,d,2020-11-26 08:00:00 +0100,QS1152,Malaga,SmartWings,2,D1,Check-in,2020-11-25 08:01:06 +0100,2020-11-26 05:31:05 +0100,true,,5fbe00fa2d38cdb512ca51d8,73G
 2920062,d,2020-11-26 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C12,"",2020-11-25 10:41:05 +0100,2020-11-25 10:41:05 +0100,true,,5fbe26702d38cdb512ca58a9,CR9
 2920067,d,2020-11-26 11:20:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B14,"",2020-11-25 11:21:05 +0100,2020-11-25 11:21:05 +0100,true,,5fbe2fd02d38cdb512ca5e8c,AT7
