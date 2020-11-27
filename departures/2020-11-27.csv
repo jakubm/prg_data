@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2920113,d,2020-11-27 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 06:02,2020-11-26 06:11:05 +0100,2020-11-27 06:25:06 +0100,true,2020-11-27 06:02:00 +0100,5fbf38a82d38cdb512ca71ea,E90
-2920124,d,2020-11-27 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C19,Gate open,2020-11-26 11:01:05 +0100,2020-11-27 09:41:05 +0100,true,,5fbf7ca02d38cdb512ca78b2,DH4
+2920124,d,2020-11-27 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C19,Last call,2020-11-26 11:01:05 +0100,2020-11-27 10:27:05 +0100,true,,5fbf7ca02d38cdb512ca78b2,DH4
 2920127,d,2020-11-27 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B8,Gate open,2020-11-26 11:36:05 +0100,2020-11-27 10:02:05 +0100,true,,5fbf84de2d38cdb512ca825b,73H
 2920130,d,2020-11-27 11:45:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2020-11-26 11:46:06 +0100,2020-11-27 09:42:05 +0100,true,,5fbf872c2d38cdb512ca840e,E90
 2920135,d,2020-11-27 11:45:00 +0100,QS2008,Tenerife/SUR,SmartWings,2,"",Cancelled,2020-11-26 11:46:06 +0100,2020-11-26 11:46:06 +0100,true,,5fbf872c2d38cdb512ca840f,73J
