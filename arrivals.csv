@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2920119,a,2020-11-27 10:25:00 +0100,LO1527,Ostrava,Lot Polish Airlines,2,"",Arrived 10:09,2020-11-26 10:26:05 +0100,2020-11-27 10:11:06 +0100,true,2020-11-27 10:09:00 +0100,5fbf746c2d38cdb512ca7655,DH4
-2920120,a,2020-11-27 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 10:55,2020-11-26 10:56:06 +0100,2020-11-27 10:22:06 +0100,true,2020-11-27 10:55:00 +0100,5fbf7b742d38cdb512ca786e,E90
+2920120,a,2020-11-27 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 10:50,2020-11-26 10:56:06 +0100,2020-11-27 10:39:06 +0100,true,2020-11-27 10:50:00 +0100,5fbf7b742d38cdb512ca786e,E90
 2920125,a,2020-11-27 11:15:00 +0100,FB0301,Sofia,Bulgaria Air,1,"",Cancelled,2020-11-26 11:16:06 +0100,2020-11-26 11:16:06 +0100,true,,5fbf80242d38cdb512ca7ae6,E90
 2920126,a,2020-11-27 11:25:00 +0100,FB0309,Sofia,Bulgaria Air,1,"",Expected 11:15,2020-11-26 11:26:06 +0100,2020-11-27 10:06:06 +0100,true,2020-11-27 11:15:00 +0100,5fbf827c2d38cdb512ca7ec2,E90
 2920144,a,2020-11-27 12:05:00 +0100,B20861,Minsk,Belavia,1,"","",2020-11-26 12:06:06 +0100,2020-11-26 12:06:06 +0100,true,,5fbf8be62d38cdb512ca8434,E75
