@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2920201,a,2020-11-28 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"",Expected 10:00,2020-11-27 10:01:05 +0100,2020-11-28 09:16:05 +0100,true,2020-11-28 10:00:00 +0100,5fc0c0102d38cdb512ca966c,CR9
+2920201,a,2020-11-28 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"",Expected 10:05,2020-11-27 10:01:05 +0100,2020-11-28 09:30:05 +0100,true,2020-11-28 10:05:00 +0100,5fc0c0102d38cdb512ca966c,CR9
 2920210,a,2020-11-28 10:30:00 +0100,QS1241,Hurghada,SmartWings,1,"",Expected 11:00,2020-11-27 10:31:06 +0100,2020-11-28 06:45:05 +0100,true,2020-11-28 11:00:00 +0100,5fc0c7222d38cdb512ca97ce,73H
 2920212,a,2020-11-28 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2020-11-27 10:56:06 +0100,2020-11-27 10:56:06 +0100,true,,5fc0ccfe2d38cdb512ca98ed,E90
 2920216,a,2020-11-28 11:10:00 +0100,QS1223,Marsa Allam,SmartWings,1,"",Expected 11:35,2020-11-27 11:11:06 +0100,2020-11-28 06:53:06 +0100,true,2020-11-28 11:35:00 +0100,5fc0d0782d38cdb512ca9ba7,73G
