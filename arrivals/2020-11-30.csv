@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2920351,a,2020-11-30 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 10:45,2020-11-29 10:56:06 +0100,2020-11-30 10:36:06 +0100,true,2020-11-30 10:45:00 +0100,5fc36ff42d38cdb512caf37a,E90
-2920355,a,2020-11-30 11:15:00 +0100,OK7107,Vilnius,Czech Airlines,2,"",Delayed,2020-11-29 11:16:06 +0100,2020-11-30 07:45:07 +0100,true,,5fc374a42d38cdb512caf8b8,AT7
+2920351,a,2020-11-30 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Arrived 10:43,2020-11-29 10:56:06 +0100,2020-11-30 10:45:06 +0100,true,2020-11-30 10:43:00 +0100,5fc36ff42d38cdb512caf37a,E90
+2920355,a,2020-11-30 11:15:00 +0100,OK7107,Vilnius,Czech Airlines,2,"",Expected 12:45,2020-11-29 11:16:06 +0100,2020-11-30 10:48:06 +0100,true,2020-11-30 12:45:00 +0100,5fc374a42d38cdb512caf8b8,AT7
 2920373,a,2020-11-30 14:45:00 +0100,TP1244,Lisbon,Tap Portugal,2,"","",2020-11-29 14:46:07 +0100,2020-11-29 14:46:07 +0100,true,,5fc3a5dd2d38cdb512cb0d28,32N
 2920375,a,2020-11-30 16:35:00 +0100,OK0919,Kyiv/BORYSPIL,Czech Airlines,1,"","",2020-11-29 16:36:06 +0100,2020-11-29 16:36:06 +0100,true,,5fc3bfae2d38cdb512cb1294,73H
 2920377,a,2020-11-30 16:40:00 +0100,OK0651,London/HEATHROW,Czech Airlines,1,"","",2020-11-29 16:41:06 +0100,2020-11-29 16:41:06 +0100,true,,5fc3c0da2d38cdb512cb12a3,73G
