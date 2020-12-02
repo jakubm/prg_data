@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2920471,a,2020-12-02 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"",Arrived 08:37,2020-12-01 08:51:05 +0100,2020-12-02 08:39:07 +0100,true,2020-12-02 08:37:00 +0100,5fc5f5b12d38cdb512cb4fb9,73H
-2920477,a,2020-12-02 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2020-12-01 10:01:05 +0100,2020-12-01 10:01:05 +0100,true,,5fc606192d38cdb512cb516b,CR9
+2920477,a,2020-12-02 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"",Expected 09:55,2020-12-01 10:01:05 +0100,2020-12-02 09:27:05 +0100,true,2020-12-02 09:55:00 +0100,5fc606192d38cdb512cb516b,CR9
 2920486,a,2020-12-02 10:25:00 +0100,LO1527,Ostrava,Lot Polish Airlines,2,"","",2020-12-01 10:26:06 +0100,2020-12-01 10:26:06 +0100,true,,5fc60bf52d38cdb512cb5362,DH4
 2920488,a,2020-12-02 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2020-12-01 10:56:06 +0100,2020-12-01 10:56:06 +0100,true,,5fc612f42d38cdb512cb54d9,E90
 2920507,a,2020-12-02 12:45:00 +0100,QR0291,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"",Expected 12:15,2020-12-01 12:46:05 +0100,2020-12-02 07:07:06 +0100,true,2020-12-02 12:15:00 +0100,5fc62cbc2d38cdb512cb5ba9,788
