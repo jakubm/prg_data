@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2920736,a,2020-12-05 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"",Arrived 09:55,2020-12-04 10:01:06 +0100,2020-12-05 09:58:05 +0100,true,2020-12-05 09:55:00 +0100,5fc9fa912d38cdb512cbc430,CR9
-2920748,a,2020-12-05 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2020-12-04 10:56:05 +0100,2020-12-04 10:56:05 +0100,true,,5fca077e2d38cdb512cbc725,E90
+2920748,a,2020-12-05 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 11:50,2020-12-04 10:56:05 +0100,2020-12-05 10:36:06 +0100,true,2020-12-05 11:50:00 +0100,5fca077e2d38cdb512cbc725,E7W
 2920766,a,2020-12-05 14:25:00 +0100,AF1082,Paris/CDG,Air France,2,"","",2020-12-04 14:26:06 +0100,2020-12-04 14:26:06 +0100,true,,5fca38b62d38cdb512cbe191,E90
 2920777,a,2020-12-05 15:50:00 +0100,FR1013,London/STANSTED,Ryanair,1,"","",2020-12-04 15:51:07 +0100,2020-12-04 15:51:07 +0100,true,,5fca4ca22d38cdb512cbed0c,73H
 2920778,a,2020-12-05 16:15:00 +0100,FR3039,Barcelona,Ryanair,2,"","",2020-12-04 16:16:06 +0100,2020-12-04 16:16:06 +0100,true,,5fca52742d38cdb512cbed20,73H
