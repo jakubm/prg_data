@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2920899,a,2020-12-07 09:10:00 +0100,EZY1801,Manchester,Easyjet,1,"",Arrived 09:05,2020-12-06 09:11:06 +0100,2020-12-07 09:07:06 +0100,true,2020-12-07 09:05:00 +0100,5fcc91e22d38cdb512cc2b8d,32N
-2920901,a,2020-12-07 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2020-12-06 10:56:07 +0100,2020-12-06 10:56:07 +0100,true,,5fccaa742d38cdb512cc304a,73H
+2920901,a,2020-12-07 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 10:45,2020-12-06 10:56:07 +0100,2020-12-07 09:34:06 +0100,true,2020-12-07 10:45:00 +0100,5fccaa742d38cdb512cc304a,73W
 2920922,a,2020-12-07 16:35:00 +0100,OK0919,Kyiv/BORYSPIL,Czech Airlines,1,"","",2020-12-06 16:36:06 +0100,2020-12-06 16:36:06 +0100,true,,5fccfa242d38cdb512cc5ee1,73H
 2920924,a,2020-12-07 16:40:00 +0100,OK0651,London/HEATHROW,Czech Airlines,1,"","",2020-12-06 16:41:06 +0100,2020-12-06 16:41:06 +0100,true,,5fccfb5a2d38cdb512cc5ef1,73G
 2920934,a,2020-12-07 17:10:00 +0100,LO1521,Ostrava,Lot Polish Airlines,2,"","",2020-12-06 17:11:06 +0100,2020-12-06 17:11:06 +0100,true,,5fcd02582d38cdb512cc6096,DH4
