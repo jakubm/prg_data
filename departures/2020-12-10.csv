@@ -11,3 +11,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2921151,d,2020-12-10 17:25:00 +0100,OK0618,Amsterdam,Czech Airlines,2,C2,"",2020-12-09 17:26:06 +0100,2020-12-09 17:26:06 +0100,true,,5fd0fa5c36d04ed41d979bce,73G
 2921167,d,2020-12-10 17:45:00 +0100,OK0508,Copenhagen,Czech Airlines,2,C14,"",2020-12-09 17:46:06 +0100,2020-12-09 17:46:06 +0100,true,,5fd0ff1636d04ed41d979cce,AT7
 2921173,d,2020-12-10 18:50:00 +0100,LO1522,Ostrava,Lot Polish Airlines,2,C22,"",2020-12-09 18:51:06 +0100,2020-12-09 18:51:06 +0100,true,,5fd10e4836d04ed41d979d0a,DH4
+2921185,d,2020-12-11 00:45:00 +0100,KLJ0184,Milan/MALPENSA,Klasjet,3,1,"",2020-12-10 00:46:06 +0100,2020-12-10 00:46:06 +0100,true,,5fd1617c36d04ed41d979f5b,735
