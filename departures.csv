@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2921100,d,2020-12-10 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Boarding,2020-12-09 06:11:06 +0100,2020-12-10 05:38:05 +0100,true,,5fd05c3236d04ed41d9776fe,73W
+2921100,d,2020-12-10 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Last call,2020-12-09 06:11:06 +0100,2020-12-10 05:55:06 +0100,true,,5fd05c3236d04ed41d9776fe,73W
 2921115,d,2020-12-10 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C9,"",2020-12-09 10:41:05 +0100,2020-12-09 10:41:05 +0100,true,,5fd09b7036d04ed41d97834f,E90
 2921120,d,2020-12-10 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B7,"",2020-12-09 11:36:06 +0100,2020-12-09 11:36:06 +0100,true,,5fd0a85436d04ed41d978a5b,320
 2921123,d,2020-12-10 11:40:00 +0100,OK0650,London/HEATHROW,Czech Airlines,1,B8,"",2020-12-09 11:41:06 +0100,2020-12-09 11:41:06 +0100,true,,5fd0a98036d04ed41d978a5c,73H
