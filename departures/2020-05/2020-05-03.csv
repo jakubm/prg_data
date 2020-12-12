@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890646,d,2020-05-03 13:50:00 +0200,B20862,Minsk,Belavia,1,B5,Departed 13:44,2020-05-02 13:51:11 +0200,2020-05-03 13:54:11 +0200,true,2020-05-03 13:44:00 +0200,5ead5e72bebc8d4357a29fdd,735
+2890648,d,2020-05-03 16:50:00 +0200,FB0302,Sofia,Bulgaria Air,1,B1,Departed 16:38,2020-05-02 16:51:11 +0200,2020-05-03 16:48:10 +0200,true,2020-05-03 16:38:00 +0200,5ead8898bebc8d4357a29ffb,E90
+2890650,d,2020-05-03 20:20:00 +0200,EW9771,Dusseldorf,Eurowings Ag,2,D2,Departed 20:10,2020-05-02 20:21:12 +0200,2020-05-03 20:20:08 +0200,true,2020-05-03 20:10:00 +0200,5eadb9d0bebc8d4357a2a01d,319

@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890444,d,2020-03-30 09:15:00 +0200,PQ0892,Kyiv/BORYSPIL,Skyup Airlines,1,"",Cancelled,2020-03-29 09:16:04 +0200,2020-03-29 09:16:04 +0200,true,,5e804af4bebcb54d3b0c5070,739
+2890448,d,2020-03-30 13:50:00 +0200,B20862,Minsk,Belavia,1,B4,Departed 13:39,2020-03-29 13:51:04 +0200,2020-03-30 13:49:04 +0200,true,2020-03-30 13:39:00 +0200,5e808b68bebcb54d3b0c52da,E95
+2890449,d,2020-03-30 17:20:00 +0200,QR0292,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,B8,Departed 17:07,2020-03-29 17:21:04 +0200,2020-03-30 17:22:03 +0200,true,2020-03-30 17:07:00 +0200,5e80bca0bebcb54d3b0c53a9,32A

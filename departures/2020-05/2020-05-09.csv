@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890690,d,2020-05-09 11:10:00 +0200,PQ0892,Kyiv/BORYSPIL,Skyup Airlines,1,B7,Departed 11:52,2020-05-08 11:11:09 +0200,2020-05-09 11:59:12 +0200,true,2020-05-09 11:52:00 +0200,5eb521e8bebc8c7c259e3eda,73H
+2890691,d,2020-05-09 11:15:00 +0200,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,D1,Departed 11:09,2020-05-08 11:16:09 +0200,2020-05-09 11:17:08 +0200,true,2020-05-09 11:09:00 +0200,5eb52315bebc8c7c259e3edd,E75
+2890696,d,2020-05-09 13:50:00 +0200,B20862,Minsk,Belavia,1,B7,Departed 15:16,2020-05-08 13:51:09 +0200,2020-05-09 15:26:08 +0200,true,2020-05-09 15:16:00 +0200,5eb54768bebc8c7c259e3f20,E75

@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890595,a,2020-04-23 07:40:00 +0200,MU0707,Shanghai/PUDONG,China Eastern Airlines,1,"",Arrived 06:56,2020-04-22 07:41:09 +0200,2020-04-23 06:59:09 +0200,true,2020-04-23 06:56:00 +0200,5e9fd8b0bebc8d4357a28935,332
+2890598,a,2020-04-23 12:00:00 +0200,MJ8764,Tbilisi,Myway Airlines,1,"",Arrived 11:42,2020-04-22 12:01:14 +0200,2020-04-23 11:44:12 +0200,true,2020-04-23 11:42:00 +0200,5ea015a1bebc8d4357a28969,738
+2890599,a,2020-04-23 13:05:00 +0200,B20861,Minsk,Belavia,1,"",Arrived 12:44,2020-04-22 13:05:14 +0200,2020-04-23 12:46:10 +0200,true,2020-04-23 12:44:00 +0200,5ea024dcbebc8d4357a28975,E75

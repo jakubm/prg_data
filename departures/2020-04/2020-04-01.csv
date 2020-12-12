@@ -1,0 +1,5 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890458,d,2020-04-01 09:00:00 +0200,OK6400,Chisinau International,Czech Airlines,1,B8,Cancelled,2020-03-31 09:01:03 +0200,2020-03-31 21:37:03 +0200,true,,5e82ea712d3887d28628e1c7,320
+2890459,d,2020-04-01 10:40:00 +0200,MU0708,Shanghai/PUDONG,China Eastern Airlines,1,"",Departed 09:00,2020-03-31 10:41:04 +0200,2020-04-01 09:13:04 +0200,true,2020-04-01 09:00:00 +0200,5e8301e02d3887d28628e1e5,332
+2890471,d,2020-04-01 12:00:00 +0200,EJUC0701,Boston,Eclair Aviation,3,1,"",2020-04-01 13:17:04 +0200,2020-04-01 13:29:03 +0200,true,,5e8477fa2d3887d28628e489,GL6
+2890461,d,2020-04-01 12:20:00 +0200,JU4611,Belgrade,Air Serbia,1,B8,Cancelled,2020-03-31 12:21:03 +0200,2020-03-31 12:21:03 +0200,true,,5e8319502d3887d28628e202,319

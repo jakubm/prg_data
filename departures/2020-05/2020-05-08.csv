@@ -1,0 +1,3 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890681,d,2020-05-08 11:15:00 +0200,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,D1,Departed 11:06,2020-05-07 11:16:08 +0200,2020-05-08 11:17:09 +0200,true,2020-05-08 11:06:00 +0200,5eb3d194bebc8c7c259e3a27,E75
+2890686,d,2020-05-08 14:15:00 +0200,FB0302,Sofia,Bulgaria Air,1,B7,Departed 14:36,2020-05-07 14:16:09 +0200,2020-05-08 14:45:10 +0200,true,2020-05-08 14:36:00 +0200,5eb3fbc4bebc8c7c259e3a73,E90

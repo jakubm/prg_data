@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890738,d,2020-05-15 11:15:00 +0200,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,D3,Departed 11:07,2020-05-14 11:16:11 +0200,2020-05-15 11:16:10 +0200,true,2020-05-15 11:07:00 +0200,5ebd0c14bebc8c7c259e5b41,E75
+2890743,d,2020-05-15 12:00:00 +0200,FB0301,Zurich,Bulgaria Air,1,B7,Departed 11:50,2020-05-14 12:01:10 +0200,2020-05-15 12:02:10 +0200,true,2020-05-15 11:50:00 +0200,5ebd16a0bebc8c7c259e5b55,E90
+2890744,d,2020-05-15 15:10:00 +0200,KE9936,Seoul/INCHEON,Korean Air,1,B8,Departed 14:59,2020-05-14 15:11:09 +0200,2020-05-15 15:17:10 +0200,true,2020-05-15 14:59:00 +0200,5ebd4328bebc8c7c259e5bc6,789

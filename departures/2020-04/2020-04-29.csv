@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890618,d,2020-04-29 07:00:00 +0200,OK0616,Amsterdam,Czech Airlines,2,"",Cancelled,2020-04-28 07:01:10 +0200,2020-04-28 07:01:10 +0200,true,,5ea7b851bebc8d4357a291ed,73H
+2890626,d,2020-04-29 10:40:00 +0200,MU0708,Shanghai/PUDONG,China Eastern Airlines,1,"",Departed 09:42,2020-04-28 10:41:12 +0200,2020-04-29 09:54:11 +0200,true,2020-04-29 09:42:00 +0200,5ea7ebe0bebc8d4357a2925b,332
+2890628,d,2020-04-29 18:50:00 +0200,KE0936,Seoul/INCHEON,Korean Air,1,B8,Departed 18:41,2020-04-28 18:51:11 +0200,2020-04-29 18:54:12 +0200,true,2020-04-29 18:41:00 +0200,5ea85eb8bebc8d4357a29437,789

@@ -1,0 +1,5 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2891053,d,2020-05-22 07:10:00 +0200,OK0534,Frankfurt,Czech Airlines,2,C13,Departed 07:21,2020-05-21 07:11:08 +0200,2020-05-22 07:28:08 +0200,true,2020-05-22 07:21:00 +0200,5ec60d28bebc8c7c259e9daf,AT7
+2891070,d,2020-05-22 11:15:00 +0200,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,D3,Departed 10:57,2020-05-21 11:15:09 +0200,2020-05-22 11:04:11 +0200,true,2020-05-22 10:57:00 +0200,5ec64694bebc8c7c259ea1ab,E75
+2891075,d,2020-05-22 14:15:00 +0200,FB0302,Sofia,Bulgaria Air,1,B7,Departed 14:11,2020-05-21 14:15:11 +0200,2020-05-22 14:24:10 +0200,true,2020-05-22 14:11:00 +0200,5ec670c4bebc8c7c259ea5a4,E90
+2891076,d,2020-05-22 17:25:00 +0200,OK0618,Amsterdam,Czech Airlines,2,D1,Departed 17:24,2020-05-21 17:25:09 +0200,2020-05-22 17:33:09 +0200,true,2020-05-22 17:24:00 +0200,5ec69d4cbebc8c7c259ea8f0,319

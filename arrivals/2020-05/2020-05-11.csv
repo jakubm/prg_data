@@ -1,0 +1,3 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890707,a,2020-05-11 10:40:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Arrived 10:39,2020-05-10 10:41:08 +0200,2020-05-11 10:42:08 +0200,true,2020-05-11 10:39:00 +0200,5eb7bde0bebc8c7c259e471c,E75
+2890713,a,2020-05-11 13:05:00 +0200,B20861,Minsk,Belavia,1,"",Arrived 13:07,2020-05-10 13:06:09 +0200,2020-05-11 13:09:09 +0200,true,2020-05-11 13:07:00 +0200,5eb7dfdcbebc8c7c259e48fb,E75

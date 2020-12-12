@@ -1,0 +1,3 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890592,a,2020-04-22 07:40:00 +0200,MU0707,Shanghai/PUDONG,China Eastern Airlines,1,"",Arrived 07:16,2020-04-21 07:40:14 +0200,2020-04-22 07:17:11 +0200,true,2020-04-22 07:16:00 +0200,5e9e8730bebc8d4357a2825f,332
+2890594,a,2020-04-22 20:10:00 +0200,ENT0270,Tel Aviv/BEN GURION,Enter Air Sp Z.o.o.,1,"",Cancelled,2020-04-21 20:10:15 +0200,2020-04-21 20:10:15 +0200,true,,5e9f36f8bebc8d4357a288b2,738
