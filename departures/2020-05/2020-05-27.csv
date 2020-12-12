@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2891279,d,2020-05-27 11:15:00 +0200,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,D3,Departed 11:14,2020-05-26 11:16:08 +0200,2020-05-27 11:29:08 +0200,true,2020-05-27 11:14:00 +0200,5eccde14bebc8c7c259edc87,E75
+2891283,d,2020-05-27 17:15:00 +0200,OK0618,Amsterdam,Czech Airlines,2,C12,Departed 17:15,2020-05-26 17:16:08 +0200,2020-05-27 17:22:07 +0200,true,2020-05-27 17:15:00 +0200,5ecd3274bebc8c7c259edf11,AT7
+2891290,d,2020-05-27 17:35:00 +0200,OK0536,Frankfurt,Czech Airlines,2,C14,Departed 17:31,2020-05-26 17:36:07 +0200,2020-05-27 17:38:07 +0200,true,2020-05-27 17:31:00 +0200,5ecd3724bebc8c7c259edf1a,AT7

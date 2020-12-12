@@ -1,0 +1,2 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890603,a,2020-04-25 06:00:00 +0200,MU0707,Shanghai/PUDONG,China Eastern Airlines,1,"",Arrived 05:37,2020-04-24 06:01:08 +0200,2020-04-25 05:39:13 +0200,true,2020-04-25 05:37:00 +0200,5ea2644abebc8d4357a28c85,332

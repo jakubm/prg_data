@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890539,a,2020-04-12 07:40:00 +0200,MU0707,Shanghai/PUDONG,China Eastern Airlines,1,"",Cancelled,2020-04-11 07:41:03 +0200,2020-04-11 07:41:03 +0200,true,,5e915830bebc8d4357a2671c,332
+2890541,a,2020-04-12 13:05:00 +0200,B20861,Minsk,Belavia,1,"",Arrived 12:49,2020-04-11 13:06:03 +0200,2020-04-12 12:52:04 +0200,true,2020-04-12 12:49:00 +0200,5e91a45cbebc8d4357a26768,E95
+2890543,a,2020-04-12 14:30:00 +0200,FB0301,Sofia,Bulgaria Air,1,"",Arrived 14:12,2020-04-11 14:31:04 +0200,2020-04-12 14:15:04 +0200,true,2020-04-12 14:12:00 +0200,5e91b848bebc8d4357a2678f,E90

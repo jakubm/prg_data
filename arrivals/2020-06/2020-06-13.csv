@@ -1,0 +1,5 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2892170,a,2020-06-13 15:50:00 +0200,LH1400,Frankfurt,Lufthansa,2,"",Arrived 15:58,2020-06-12 15:51:07 +0200,2020-06-13 16:01:07 +0200,true,2020-06-13 15:58:00 +0200,5ee388082d38b4777fbe534b,E90
+2892175,a,2020-06-13 16:15:00 +0200,QS1083,Split,SmartWings,1,"",Arrived 15:50,2020-06-12 16:16:08 +0200,2020-06-13 15:53:07 +0200,true,2020-06-13 15:50:00 +0200,5ee38de52d38b4777fbe537c,73G
+2892183,a,2020-06-13 17:15:00 +0200,OK0761,Paris/CDG,Czech Airlines,2,"",Arrived 17:03,2020-06-12 17:16:07 +0200,2020-06-13 17:05:06 +0200,true,2020-06-13 17:03:00 +0200,5ee39bf52d38b4777fbe55a0,AT7
+2892248,a,2020-06-13 20:45:00 +0200,TIE0339Y,Brno,Time Air,3,"",Expected,2020-06-13 20:19:06 +0200,2020-06-13 20:19:06 +0200,true,,5ee518622d38b4777fbe685d,BE4

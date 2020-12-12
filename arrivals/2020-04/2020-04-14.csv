@@ -1,0 +1,6 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890549,a,2020-04-14 06:00:00 +0200,MU0707,Shanghai/PUDONG,China Eastern Airlines,1,"",Arrived 05:29,2020-04-13 06:01:04 +0200,2020-04-14 05:31:03 +0200,true,2020-04-14 05:29:00 +0200,5e93e3cabebc8d4357a26be1,332
+2890555,a,2020-04-14 08:00:00 +0200,JU4610,Belgrade,Air Serbia,1,"","",2020-04-14 05:02:04 +0200,2020-04-14 05:02:04 +0200,true,,5e952780bebc8d4357a26dca,319
+2890556,a,2020-04-14 08:00:00 +0200,JU4610,Belgrade,Air Serbia,1,"",Arrived 07:54,2020-04-14 06:46:03 +0200,2020-04-14 07:56:03 +0200,true,2020-04-14 07:54:00 +0200,5e953fd6bebc8d4357a26de3,319
+2890551,a,2020-04-14 16:50:00 +0200,FIA0765R,Chisinau International,Flyone,1,"",Cancelled,2020-04-13 16:51:04 +0200,2020-04-13 16:51:04 +0200,true,,5e947c18bebc8d4357a26d1a,320
+2890552,a,2020-04-14 16:55:00 +0200,KE9935,Seoul/INCHEON,Korean Air,1,"",Arrived 16:10,2020-04-13 16:56:04 +0200,2020-04-14 16:13:03 +0200,true,2020-04-14 16:10:00 +0200,5e947d44bebc8d4357a26d1c,74H

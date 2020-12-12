@@ -1,0 +1,6 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2891562,d,2020-06-02 11:15:00 +0200,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C2,Departed 11:07,2020-06-01 11:16:06 +0200,2020-06-02 11:16:07 +0200,true,2020-06-02 11:07:00 +0200,5ed4c714bebc8c7c259f2686,E75
+2891567,d,2020-06-02 14:15:00 +0200,FB0302,Sofia,Bulgaria Air,1,B1,Departed 13:59,2020-06-01 14:16:06 +0200,2020-06-02 14:07:06 +0200,true,2020-06-02 13:59:00 +0200,5ed4f144bebc8c7c259f2f4b,E90
+2891574,d,2020-06-02 16:45:00 +0200,LH1401,Frankfurt,Lufthansa,2,C9,Departed 17:00,2020-06-01 16:46:07 +0200,2020-06-02 17:10:08 +0200,true,2020-06-02 17:00:00 +0200,5ed5146dbebc8c7c259f2fb9,E90
+2891581,d,2020-06-02 17:25:00 +0200,OK0618,Amsterdam,Czech Airlines,2,C12,Departed 17:24,2020-06-01 17:26:07 +0200,2020-06-02 17:31:07 +0200,true,2020-06-02 17:24:00 +0200,5ed51dccbebc8c7c259f3148,319
+2891573,d,2020-06-02 18:20:00 +0200,7R5512,Krasnodar,Rusline,1,B14,Cancelled,2020-06-01 15:56:07 +0200,2020-06-02 13:52:06 +0200,true,,5ed508b4bebc8c7c259f2fa4,CR1

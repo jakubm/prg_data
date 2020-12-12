@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890513,d,2020-04-07 10:40:00 +0200,MU0708,Shanghai/PUDONG,China Eastern Airlines,1,"",Departed 08:13,2020-04-06 10:41:04 +0200,2020-04-07 08:28:04 +0200,true,2020-04-07 08:13:00 +0200,5e8aeae02d3887d28628feb6,332
+2890515,d,2020-04-07 14:40:00 +0200,FIA0766R,Chisinau International,Flyone,1,B3,Cancelled,2020-04-06 14:41:04 +0200,2020-04-06 14:41:04 +0200,true,,5e8b232a2d3887d28628fef6,320
+2890517,d,2020-04-07 17:20:00 +0200,QR0292,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,B8,Departed 18:00,2020-04-06 17:21:04 +0200,2020-04-07 18:14:04 +0200,true,2020-04-07 18:00:00 +0200,5e8b48a92d3887d28628ff23,32A

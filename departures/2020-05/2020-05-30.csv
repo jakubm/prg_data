@@ -1,0 +1,5 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2891403,d,2020-05-30 10:10:00 +0200,PQ0892,Kyiv/BORYSPIL,Skyup Airlines,1,B4,Departed 10:08,2020-05-29 10:11:07 +0200,2020-05-30 10:24:06 +0200,true,2020-05-30 10:08:00 +0200,5ed0c358bebc8c7c259ef976,73W
+2891406,d,2020-05-30 11:15:00 +0200,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,D3,Departed 11:22,2020-05-29 11:16:07 +0200,2020-05-30 11:31:06 +0200,true,2020-05-30 11:22:00 +0200,5ed0d294bebc8c7c259efb08,E75
+2891410,d,2020-05-30 12:30:00 +0200,OK0760,Paris/CDG,Czech Airlines,2,C13,Departed 12:29,2020-05-29 12:31:07 +0200,2020-05-30 12:35:06 +0200,true,2020-05-30 12:29:00 +0200,5ed0e428bebc8c7c259efc3a,AT7
+2891417,d,2020-05-30 18:00:00 +0200,7R5512,Krasnodar,Rusline,1,B13,Cancelled,2020-05-29 15:31:07 +0200,2020-05-30 14:42:06 +0200,true,,5ed10e58bebc8c7c259efcb7,CR1

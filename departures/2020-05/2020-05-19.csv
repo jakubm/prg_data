@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890855,d,2020-05-19 11:15:00 +0200,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,D3,Departed 11:10,2020-05-18 11:16:10 +0200,2020-05-19 11:20:09 +0200,true,2020-05-19 11:10:00 +0200,5ec25214bebc8c7c259e7873,E75
+2890859,d,2020-05-19 14:00:00 +0200,LN0179,Misurata Airport,Libyan Airlines,1,B8,Departed 15:06,2020-05-18 14:01:08 +0200,2020-05-19 15:20:07 +0200,true,2020-05-19 15:06:00 +0200,5ec278c0bebc8c7c259e7a57,320
+2890860,d,2020-05-19 17:25:00 +0200,OK0618,Amsterdam,Czech Airlines,2,D6,Departed 17:23,2020-05-18 17:26:11 +0200,2020-05-19 17:35:08 +0200,true,2020-05-19 17:23:00 +0200,5ec2a8ccbebc8c7c259e7db7,319

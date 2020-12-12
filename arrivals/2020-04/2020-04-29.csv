@@ -1,0 +1,3 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890625,a,2020-04-29 07:40:00 +0200,MU0707,Shanghai/PUDONG,China Eastern Airlines,1,"",Arrived 07:28,2020-04-28 07:41:09 +0200,2020-04-29 07:30:10 +0200,true,2020-04-29 07:28:00 +0200,5ea7c1b0bebc8d4357a291f3,332
+2890627,a,2020-04-29 16:50:00 +0200,OK6407,Wroclaw,Czech Airlines,2,"",Arrived 16:24,2020-04-28 16:51:10 +0200,2020-04-29 16:27:11 +0200,true,2020-04-29 16:24:00 +0200,5ea84298bebc8d4357a29421,AT7

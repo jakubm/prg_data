@@ -1,0 +1,7 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2891308,a,2020-05-28 10:40:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Arrived 10:41,2020-05-27 10:41:08 +0200,2020-05-28 10:44:07 +0200,true,2020-05-28 10:41:00 +0200,5ece2760bebc8c7c259ee0fa,E75
+2891321,a,2020-05-28 11:50:00 +0200,OK0617,Amsterdam,Czech Airlines,2,"",Arrived 11:31,2020-05-27 11:51:08 +0200,2020-05-28 11:33:08 +0200,true,2020-05-28 11:31:00 +0200,5ece37c8bebc8c7c259ee18d,AT7
+2891336,a,2020-05-28 16:15:00 +0200,OK0803,Bucharest,Czech Airlines,1,"",Arrived 16:00,2020-05-27 16:16:06 +0200,2020-05-28 16:02:08 +0200,true,2020-05-28 16:00:00 +0200,5ece75e4bebc8c7c259ee259,73G
+2891338,a,2020-05-28 16:25:00 +0200,OK0491,Stockholm/ARLANDA,Czech Airlines,2,"",Arrived 16:09,2020-05-27 16:26:07 +0200,2020-05-28 16:12:07 +0200,true,2020-05-28 16:09:00 +0200,5ece783cbebc8c7c259ee262,73G
+2891341,a,2020-05-28 16:45:00 +0200,OK0761,Paris/CDG,Czech Airlines,2,"",Arrived 17:16,2020-05-27 16:46:07 +0200,2020-05-28 17:18:06 +0200,true,2020-05-28 17:16:00 +0200,5ece7cecbebc8c7c259ee2d7,319
+2891356,a,2020-05-28 22:05:00 +0200,OK0619,Amsterdam,Czech Airlines,2,"",Arrived 21:59,2020-05-27 22:06:07 +0200,2020-05-28 22:02:08 +0200,true,2020-05-28 21:59:00 +0200,5ecec7ecbebc8c7c259ee97f,AT7

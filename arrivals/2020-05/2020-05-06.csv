@@ -1,0 +1,2 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890665,a,2020-05-06 10:40:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Arrived 10:36,2020-05-05 10:41:09 +0200,2020-05-06 10:38:10 +0200,true,2020-05-06 10:36:00 +0200,5eb126602d38f4f2973beaf2,E75

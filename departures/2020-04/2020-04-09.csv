@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890524,d,2020-04-09 10:40:00 +0200,MU0708,Shanghai/PUDONG,China Eastern Airlines,1,B8,Departed 08:55,2020-04-08 10:41:04 +0200,2020-04-09 09:06:04 +0200,true,2020-04-09 08:55:00 +0200,5e8d8de0bebc8d4357a25f09,332
+2890531,d,2020-04-09 13:30:00 +0200,JBC0866A,Skopje,Jet Bee Czech,1,"","",2020-04-09 12:04:04 +0200,2020-04-09 12:04:04 +0200,true,,5e8ef310bebc8d4357a2617b,BE4
+2890526,d,2020-04-09 17:20:00 +0200,QR0292,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,B8,Departed 17:59,2020-04-08 17:21:04 +0200,2020-04-09 18:12:04 +0200,true,2020-04-09 17:59:00 +0200,5e8debaabebc8d4357a2603c,32A

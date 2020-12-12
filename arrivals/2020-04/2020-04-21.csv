@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890586,a,2020-04-21 06:00:00 +0200,MU0707,Shanghai/PUDONG,China Eastern Airlines,1,"",Arrived 05:34,2020-04-20 06:01:10 +0200,2020-04-21 05:36:10 +0200,true,2020-04-21 05:34:00 +0200,5e9d1e40bebc8d4357a28091,332
+2890588,a,2020-04-21 13:30:00 +0200,FB0302,Zurich,Bulgaria Air,1,"",Arrived 13:05,2020-04-20 13:31:10 +0200,2020-04-21 13:07:10 +0200,true,2020-04-21 13:05:00 +0200,5e9d87b9bebc8d4357a28187,E90
+2890589,a,2020-04-21 14:10:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"",Arrived 14:06,2020-04-20 14:10:11 +0200,2020-04-21 14:08:11 +0200,true,2020-04-21 14:06:00 +0200,5e9d9118bebc8d4357a28190,32B

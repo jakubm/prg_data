@@ -1,0 +1,3 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890630,d,2020-04-30 10:40:00 +0200,MU0708,Shanghai/PUDONG,China Eastern Airlines,1,"",Departed 10:54,2020-04-29 10:41:10 +0200,2020-04-30 11:11:12 +0200,true,2020-04-30 10:54:00 +0200,5ea93d60bebc8d4357a294e9,332
+2890632,d,2020-04-30 13:50:00 +0200,B20862,Minsk,Belavia,1,"",Cancelled,2020-04-29 13:51:12 +0200,2020-04-29 13:51:12 +0200,true,,5ea969f2bebc8d4357a2950b,E95

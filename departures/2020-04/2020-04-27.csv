@@ -1,0 +1,3 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890610,d,2020-04-27 10:00:00 +0200,MJ8765,Tbilisi,Myway Airlines,1,"",Cancelled,2020-04-26 10:01:14 +0200,2020-04-26 10:01:14 +0200,true,,5ea53f80bebc8d4357a28f37,738
+2890611,d,2020-04-27 10:40:00 +0200,MU0708,Shanghai/PUDONG,China Eastern Airlines,1,B3,Departed 09:33,2020-04-26 10:41:10 +0200,2020-04-27 09:45:12 +0200,true,2020-04-27 09:33:00 +0200,5ea548e0bebc8d4357a28f3d,332

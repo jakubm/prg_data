@@ -1,0 +1,3 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890523,a,2020-04-09 07:40:00 +0200,MU0707,Shanghai/PUDONG,China Eastern Airlines,1,"",Arrived 06:47,2020-04-08 07:41:04 +0200,2020-04-09 06:50:04 +0200,true,2020-04-09 06:47:00 +0200,5e8d63b0bebc8d4357a25eda,332
+2890525,a,2020-04-09 16:20:00 +0200,QR0291,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"",Arrived 16:30,2020-04-08 16:21:04 +0200,2020-04-09 16:33:04 +0200,true,2020-04-09 16:30:00 +0200,5e8ddd9abebc8d4357a2602c,32A

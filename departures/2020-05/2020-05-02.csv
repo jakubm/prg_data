@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2890640,d,2020-05-02 10:40:00 +0200,MU0708,Shanghai/PUDONG,China Eastern Airlines,1,"",Departed 09:22,2020-05-01 10:41:09 +0200,2020-05-02 09:33:10 +0200,true,2020-05-02 09:22:00 +0200,5eabe060bebc8d4357a29901,332
+2890642,d,2020-05-02 12:10:00 +0200,A90788,Batumi,Georgian Airways,1,B7,Departed 13:47,2020-05-01 12:11:11 +0200,2020-05-02 13:54:10 +0200,true,2020-05-02 13:47:00 +0200,5eabf578bebc8d4357a29926,E95
+2890644,d,2020-05-02 13:50:00 +0200,B20862,Minsk,Belavia,1,B5,Departed 13:38,2020-05-01 13:51:12 +0200,2020-05-02 13:47:10 +0200,true,2020-05-02 13:38:00 +0200,5eac0ce8bebc8d4357a29b8e,E95

@@ -1,0 +1,4 @@
+id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2891775,a,2020-06-06 10:40:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Arrived 10:21,2020-06-05 10:41:07 +0200,2020-06-06 10:23:07 +0200,true,2020-06-06 10:21:00 +0200,5eda04e0bebc8c7c259f748a,E90
+2891788,a,2020-06-06 15:50:00 +0200,LH1400,Frankfurt,Lufthansa,2,"",Arrived 15:48,2020-06-05 15:51:07 +0200,2020-06-06 15:50:06 +0200,true,2020-06-06 15:48:00 +0200,5eda4d92bebc8c7c259f7d9a,E90
+2891808,a,2020-06-06 17:15:00 +0200,OK0761,Paris/CDG,Czech Airlines,2,"",Arrived 16:59,2020-06-05 17:16:09 +0200,2020-06-06 17:02:07 +0200,true,2020-06-06 16:59:00 +0200,5eda6174bebc8c7c259f8006,AT7
