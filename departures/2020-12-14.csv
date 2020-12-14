@@ -12,4 +12,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2921509,d,2020-12-14 17:05:00 +0100,OK0618,Amsterdam,Czech Airlines,2,C14,Gate closed,2020-12-13 17:06:06 +0100,2020-12-14 16:41:05 +0100,true,,5fd63bb636d04ed41d988388,AT7
 2921526,d,2020-12-14 17:45:00 +0100,LO1522,Ostrava,Lot Polish Airlines,2,C22,Gate open,2020-12-13 17:47:05 +0100,2020-12-14 16:33:06 +0100,true,,5fd6451636d04ed41d988631,DH4
 2921527,d,2020-12-14 18:15:00 +0100,OK0508,Copenhagen,Czech Airlines,2,C13,Check-in,2020-12-13 18:17:06 +0100,2020-12-14 15:35:05 +0100,true,,5fd64c1e36d04ed41d988667,AT7
-2921533,d,2020-12-14 19:10:00 +0100,TK1770,Istanbul Airport,Turkish Airlines,1,B7,"",2020-12-13 19:11:05 +0100,2020-12-13 19:11:05 +0100,true,,5fd658f836d04ed41d9888b6,319
+2921533,d,2020-12-14 19:10:00 +0100,TK1770,Istanbul Airport,Turkish Airlines,1,B7,Check-in,2020-12-13 19:11:05 +0100,2020-12-14 16:54:09 +0100,true,,5fd658f836d04ed41d9888b6,319
