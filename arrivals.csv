@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2921551,a,2020-12-15 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"",Expected 09:55,2020-12-14 10:01:05 +0100,2020-12-15 09:44:06 +0100,true,2020-12-15 09:55:00 +0100,5fd7299236d04ed41d9891e7,CR9
+2921551,a,2020-12-15 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"",Arrived 09:56,2020-12-14 10:01:05 +0100,2020-12-15 09:58:06 +0100,true,2020-12-15 09:56:00 +0100,5fd7299236d04ed41d9891e7,CR9
 2921561,a,2020-12-15 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 10:45,2020-12-14 10:56:06 +0100,2020-12-15 09:45:06 +0100,true,2020-12-15 10:45:00 +0100,5fd7367436d04ed41d989601,E90
 2921568,a,2020-12-15 11:35:00 +0100,EN5052,Florence,Air Dolomiti,2,"","",2020-12-14 11:36:06 +0100,2020-12-14 11:36:06 +0100,true,,5fd73fde36d04ed41d989ecd,E95
 2921577,a,2020-12-15 13:20:00 +0100,PC0301,Istanbul/SABIHA GOKCEN,Pegasus Airlines,1,"","",2020-12-14 13:21:05 +0100,2020-12-14 13:21:05 +0100,true,,5fd7587036d04ed41d98a02d,738
