@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2921717,a,2020-12-17 03:30:00 +0100,OK7207,Glasgow,Czech Airlines,3,"",Expected 03:50,2020-12-16 03:31:06 +0100,2020-12-17 00:42:05 +0100,true,2020-12-17 03:50:00 +0100,5fd9712836d04ed41d98d85b,AT7
+2921717,a,2020-12-17 03:30:00 +0100,OK7207,Glasgow,Czech Airlines,3,"",Expected 03:40,2020-12-16 03:31:06 +0100,2020-12-17 03:35:06 +0100,true,2020-12-17 03:40:00 +0100,5fd9712836d04ed41d98d85b,AT7
 2921735,a,2020-12-17 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2020-12-16 10:01:06 +0100,2020-12-16 10:01:06 +0100,true,,5fd9cc9136d04ed41d98e25a,E90
 2921744,a,2020-12-17 10:15:00 +0100,BA0854,London/HEATHROW,British Airways,1,"","",2020-12-16 10:16:06 +0100,2020-12-16 10:16:06 +0100,true,,5fd9d01e36d04ed41d98e36a,320
 2921745,a,2020-12-17 10:35:00 +0100,OK0631,Brussels,Czech Airlines,2,"","",2020-12-16 10:36:06 +0100,2020-12-16 10:36:06 +0100,true,,5fd9d4c436d04ed41d98e6ee,73G
