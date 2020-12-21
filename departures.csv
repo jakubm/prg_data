@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2922484,d,2020-12-21 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate open,2020-12-20 06:11:06 +0100,2020-12-21 05:14:05 +0100,true,,5fdedcb236d04ed41d9a857b,73W
+2922484,d,2020-12-21 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Last call,2020-12-20 06:11:06 +0100,2020-12-21 05:50:05 +0100,true,,5fdedcb236d04ed41d9a857b,73W
 2922497,d,2020-12-21 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C15,Check-in,2020-12-20 07:01:06 +0100,2020-12-21 04:20:05 +0100,true,,5fdee86136d04ed41d9a861e,AT7
 2922493,d,2020-12-21 06:55:00 +0100,OK0630,Brussels,Czech Airlines,2,C14,Check-in,2020-12-20 06:56:06 +0100,2020-12-21 04:20:05 +0100,true,,5fdee73436d04ed41d9a8619,AT7
 2922504,d,2020-12-21 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Check-in,2020-12-20 07:06:06 +0100,2020-12-21 05:07:06 +0100,true,,5fdee98c36d04ed41d9a8623,221
