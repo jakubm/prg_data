@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2922676,d,2020-12-22 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 06:00,2020-12-21 06:11:06 +0100,2020-12-22 06:09:05 +0100,true,2020-12-22 06:00:00 +0100,5fe02e3136d04ed41d9b12b3,73W
 2922686,d,2020-12-22 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Departed 06:43,2020-12-21 06:45:06 +0100,2020-12-22 06:55:06 +0100,true,2020-12-22 06:43:00 +0100,5fe0365d36d04ed41d9b19ec,AT7
-2922693,d,2020-12-22 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Gate closed,2020-12-21 07:05:06 +0100,2020-12-22 06:53:05 +0100,true,,5fe03b0c36d04ed41d9b1a0d,221
+2922693,d,2020-12-22 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Departed 07:00,2020-12-21 07:05:06 +0100,2020-12-22 07:11:06 +0100,true,2020-12-22 07:00:00 +0100,5fe03b0c36d04ed41d9b1a0d,221
 2922696,d,2020-12-22 10:35:00 +0100,FR1053,Edinburgh,Ryanair,1,B10,"",2020-12-21 10:36:06 +0100,2020-12-21 10:36:06 +0100,true,,5fe06c4436d04ed41d9b2445,73H
 2922701,d,2020-12-22 11:00:00 +0100,BA0855,London/HEATHROW,British Airways,1,B7,"",2020-12-21 11:01:06 +0100,2020-12-21 11:01:06 +0100,true,,5fe0722136d04ed41d9b2efe,32N
 2922703,d,2020-12-22 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B8,"",2020-12-21 11:36:06 +0100,2020-12-21 11:36:06 +0100,true,,5fe07a5436d04ed41d9b3cd5,73H
