@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2922803,a,2020-12-23 06:10:00 +0100,OK0917,Kyiv/BORYSPIL,Czech Airlines,1,"",Expected 06:15,2020-12-22 06:11:06 +0100,2020-12-23 04:34:06 +0100,true,2020-12-23 06:15:00 +0100,5fe17fa836d04ed41d9b8020,73G
+2922803,a,2020-12-23 06:10:00 +0100,OK0917,Kyiv/BORYSPIL,Czech Airlines,1,"",Expected 06:10,2020-12-22 06:11:06 +0100,2020-12-23 05:19:06 +0100,true,2020-12-23 06:10:00 +0100,5fe17fa836d04ed41d9b8020,73G
 2922817,a,2020-12-23 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2020-12-22 08:51:05 +0100,2020-12-22 08:51:05 +0100,true,,5fe1a53236d04ed41d9b859b,73H
 2922819,a,2020-12-23 09:20:00 +0100,TO4030,Paris/ORLY,Transavia France,2,"","",2020-12-22 09:21:06 +0100,2020-12-22 09:21:06 +0100,true,,5fe1ac3036d04ed41d9b85fd,73H
 2922820,a,2020-12-23 09:30:00 +0100,KM0538,Malta,Air Malta,2,"","",2020-12-22 09:31:06 +0100,2020-12-22 09:31:06 +0100,true,,5fe1ae8936d04ed41d9b8607,320
