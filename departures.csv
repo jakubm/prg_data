@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2923072,d,2020-12-25 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Last call,2020-12-24 06:46:06 +0100,2020-12-25 06:29:05 +0100,true,,5fe42add36d04ed41d9c1d22,AT7
+2923072,d,2020-12-25 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Gate closed,2020-12-24 06:46:06 +0100,2020-12-25 06:36:05 +0100,true,,5fe42add36d04ed41d9c1d22,AT7
 2923079,d,2020-12-25 07:30:00 +0100,SM0425,Hurghada,Air Cairo,1,B8,Gate open,2020-12-24 07:31:05 +0100,2020-12-25 06:02:06 +0100,true,,5fe4356936d04ed41d9c1d3d,320
 2923085,d,2020-12-25 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C19,"",2020-12-24 11:01:06 +0100,2020-12-24 11:01:06 +0100,true,,5fe466a136d04ed41d9c22cc,DH4
 2923087,d,2020-12-25 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B7,"",2020-12-24 11:36:06 +0100,2020-12-24 11:36:06 +0100,true,,5fe46ed436d04ed41d9c2b77,73G
