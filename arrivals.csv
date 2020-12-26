@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2923150,a,2020-12-26 08:20:00 +0100,TO4030,Paris/ORLY,Transavia France,2,"",Expected 08:10,2020-12-25 08:21:05 +0100,2020-12-26 08:00:07 +0100,true,2020-12-26 08:10:00 +0100,5fe592a036d04ed41d9c3da6,73H
+2923150,a,2020-12-26 08:20:00 +0100,TO4030,Paris/ORLY,Transavia France,2,"",Arrived 08:11,2020-12-25 08:21:05 +0100,2020-12-26 08:14:05 +0100,true,2020-12-26 08:11:00 +0100,5fe592a036d04ed41d9c3da6,73H
 2923154,a,2020-12-26 09:55:00 +0100,FR1054,Edinburgh,Ryanair,1,"",Expected 09:55,2020-12-25 09:56:05 +0100,2020-12-26 07:59:05 +0100,true,2020-12-26 09:55:00 +0100,5fe5a8e436d04ed41d9c40cc,73H
 2923159,a,2020-12-26 10:55:00 +0100,OK0617,Amsterdam,Czech Airlines,2,"","",2020-12-25 10:56:05 +0100,2020-12-25 10:56:05 +0100,true,,5fe5b6f436d04ed41d9c43e3,320
 2923166,a,2020-12-26 10:55:00 +0100,OK0631,Brussels,Czech Airlines,2,"","",2020-12-25 10:56:05 +0100,2020-12-25 10:56:05 +0100,true,,5fe5b6f436d04ed41d9c43e4,AT7
