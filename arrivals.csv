@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2923538,a,2020-12-29 10:00:00 +0100,FR1054,Edinburgh,Ryanair,1,"","",2020-12-28 10:01:05 +0100,2020-12-28 10:01:05 +0100,true,,5fe99e9936d04ed41d9d7575,73H
+2923538,a,2020-12-29 10:00:00 +0100,FR1054,Edinburgh,Ryanair,1,"",Expected 10:35,2020-12-28 10:01:05 +0100,2020-12-29 08:58:05 +0100,true,2020-12-29 10:35:00 +0100,5fe99e9936d04ed41d9d7575,73H
 2923540,a,2020-12-29 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2020-12-28 10:56:05 +0100,2020-12-28 10:56:05 +0100,true,,5fe9ab7e36d04ed41d9d78f9,73W
 2923560,a,2020-12-29 13:20:00 +0100,PC0301,Istanbul/SABIHA GOKCEN,Pegasus Airlines,1,"","",2020-12-28 13:21:06 +0100,2020-12-28 13:21:06 +0100,true,,5fe9cd7036d04ed41d9d9344,320
 2923561,a,2020-12-29 13:55:00 +0100,FR3039,Barcelona,Ryanair,2,"","",2020-12-28 13:56:06 +0100,2020-12-28 13:56:06 +0100,true,,5fe9d5a436d04ed41d9d9428,73H
