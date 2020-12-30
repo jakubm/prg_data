@@ -1,9 +1,9 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2923607,d,2020-12-30 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 06:03,2020-12-29 06:11:05 +0100,2020-12-30 06:14:05 +0100,true,2020-12-30 06:03:00 +0100,5feaba2836d04ed41d9db401,73W
 2923616,d,2020-12-30 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B8,Boarding,2020-12-29 09:46:05 +0100,2020-12-30 08:38:05 +0100,true,,5feaec8c36d04ed41d9db7ff,73H
-2923620,d,2020-12-30 10:00:00 +0100,TO4031,Paris/ORLY,Transavia France,2,C9,Check-in,2020-12-29 10:01:05 +0100,2020-12-30 08:01:05 +0100,true,,5feaf01136d04ed41d9db822,73H
+2923620,d,2020-12-30 10:00:00 +0100,TO4031,Paris/ORLY,Transavia France,2,C9,Gate open,2020-12-29 10:01:05 +0100,2020-12-30 08:51:05 +0100,true,,5feaf01136d04ed41d9db822,73H
 2923622,d,2020-12-30 10:20:00 +0100,KM0539,Malta,Air Malta,2,C11,Check-in,2020-12-29 10:21:05 +0100,2020-12-30 08:21:05 +0100,true,,5feaf4c036d04ed41d9db945,32N
-2923624,d,2020-12-30 10:50:00 +0100,VY8653,Barcelona,Vueling,2,C7,"",2020-12-29 10:51:06 +0100,2020-12-29 10:51:06 +0100,true,,5feafbc836d04ed41d9dbbcd,320
+2923624,d,2020-12-30 10:50:00 +0100,VY8653,Barcelona,Vueling,2,C7,Check-in,2020-12-29 10:51:06 +0100,2020-12-30 08:53:05 +0100,true,,5feafbc836d04ed41d9dbbcd,32A
 2923629,d,2020-12-30 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C22,"",2020-12-29 11:01:06 +0100,2020-12-29 11:01:06 +0100,true,,5feafe2136d04ed41d9dbcb7,DH4
 2923631,d,2020-12-30 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B4,"",2020-12-29 11:36:05 +0100,2020-12-29 11:36:05 +0100,true,,5feb065436d04ed41d9dc2d6,73H
 2923634,d,2020-12-30 11:45:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2020-12-29 11:46:06 +0100,2020-12-29 11:46:06 +0100,true,,5feb08ad36d04ed41d9dc324,73W
