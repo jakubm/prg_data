@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2923607,d,2020-12-30 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Boarding,2020-12-29 06:11:05 +0100,2020-12-30 05:38:05 +0100,true,,5feaba2836d04ed41d9db401,73W
+2923607,d,2020-12-30 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate closed,2020-12-29 06:11:05 +0100,2020-12-30 05:56:05 +0100,true,,5feaba2836d04ed41d9db401,73W
 2923616,d,2020-12-30 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B8,"",2020-12-29 09:46:05 +0100,2020-12-29 10:04:05 +0100,true,,5feaec8c36d04ed41d9db7ff,73H
 2923620,d,2020-12-30 10:00:00 +0100,TO4031,Paris/ORLY,Transavia France,2,C9,"",2020-12-29 10:01:05 +0100,2020-12-29 10:05:05 +0100,true,,5feaf01136d04ed41d9db822,73H
 2923622,d,2020-12-30 10:20:00 +0100,KM0539,Malta,Air Malta,2,C11,"",2020-12-29 10:21:05 +0100,2020-12-29 10:21:05 +0100,true,,5feaf4c036d04ed41d9db945,320
