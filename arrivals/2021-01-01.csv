@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2923795,a,2021-01-01 06:30:00 +0100,SM0424,Hurghada,Air Cairo,1,"","",2020-12-31 06:31:05 +0100,2020-12-31 06:31:05 +0100,true,,5fed61d936d04ed41d9e365f,320
+2923795,a,2021-01-01 06:30:00 +0100,SM0424,Hurghada,Air Cairo,1,"",Expected 06:10,2020-12-31 06:31:05 +0100,2021-01-01 03:04:05 +0100,true,2021-01-01 06:10:00 +0100,5fed61d936d04ed41d9e365f,32A
 2923797,a,2021-01-01 10:25:00 +0100,LO1527,Ostrava,Lot Polish Airlines,2,"","",2020-12-31 10:26:05 +0100,2020-12-31 10:26:05 +0100,true,,5fed98ec36d04ed41d9e3805,DH4
 2923798,a,2021-01-01 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2020-12-31 10:56:06 +0100,2020-12-31 10:56:06 +0100,true,,5fed9ff436d04ed41d9e3856,73H
 2923815,a,2021-01-01 12:45:00 +0100,QR0291,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"","",2020-12-31 12:46:05 +0100,2020-12-31 12:46:05 +0100,true,,5fedb9bd36d04ed41d9e431a,788
