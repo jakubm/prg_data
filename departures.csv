@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2923796,d,2021-01-01 07:30:00 +0100,SM0425,Hurghada,Air Cairo,1,B7,Departed 07:31,2020-12-31 07:31:05 +0100,2021-01-01 07:40:05 +0100,true,2021-01-01 07:31:00 +0100,5fed6fe936d04ed41d9e36d9,32A
-2923802,d,2021-01-01 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C22,Gate open,2020-12-31 11:02:05 +0100,2021-01-01 09:51:05 +0100,true,,5feda12a36d04ed41d9e3870,DH4
+2923802,d,2021-01-01 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C22,Last call,2020-12-31 11:02:05 +0100,2021-01-01 10:42:05 +0100,true,,5feda12a36d04ed41d9e3870,DH4
 2923803,d,2021-01-01 11:45:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2020-12-31 11:46:06 +0100,2021-01-01 09:49:05 +0100,true,,5fedabad36d04ed41d9e4229,E90
 2923808,d,2021-01-01 12:00:00 +0100,OK0760,Paris/CDG,Czech Airlines,2,C14,Check-in,2020-12-31 12:01:05 +0100,2021-01-01 09:36:05 +0100,true,,5fedaf3236d04ed41d9e427b,AT7
 2923814,d,2021-01-01 12:00:00 +0100,QS2036,Tenerife/SUR,SmartWings,2,C9,Check-in,2020-12-31 12:01:05 +0100,2021-01-01 09:36:05 +0100,true,,5fedaf3236d04ed41d9e427c,73J
