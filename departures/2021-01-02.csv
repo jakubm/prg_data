@@ -1,8 +1,8 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2923877,d,2021-01-02 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 06:07,2021-01-01 06:11:06 +0100,2021-01-02 06:28:05 +0100,true,2021-01-02 06:07:00 +0100,5feeaeb236d04ed41d9e49ba,73W
 2923886,d,2021-01-02 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Gate closed,2021-01-01 06:46:06 +0100,2021-01-02 06:42:06 +0100,true,,5feeb6e536d04ed41d9e49e9,AT7
-2923893,d,2021-01-02 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Boarding,2021-01-01 07:06:06 +0100,2021-01-02 06:41:05 +0100,true,,5feebb8c36d04ed41d9e4a9d,221
-2923894,d,2021-01-02 07:10:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,Last call,2021-01-01 07:11:06 +0100,2021-01-02 06:33:05 +0100,true,,5feebcb836d04ed41d9e4aae,73H
+2923893,d,2021-01-02 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Gate closed,2021-01-01 07:06:06 +0100,2021-01-02 06:56:05 +0100,true,,5feebb8c36d04ed41d9e4a9d,221
+2923894,d,2021-01-02 07:10:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,Gate closed,2021-01-01 07:11:06 +0100,2021-01-02 06:51:05 +0100,true,,5feebcb836d04ed41d9e4aae,73H
 2923895,d,2021-01-02 08:50:00 +0100,QS2508,Hurghada,SmartWings,1,B8,Check-in,2021-01-01 08:51:05 +0100,2021-01-02 06:21:05 +0100,true,,5feed42836d04ed41d9e4ae5,73H
 2923906,d,2021-01-02 10:10:00 +0100,FR1053,Edinburgh,Ryanair,1,B10,"",2021-01-01 10:11:05 +0100,2021-01-01 10:56:06 +0100,true,,5feee6e836d04ed41d9e4ca3,73H
 2923907,d,2021-01-02 10:10:00 +0100,QS1240,Hurghada,SmartWings,1,B7,"",2021-01-01 10:11:05 +0100,2021-01-02 06:23:06 +0100,true,,5feee6e836d04ed41d9e4ca4,73J
