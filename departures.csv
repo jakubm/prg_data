@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2924396,d,2021-01-05 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Boarding,2021-01-04 06:11:06 +0100,2021-01-05 05:43:05 +0100,true,,5ff2a32836d04ed41d9f4756,73H
-2924403,d,2021-01-05 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Check-in,2021-01-04 06:46:06 +0100,2021-01-05 04:16:05 +0100,true,,5ff2ab5d36d04ed41d9f4acd,AT7
+2924396,d,2021-01-05 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate closed,2021-01-04 06:11:06 +0100,2021-01-05 06:06:05 +0100,true,,5ff2a32836d04ed41d9f4756,73H
+2924403,d,2021-01-05 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Boarding,2021-01-04 06:46:06 +0100,2021-01-05 06:13:06 +0100,true,,5ff2ab5d36d04ed41d9f4acd,AT7
 2924423,d,2021-01-05 10:35:00 +0100,FR1053,Edinburgh,Ryanair,1,B10,"",2021-01-04 10:36:06 +0100,2021-01-04 10:36:06 +0100,true,,5ff2e14436d04ed41d9f56fa,73H
 2924424,d,2021-01-05 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-01-04 10:41:06 +0100,2021-01-04 10:41:06 +0100,true,,5ff2e27036d04ed41d9f5837,CR9
 2924434,d,2021-01-05 11:00:00 +0100,OK6100,Vagar / FAROE ISLANDS,Czech Airlines,3,1,"",2021-01-04 11:01:06 +0100,2021-01-04 11:01:06 +0100,true,,5ff2e72236d04ed41d9f5a85,AT7
