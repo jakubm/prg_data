@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2924402,a,2021-01-05 06:10:00 +0100,OK0923,Odesa,Czech Airlines,1,"",Expected 06:05,2021-01-04 06:11:07 +0100,2021-01-05 04:24:05 +0100,true,2021-01-05 06:05:00 +0100,5ff2a32836d04ed41d9f4755,319
+2924402,a,2021-01-05 06:10:00 +0100,OK0923,Odesa,Czech Airlines,1,"",Expected 05:55,2021-01-04 06:11:07 +0100,2021-01-05 05:40:06 +0100,true,2021-01-05 05:55:00 +0100,5ff2a32836d04ed41d9f4755,319
 2924413,a,2021-01-05 10:00:00 +0100,FR1054,Edinburgh,Ryanair,1,"","",2021-01-04 10:01:07 +0100,2021-01-04 10:01:07 +0100,true,,5ff2d91136d04ed41d9f4e8e,73H
 2924414,a,2021-01-05 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2021-01-04 10:01:07 +0100,2021-01-04 10:01:07 +0100,true,,5ff2d91136d04ed41d9f4e8f,CR9
 2924430,a,2021-01-05 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-01-04 10:56:07 +0100,2021-01-04 10:56:07 +0100,true,,5ff2e5f436d04ed41d9f5a1a,73W
