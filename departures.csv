@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2924503,d,2021-01-06 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2021-01-05 06:11:05 +0100,2021-01-06 04:11:05 +0100,true,,5ff3f4b236d04ed41d9f9671,73W
-2924509,d,2021-01-06 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,"",2021-01-05 06:46:05 +0100,2021-01-05 08:43:06 +0100,true,,5ff3fcdc36d04ed41d9f97a3,AT7
+2924509,d,2021-01-06 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Check-in,2021-01-05 06:46:05 +0100,2021-01-06 04:17:05 +0100,true,,5ff3fcdc36d04ed41d9f97a3,AT7
 2924517,d,2021-01-06 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B8,"",2021-01-05 09:46:06 +0100,2021-01-05 10:14:06 +0100,true,,5ff4270c36d04ed41d9f9acc,73H
 2924531,d,2021-01-06 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-01-05 10:40:06 +0100,2021-01-05 10:40:06 +0100,true,,5ff433f036d04ed41d9fa08a,CR9
 2924541,d,2021-01-06 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C22,"",2021-01-05 11:01:06 +0100,2021-01-05 11:01:06 +0100,true,,5ff438a136d04ed41d9fa0f2,DH4
