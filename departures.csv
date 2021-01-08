@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2924715,d,2021-01-08 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2021-01-07 06:11:07 +0100,2021-01-08 04:11:05 +0100,true,,5ff697a836d04ed41d9ff524,73H
+2924715,d,2021-01-08 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate open,2021-01-07 06:11:07 +0100,2021-01-08 05:21:05 +0100,true,,5ff697a836d04ed41d9ff524,73H
 2924723,d,2021-01-08 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Check-in,2021-01-07 06:46:05 +0100,2021-01-08 04:19:05 +0100,true,,5ff69fdd36d04ed41d9ff9af,AT7
-2924730,d,2021-01-08 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,"",2021-01-07 07:06:05 +0100,2021-01-07 07:06:05 +0100,true,,5ff6a48c36d04ed41d9ffbfb,221
+2924730,d,2021-01-08 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Check-in,2021-01-07 07:06:05 +0100,2021-01-08 05:07:05 +0100,true,,5ff6a48c36d04ed41d9ffbfb,223
 2924731,d,2021-01-08 07:30:00 +0100,SM0425,Hurghada,Air Cairo,1,B8,"",2021-01-07 07:31:06 +0100,2021-01-07 08:03:05 +0100,true,,5ff6aa7236d04ed41d9ffc1e,320
 2924742,d,2021-01-08 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-01-07 10:41:06 +0100,2021-01-07 10:41:06 +0100,true,,5ff6d6f036d04ed41da00156,CR9
 2924752,d,2021-01-08 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C22,"",2021-01-07 11:01:05 +0100,2021-01-07 11:01:05 +0100,true,,5ff6dba136d04ed41da00308,DH4
