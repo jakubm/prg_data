@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2924855,d,2021-01-09 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2021-01-08 06:11:06 +0100,2021-01-09 04:11:05 +0100,true,,5ff7e93236d04ed41da02b31,73W
+2924855,d,2021-01-09 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate open,2021-01-08 06:11:06 +0100,2021-01-09 05:17:05 +0100,true,,5ff7e93236d04ed41da02b31,73W
 2924864,d,2021-01-09 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Check-in,2021-01-08 06:46:06 +0100,2021-01-09 04:16:05 +0100,true,,5ff7f15d36d04ed41da02f28,AT7
-2924871,d,2021-01-09 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,"",2021-01-08 07:06:06 +0100,2021-01-08 07:06:06 +0100,true,,5ff7f60c36d04ed41da03052,223
+2924871,d,2021-01-09 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Check-in,2021-01-08 07:06:06 +0100,2021-01-09 05:07:06 +0100,true,,5ff7f60c36d04ed41da03052,223
 2924872,d,2021-01-09 07:10:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,Check-in,2021-01-08 07:11:06 +0100,2021-01-09 04:12:05 +0100,true,,5ff7f73836d04ed41da03053,73H
 2924873,d,2021-01-09 08:50:00 +0100,QS2508,Hurghada,SmartWings,1,B7,"",2021-01-08 08:51:06 +0100,2021-01-08 09:14:06 +0100,true,,5ff80eb236d04ed41da03141,73H
 2924876,d,2021-01-09 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B8,"",2021-01-08 09:46:06 +0100,2021-01-08 09:46:06 +0100,true,,5ff81b8d36d04ed41da03216,73H
