@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2925119,a,2021-01-11 06:10:00 +0100,OK0917,Kyiv/BORYSPIL,Czech Airlines,1,"","",2021-01-10 06:11:06 +0100,2021-01-10 06:11:06 +0100,true,,5ffa8c3136d04ed41da0a71d,320
+2925119,a,2021-01-11 06:10:00 +0100,OK0917,Kyiv/BORYSPIL,Czech Airlines,1,"",Expected 06:15,2021-01-10 06:11:06 +0100,2021-01-11 04:42:05 +0100,true,2021-01-11 06:15:00 +0100,5ffa8c3136d04ed41da0a71d,319
 2925130,a,2021-01-11 08:55:00 +0100,JU0610,Belgrade,Air Serbia,1,"","",2021-01-10 08:56:06 +0100,2021-01-10 08:56:06 +0100,true,,5ffab2de36d04ed41da0ab95,AT7
 2925132,a,2021-01-11 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2021-01-10 10:01:06 +0100,2021-01-10 10:01:06 +0100,true,,5ffac21136d04ed41da0af29,CR9
 2925147,a,2021-01-11 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-01-10 10:56:06 +0100,2021-01-10 10:56:06 +0100,true,,5ffacef436d04ed41da0b5dc,73W
