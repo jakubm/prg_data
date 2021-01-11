@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2925113,d,2021-01-11 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2021-01-10 06:11:06 +0100,2021-01-10 06:11:06 +0100,true,,5ffa8c3136d04ed41da0a71e,73W
+2925113,d,2021-01-11 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2021-01-10 06:11:06 +0100,2021-01-11 04:11:05 +0100,true,,5ffa8c3136d04ed41da0a71e,73H
 2925122,d,2021-01-11 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,"",2021-01-10 06:46:06 +0100,2021-01-10 08:34:06 +0100,true,,5ffa946536d04ed41da0a84a,AT7
 2925129,d,2021-01-11 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,"",2021-01-10 07:06:06 +0100,2021-01-10 07:06:06 +0100,true,,5ffa991536d04ed41da0a9c7,221
 2925131,d,2021-01-11 09:25:00 +0100,JU0611,Belgrade,Air Serbia,1,B14,"",2021-01-10 09:26:06 +0100,2021-01-10 09:26:06 +0100,true,,5ffab9dc36d04ed41da0accd,AT7
