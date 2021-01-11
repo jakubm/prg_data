@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2925113,d,2021-01-11 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 06:04,2021-01-10 06:11:06 +0100,2021-01-11 06:32:05 +0100,true,2021-01-11 06:04:00 +0100,5ffa8c3136d04ed41da0a71e,73H
-2925122,d,2021-01-11 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Gate closed,2021-01-10 06:46:06 +0100,2021-01-11 06:33:06 +0100,true,,5ffa946536d04ed41da0a84a,AT7
-2925129,d,2021-01-11 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Gate open,2021-01-10 07:06:06 +0100,2021-01-11 06:05:06 +0100,true,,5ffa991536d04ed41da0a9c7,221
+2925122,d,2021-01-11 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Departed 06:39,2021-01-10 06:46:06 +0100,2021-01-11 07:12:05 +0100,true,2021-01-11 06:39:00 +0100,5ffa946536d04ed41da0a84a,AT7
+2925129,d,2021-01-11 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Gate closed,2021-01-10 07:06:06 +0100,2021-01-11 06:57:06 +0100,true,,5ffa991536d04ed41da0a9c7,221
 2925131,d,2021-01-11 09:25:00 +0100,JU0611,Belgrade,Air Serbia,1,B14,"",2021-01-10 09:26:06 +0100,2021-01-10 09:26:06 +0100,true,,5ffab9dc36d04ed41da0accd,AT7
 2925141,d,2021-01-11 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-01-10 10:41:06 +0100,2021-01-10 10:41:06 +0100,true,,5ffacb7036d04ed41da0b4c6,CR9
 2925151,d,2021-01-11 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B7,"",2021-01-10 11:36:06 +0100,2021-01-10 11:36:06 +0100,true,,5ffad85436d04ed41da0c053,319
