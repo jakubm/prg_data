@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2925303,d,2021-01-13 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate closed,2021-01-12 06:11:05 +0100,2021-01-13 05:59:05 +0100,true,,5ffd2f282d3841e9218de77b,E7W
-2925309,d,2021-01-13 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Gate open,2021-01-12 06:46:05 +0100,2021-01-13 06:03:06 +0100,true,,5ffd375d2d3841e9218de925,AT7
+2925303,d,2021-01-13 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 06:19,2021-01-12 06:11:05 +0100,2021-01-13 06:39:05 +0100,true,2021-01-13 06:19:00 +0100,5ffd2f282d3841e9218de77b,E7W
+2925309,d,2021-01-13 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Departed 06:54,2021-01-12 06:46:05 +0100,2021-01-13 06:56:06 +0100,true,2021-01-13 06:54:00 +0100,5ffd375d2d3841e9218de925,AT7
 2925317,d,2021-01-13 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B7,"",2021-01-12 09:46:05 +0100,2021-01-12 09:46:05 +0100,true,,5ffd618d2d3841e9218de9fc,319
 2925331,d,2021-01-13 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-01-12 10:41:06 +0100,2021-01-12 10:41:06 +0100,true,,5ffd6e702d3841e9218dea4b,CR9
 2925341,d,2021-01-13 11:00:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C19,"",2021-01-12 11:01:05 +0100,2021-01-12 11:01:05 +0100,true,,5ffd73222d3841e9218dea91,DH4
