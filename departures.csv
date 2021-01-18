@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2925826,d,2021-01-18 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2021-01-17 06:11:06 +0100,2021-01-17 06:11:06 +0100,true,,6003c6a82d3841e9218ed4aa,E90
-2925832,d,2021-01-18 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,"",2021-01-17 06:46:06 +0100,2021-01-17 15:07:05 +0100,true,,6003cedd2d3841e9218ed4c1,AT7
+2925826,d,2021-01-18 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2021-01-17 06:11:06 +0100,2021-01-18 04:09:05 +0100,true,,6003c6a82d3841e9218ed4aa,E90
+2925832,d,2021-01-18 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Check-in,2021-01-17 06:46:06 +0100,2021-01-18 04:21:05 +0100,true,,6003cedd2d3841e9218ed4c1,AT7
 2925839,d,2021-01-18 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,"",2021-01-17 07:06:05 +0100,2021-01-17 07:06:05 +0100,true,,6003d38c2d3841e9218ed4d0,221
 2925841,d,2021-01-18 10:00:00 +0100,LO0524,Warsaw,Lot Polish Airlines,2,C22,"",2021-01-17 10:01:06 +0100,2021-01-17 10:01:06 +0100,true,,6003fc912d3841e9218ed967,DH4
 2925851,d,2021-01-18 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-01-17 10:41:06 +0100,2021-01-17 10:41:06 +0100,true,,600405f02d3841e9218eddd2,CR9
