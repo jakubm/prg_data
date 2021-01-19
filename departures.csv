@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2925926,d,2021-01-19 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2021-01-18 06:11:06 +0100,2021-01-18 06:11:06 +0100,true,,600518282d3841e9218f2421,E90
+2925926,d,2021-01-19 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2021-01-18 06:11:06 +0100,2021-01-19 04:10:05 +0100,true,,600518282d3841e9218f2421,E90
 2925941,d,2021-01-19 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-01-18 10:41:05 +0100,2021-01-18 10:41:05 +0100,true,,600557702d3841e9218f2c6b,CR9
 2925951,d,2021-01-19 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B7,"",2021-01-18 11:36:06 +0100,2021-01-18 11:36:06 +0100,true,,6005645e2d3841e9218f33d8,319
 2925954,d,2021-01-19 11:45:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2021-01-18 11:46:06 +0100,2021-01-18 11:46:06 +0100,true,,600566ad2d3841e9218f355e,E90
