@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2928012,a,2021-02-12 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2021-02-11 10:00:07 +0100,2021-02-11 10:00:07 +0100,true,,6024f211bebc244eff90cfae,E90
+2928012,a,2021-02-12 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"",Expected 10:15,2021-02-11 10:00:07 +0100,2021-02-12 09:38:05 +0100,true,2021-02-12 10:15:00 +0100,6024f211bebc244eff90cfae,E90
 2928027,a,2021-02-12 10:50:00 +0100,LO1527,Ostrava,Lot Polish Airlines,2,"","",2021-02-11 10:50:06 +0100,2021-02-11 10:50:06 +0100,true,,6024fdc8bebc244eff90d215,DH4
 2928028,a,2021-02-12 10:55:00 +0100,OK0617,Amsterdam,Czech Airlines,2,"","",2021-02-11 10:55:06 +0100,2021-02-11 10:55:06 +0100,true,,6024fef4bebc244eff90d2a1,319
 2928035,a,2021-02-12 11:10:00 +0100,FB0301,Sofia,Bulgaria Air,1,"","",2021-02-11 11:10:06 +0100,2021-02-11 11:10:06 +0100,true,,60250278bebc244eff90d454,E90
