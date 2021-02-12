@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2927999,d,2021-02-12 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2021-02-11 06:10:06 +0100,2021-02-12 04:11:05 +0100,true,,6024bc28bebc244eff90c9b9,E7W
+2927999,d,2021-02-12 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate open,2021-02-11 06:10:06 +0100,2021-02-12 05:05:05 +0100,true,,6024bc28bebc244eff90c9b9,E7W
 2928005,d,2021-02-12 07:00:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C7,Check-in,2021-02-11 07:01:06 +0100,2021-02-12 04:38:05 +0100,true,,6024c7e1bebc244eff90cd92,319
 2928021,d,2021-02-12 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C8,"",2021-02-11 10:40:05 +0100,2021-02-11 10:54:05 +0100,true,,6024fb70bebc244eff90d20d,E90
 2928036,d,2021-02-12 11:25:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C19,"",2021-02-11 11:25:06 +0100,2021-02-11 11:25:06 +0100,true,,602505fcbebc244eff90d56c,DH4
