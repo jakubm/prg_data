@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2928118,a,2021-02-13 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2021-02-12 10:01:06 +0100,2021-02-12 10:01:06 +0100,true,,60264391bebc244eff90ecb6,E90
+2928118,a,2021-02-13 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"",Expected 10:15,2021-02-12 10:01:06 +0100,2021-02-13 09:25:05 +0100,true,2021-02-13 10:15:00 +0100,60264391bebc244eff90ecb6,E90
 2928128,a,2021-02-13 10:35:00 +0100,A30864,Athens,Aegean Airlines,2,"",Expected 10:35,2021-02-12 10:36:06 +0100,2021-02-13 08:22:05 +0100,true,2021-02-13 10:35:00 +0100,60264bc4bebc244eff90f1b0,319
 2928136,a,2021-02-13 10:55:00 +0100,OK0617,Amsterdam,Czech Airlines,2,"","",2021-02-12 10:56:07 +0100,2021-02-12 10:56:07 +0100,true,,60265074bebc244eff90f565,319
 2928145,a,2021-02-13 11:20:00 +0100,FR1013,London/STANSTED,Ryanair,1,"","",2021-02-12 11:21:06 +0100,2021-02-12 11:21:06 +0100,true,,60265650bebc244eff90fa0a,73H
