@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2928100,d,2021-02-13 06:00:00 +0100,QS4222,Ras Al Khaimah,SmartWings,1,B8,Check-in,2021-02-12 06:01:05 +0100,2021-02-13 03:38:05 +0100,true,,60260b51bebc244eff90e757,73H
+2928100,d,2021-02-13 06:00:00 +0100,QS4222,Ras Al Khaimah,SmartWings,1,B8,Gate open,2021-02-12 06:01:05 +0100,2021-02-13 04:54:06 +0100,true,,60260b51bebc244eff90e757,73H
 2928101,d,2021-02-13 06:15:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2021-02-12 06:16:06 +0100,2021-02-13 04:16:05 +0100,true,,60260ed5bebc244eff90e782,E90
 2928107,d,2021-02-13 07:00:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C2,Check-in,2021-02-12 07:01:05 +0100,2021-02-13 04:33:05 +0100,true,,6026196abebc244eff90e9b7,319
 2928114,d,2021-02-13 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C7,"",2021-02-12 07:06:06 +0100,2021-02-12 15:02:06 +0100,true,,60261a96bebc244eff90e9bc,223
