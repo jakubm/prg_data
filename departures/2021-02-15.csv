@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2928295,d,2021-02-15 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 06:14,2021-02-14 06:11:05 +0100,2021-02-15 06:36:05 +0100,true,2021-02-15 06:14:00 +0100,6028b0a8bebc244eff918c3a,E7W
-2928301,d,2021-02-15 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C7,Boarding,2021-02-14 07:06:06 +0100,2021-02-15 06:43:05 +0100,true,,6028bd8cbebc244eff918c63,221
+2928301,d,2021-02-15 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C7,Last call,2021-02-14 07:06:06 +0100,2021-02-15 06:48:05 +0100,true,,6028bd8cbebc244eff918c63,221
 2928311,d,2021-02-15 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C8,"",2021-02-14 10:41:05 +0100,2021-02-14 10:41:05 +0100,true,,6028effabebc244eff919492,E90
 2928322,d,2021-02-15 11:25:00 +0100,LO1522,Ostrava,Lot Polish Airlines,2,C22,"",2021-02-14 11:26:05 +0100,2021-02-14 11:26:05 +0100,true,,6028fa86bebc244eff9198eb,DH4
 2928323,d,2021-02-15 11:35:00 +0100,OK0918,Kyiv/BORYSPIL,Czech Airlines,1,B7,"",2021-02-14 11:36:06 +0100,2021-02-14 11:36:06 +0100,true,,6028fcdebebc244eff919b94,320
