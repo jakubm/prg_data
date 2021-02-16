@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2928384,a,2021-02-16 14:25:00 +0100,FR1013,London/STANSTED,Ryanair,1,"",Expected 16:20,2021-02-15 14:26:05 +0100,2021-02-16 15:11:06 +0100,true,2021-02-16 16:20:00 +0100,602a762cbebc244eff91e40f,73H
+2928384,a,2021-02-16 14:25:00 +0100,FR1013,London/STANSTED,Ryanair,1,"",Expected 16:25,2021-02-15 14:26:05 +0100,2021-02-16 15:44:06 +0100,true,2021-02-16 16:25:00 +0100,602a762cbebc244eff91e40f,73H
 2928386,a,2021-02-16 16:35:00 +0100,OK0919,Kyiv/BORYSPIL,Czech Airlines,1,"",Expected 16:45,2021-02-15 16:36:06 +0100,2021-02-16 15:12:06 +0100,true,2021-02-16 16:45:00 +0100,602a94a4bebc244eff91e80f,320
 2928388,a,2021-02-16 17:30:00 +0100,KL1357,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-02-15 17:31:05 +0100,2021-02-15 17:31:05 +0100,true,,602aa192bebc244eff91e8ab,E75
 2928392,a,2021-02-16 17:55:00 +0100,LH1400,Frankfurt,Lufthansa,2,"","",2021-02-15 17:56:05 +0100,2021-02-15 17:56:05 +0100,true,,602aa764bebc244eff91ea38,E90
