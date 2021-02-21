@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2928764,d,2021-02-21 06:15:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 06:02,2021-02-20 06:16:06 +0100,2021-02-21 06:12:05 +0100,true,2021-02-21 06:02:00 +0100,60309ad42d38d47a794dcdc1,E90
-2928771,d,2021-02-21 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B8,Check-in,2021-02-20 09:46:05 +0100,2021-02-21 07:27:05 +0100,true,,6030cc0c2d38d47a794df04a,73H
+2928771,d,2021-02-21 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B8,Gate open,2021-02-20 09:46:05 +0100,2021-02-21 08:17:05 +0100,true,,6030cc0c2d38d47a794df04a,73H
 2928784,d,2021-02-21 10:15:00 +0100,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,B7,Check-in,2021-02-20 10:16:06 +0100,2021-02-21 07:47:07 +0100,true,,6030d3142d38d47a794df341,320
 2928786,d,2021-02-21 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C10,"",2021-02-20 10:41:06 +0100,2021-02-20 10:41:06 +0100,true,,6030d8f12d38d47a794df884,E90
 2928796,d,2021-02-21 11:30:00 +0100,QS1210,Fuerteventura,SmartWings,2,C6,"",2021-02-20 11:31:06 +0100,2021-02-20 11:31:06 +0100,true,,6030e4a92d38d47a794e029d,73J
