@@ -1,4 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2929247,a,2021-02-26 05:35:00 +0100,MMD6219,Al Maktoum International Airport,Air Alsie,3,"",Expected,2021-02-26 05:31:06 +0100,2021-02-26 05:33:05 +0100,true,,603879522d38d47a794f00de,D2L
 2929153,a,2021-02-26 10:00:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2021-02-25 10:01:06 +0100,2021-02-25 10:01:06 +0100,true,,603767122d38d47a794ee68c,E90
 2929168,a,2021-02-26 10:50:00 +0100,LO1527,Ostrava,Lot Polish Airlines,2,"","",2021-02-25 10:51:05 +0100,2021-02-25 10:51:05 +0100,true,,603772c82d38d47a794ee9aa,DH4
 2929169,a,2021-02-26 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-02-25 10:56:06 +0100,2021-02-25 10:56:06 +0100,true,,603773f42d38d47a794ee9b1,E90
