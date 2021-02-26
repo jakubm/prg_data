@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2929139,d,2021-02-26 06:15:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C7,Departed 06:09,2021-02-25 06:16:05 +0100,2021-02-26 06:19:06 +0100,true,2021-02-26 06:09:00 +0100,603732552d38d47a794edfad,E90
-2929145,d,2021-02-26 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Last call,2021-02-25 06:46:06 +0100,2021-02-26 06:20:06 +0100,true,,6037395d2d38d47a794ee247,AT7
+2929145,d,2021-02-26 06:45:00 +0100,OK0616,Amsterdam,Czech Airlines,2,C14,Gate closed,2021-02-25 06:46:06 +0100,2021-02-26 06:39:06 +0100,true,,6037395d2d38d47a794ee247,AT7
 2929152,d,2021-02-26 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C12,Cancelled,2021-02-25 07:06:06 +0100,2021-02-25 14:49:05 +0100,true,,60373e0c2d38d47a794ee484,223
 2929162,d,2021-02-26 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C9,"",2021-02-25 10:41:05 +0100,2021-02-25 10:41:05 +0100,true,,603770712d38d47a794ee9a2,E90
 2929174,d,2021-02-26 11:25:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C19,"",2021-02-25 11:26:06 +0100,2021-02-25 11:26:06 +0100,true,,60377afd2d38d47a794eeade,DH4
