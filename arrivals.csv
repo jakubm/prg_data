@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2929587,a,2021-03-02 09:25:00 +0100,LO0523,Warsaw,Lot Polish Airlines,2,"","",2021-03-01 09:26:06 +0100,2021-03-01 09:26:06 +0100,true,,603ca4dc2d38d47a794fe283,DH4
+2929587,a,2021-03-02 09:25:00 +0100,LO0523,Warsaw,Lot Polish Airlines,2,"",Expected 09:30,2021-03-01 09:26:06 +0100,2021-03-02 08:32:06 +0100,true,2021-03-02 09:30:00 +0100,603ca4dc2d38d47a794fe283,DH4
 2929588,a,2021-03-02 09:55:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2021-03-01 09:56:07 +0100,2021-03-01 09:56:07 +0100,true,,603cabe42d38d47a794fe3af,CR9
 2929604,a,2021-03-02 11:35:00 +0100,OK0617,Amsterdam,Czech Airlines,2,"",Cancelled,2021-03-01 11:36:06 +0100,2021-03-02 00:09:06 +0100,true,,603cc3542d38d47a794fee2d,AT7
 2929616,a,2021-03-02 12:50:00 +0100,EK0139,Dubai,Emirates,1,"","",2021-03-01 12:51:06 +0100,2021-03-01 12:51:06 +0100,true,,603cd4e82d38d47a794ff73d,77W
