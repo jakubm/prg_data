@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2929799,d,2021-03-05 06:15:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2021-03-04 06:16:06 +0100,2021-03-04 06:16:06 +0100,true,,60406cd52d38d47a79506fad,73J
+2929799,d,2021-03-05 06:15:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2021-03-04 06:16:06 +0100,2021-03-05 04:01:05 +0100,true,,60406cd52d38d47a79506fad,73H
 2929814,d,2021-03-05 10:15:00 +0100,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,B8,"",2021-03-04 10:16:05 +0100,2021-03-04 10:16:05 +0100,true,,6040a5152d38d47a79507484,320
 2929816,d,2021-03-05 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C9,"",2021-03-04 10:41:06 +0100,2021-03-04 10:41:06 +0100,true,,6040aaf02d38d47a795074c8,E90
 2929829,d,2021-03-05 11:25:00 +0100,LO1528,Ostrava,Lot Polish Airlines,2,C22,"",2021-03-04 11:26:05 +0100,2021-03-04 11:26:05 +0100,true,,6040b57c2d38d47a795077ab,DH4
