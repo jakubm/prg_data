@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2929993,d,2021-03-07 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2021-03-06 06:11:06 +0100,2021-03-07 04:07:06 +0100,true,,60430ea82d38d47a7950d1ad,E7W
+2929993,d,2021-03-07 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate open,2021-03-06 06:11:06 +0100,2021-03-07 05:02:06 +0100,true,,60430ea82d38d47a7950d1ad,E7W
 2930000,d,2021-03-07 09:45:00 +0100,TK1768,Istanbul Airport,Turkish Airlines,1,B8,"",2021-03-06 09:48:05 +0100,2021-03-06 09:48:05 +0100,true,,604341992d38d47a7950e758,319
 2930013,d,2021-03-07 10:10:00 +0100,QS1240,Hurghada,SmartWings,1,A7,"",2021-03-06 10:18:06 +0100,2021-03-06 10:18:06 +0100,true,,6043486f2d38d47a7950eb00,73H
 2930014,d,2021-03-07 10:15:00 +0100,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,B7,"",2021-03-06 10:18:06 +0100,2021-03-06 10:18:06 +0100,true,,6043486f2d38d47a7950eb01,73H
