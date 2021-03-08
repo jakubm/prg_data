@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2930111,d,2021-03-08 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate open,2021-03-07 06:11:05 +0100,2021-03-08 05:12:05 +0100,true,,604460282d38d47a79511d56,E7W
+2930111,d,2021-03-08 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate closed,2021-03-07 06:11:05 +0100,2021-03-08 05:54:05 +0100,true,,604460282d38d47a79511d56,E7W
 2930117,d,2021-03-08 07:05:00 +0100,LX1495,Zurich,Swiss International Air Lines,2,C6,Check-in,2021-03-07 07:06:05 +0100,2021-03-08 05:09:05 +0100,true,,60446d0c2d38d47a79511d7b,221
 2930127,d,2021-03-08 10:00:00 +0100,OK6300,Paris/CDG,Czech Airlines,3,1,"",2021-03-07 10:01:06 +0100,2021-03-07 10:01:06 +0100,true,,604496112d38d47a795125dc,73H
 2930128,d,2021-03-08 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C9,"",2021-03-07 10:41:05 +0100,2021-03-07 10:41:05 +0100,true,,60449f702d38d47a79512ff1,319
