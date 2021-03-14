@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2930572,a,2021-03-14 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"",Expected 08:45,2021-03-13 08:51:06 +0100,2021-03-14 07:54:05 +0100,true,2021-03-14 08:45:00 +0100,604c6ea8bebc4320701090f8,73H
+2930572,a,2021-03-14 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"",Expected 08:40,2021-03-13 08:51:06 +0100,2021-03-14 08:33:05 +0100,true,2021-03-14 08:40:00 +0100,604c6ea8bebc4320701090f8,73H
 2930577,a,2021-03-14 09:55:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2021-03-13 09:56:06 +0100,2021-03-13 09:56:06 +0100,true,,604c7de4bebc432070109711,CR9
 2930596,a,2021-03-14 10:55:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-03-13 10:56:07 +0100,2021-03-13 10:56:07 +0100,true,,604c8bf4bebc43207010a3e2,E90
 2930607,a,2021-03-14 12:05:00 +0100,B20861,Minsk,Belavia,1,"","",2021-03-13 12:06:06 +0100,2021-03-13 12:06:06 +0100,true,,604c9c5cbebc43207010b76d,E95
