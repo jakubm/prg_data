@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2930683,d,2021-03-15 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Last call,2021-03-14 06:11:05 +0100,2021-03-15 05:51:05 +0100,true,,604d9aa8bebc43207010ce22,E7W
+2930683,d,2021-03-15 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2021-03-14 06:11:05 +0100,2021-03-15 06:00:05 +0100,true,,604d9aa8bebc43207010ce22,E7W
 2930699,d,2021-03-15 10:40:00 +0100,LH1393,Frankfurt,Lufthansa,2,C9,"",2021-03-14 10:41:05 +0100,2021-03-14 10:41:05 +0100,true,,604dd9f0bebc43207010ddb4,319
 2930709,d,2021-03-15 11:00:00 +0100,QS4300,Ostersund Airport,SmartWings,2,C2,"",2021-03-14 11:01:06 +0100,2021-03-14 11:01:06 +0100,true,,604ddea1bebc43207010e32f,73H
 2930711,d,2021-03-15 11:45:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2021-03-14 11:46:05 +0100,2021-03-14 11:46:05 +0100,true,,604de92dbebc43207010ed19,E90
