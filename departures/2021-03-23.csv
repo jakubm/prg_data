@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2931322,d,2021-03-23 06:10:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 05:57,2021-03-22 06:11:05 +0100,2021-03-23 06:20:06 +0100,true,2021-03-23 05:57:00 +0100,605826a8bebc43207012ad49,73W
-2931332,d,2021-03-23 11:45:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2021-03-22 11:45:06 +0100,2021-03-23 11:15:06 +0100,true,,6058752dbebc43207012bbeb,E7W
+2931332,d,2021-03-23 11:45:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 11:25,2021-03-22 11:45:06 +0100,2021-03-23 11:36:05 +0100,true,2021-03-23 11:25:00 +0100,6058752dbebc43207012bbeb,E7W
 2931337,d,2021-03-23 11:50:00 +0100,QS4302,Lublin Airport,SmartWings,3,1,"",2021-03-22 11:50:07 +0100,2021-03-23 11:16:06 +0100,true,,60587659bebc43207012bbef,73H
 2931340,d,2021-03-23 14:55:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,"",2021-03-22 14:56:06 +0100,2021-03-22 14:56:06 +0100,true,,6058a1b4bebc43207012c279,73H
 2931341,d,2021-03-23 15:30:00 +0100,EK0140,Dubai,Emirates,1,B8,"",2021-03-22 15:31:05 +0100,2021-03-22 15:31:05 +0100,true,,6058a9e9bebc43207012c59d,77W
