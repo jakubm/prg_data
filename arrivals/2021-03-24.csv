@@ -15,3 +15,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2931429,a,2021-03-24 22:15:00 +0100,KL1359,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-03-23 22:16:06 +0100,2021-03-23 22:16:06 +0100,true,,605a5a54bebc43207012e3e2,73W
 2931432,a,2021-03-24 22:20:00 +0100,OK0919,Kyiv/BORYSPIL,Czech Airlines,1,"","",2021-03-23 22:21:07 +0100,2021-03-23 22:21:07 +0100,true,,605a5b80bebc43207012e3e3,319
 2931434,a,2021-03-24 23:10:00 +0100,QS4303,Lublin Airport,SmartWings,3,"",Cancelled,2021-03-23 23:11:06 +0100,2021-03-23 23:11:06 +0100,true,,605a6738bebc43207012e403,73H
+2931435,a,2021-03-25 01:55:00 +0100,QS4303,Lublin Airport,SmartWings,3,"","",2021-03-24 01:55:07 +0100,2021-03-24 01:55:07 +0100,true,,605a8de3bebc43207012e49b,73H
