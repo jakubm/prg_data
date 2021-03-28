@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2931719,a,2021-03-28 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"",Expected 08:30,2021-03-27 07:36:05 +0100,2021-03-28 07:52:05 +0200,true,2021-03-28 08:30:00 +0200,605ed214bebc432070138643,319
+2931719,a,2021-03-28 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"",Expected 08:35,2021-03-27 07:36:05 +0100,2021-03-28 08:12:05 +0200,true,2021-03-28 08:35:00 +0200,605ed214bebc432070138643,319
 2931722,a,2021-03-28 09:40:00 +0200,LH1392,Frankfurt,Lufthansa,2,"","",2021-03-27 08:41:06 +0100,2021-03-27 08:41:06 +0100,true,,605ee151bebc4320701391e7,CR9
 2931737,a,2021-03-28 10:30:00 +0200,PS0807,Kyiv/BORYSPIL,Ukraine International Airlines,1,"","",2021-03-27 09:31:06 +0100,2021-03-27 09:31:06 +0100,true,,605eed08bebc4320701393a0,E90
 2931741,a,2021-03-28 13:00:00 +0200,EK0139,Dubai,Emirates,1,"","",2021-03-27 12:01:05 +0100,2021-03-27 12:01:05 +0100,true,,605f1031bebc43207013b625,77W
