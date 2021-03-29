@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2931814,a,2021-03-29 09:40:00 +0200,LH1392,Frankfurt,Lufthansa,2,"",Expected 09:30,2021-03-28 09:41:06 +0200,2021-03-29 08:53:05 +0200,true,2021-03-29 09:30:00 +0200,606032d0bebc43207013d2b3,CR9
+2931814,a,2021-03-29 09:40:00 +0200,LH1392,Frankfurt,Lufthansa,2,"",Expected 09:40,2021-03-28 09:41:06 +0200,2021-03-29 09:04:05 +0200,true,2021-03-29 09:40:00 +0200,606032d0bebc43207013d2b3,CR9
 2931830,a,2021-03-29 10:30:00 +0200,PS0807,Kyiv/BORYSPIL,Ukraine International Airlines,1,"",Expected 10:30,2021-03-28 10:31:06 +0200,2021-03-29 08:55:05 +0200,true,2021-03-29 10:30:00 +0200,60603e88bebc43207013d70c,E90
 2931832,a,2021-03-29 11:10:00 +0200,KL1353,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-03-28 11:11:06 +0200,2021-03-28 11:11:06 +0200,true,,606047e8bebc43207013df92,295
 2931837,a,2021-03-29 12:00:00 +0200,SU2012,Moscow/SHEREMETYEVO,Aeroflot,1,"","",2021-03-28 12:01:06 +0200,2021-03-28 12:01:06 +0200,true,,606053a1bebc43207013e547,32B
