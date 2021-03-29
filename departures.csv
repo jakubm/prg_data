@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2931808,d,2021-03-29 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2021-03-28 06:21:10 +0200,2021-03-29 04:12:05 +0200,true,,606003f0bebc43207013cd8e,E7W
+2931808,d,2021-03-29 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2021-03-28 06:21:10 +0200,2021-03-29 05:17:05 +0200,true,,606003f0bebc43207013cd8e,E7W
 2931823,d,2021-03-29 10:05:00 +0200,LX1485,Zurich,Swiss International Air Lines,2,C13,"",2021-03-28 10:06:05 +0200,2021-03-28 12:51:05 +0200,true,,606038acbebc43207013d6cf,320
 2931824,d,2021-03-29 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-03-28 10:21:05 +0200,2021-03-28 10:21:05 +0200,true,,60603c30bebc43207013d6f6,CR9
 2931831,d,2021-03-29 11:00:00 +0200,QS4308,Cardiff,SmartWings,3,1,"",2021-03-28 11:01:05 +0200,2021-03-28 11:01:05 +0200,true,,60604591bebc43207013ddf0,73H
