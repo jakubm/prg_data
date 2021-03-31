@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2931944,d,2021-03-31 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 06:16,2021-03-30 06:21:05 +0200,2021-03-31 06:25:05 +0200,true,2021-03-31 06:16:00 +0200,6062a6f1bebc432070144de9,E7W
-2931951,d,2021-03-31 09:30:00 +0200,TK1768,Istanbul Airport,Turkish Airlines,1,B8,Gate closed,2021-03-30 09:31:05 +0200,2021-03-31 09:32:05 +0200,true,,6062d379bebc432070144eb9,32B
+2931951,d,2021-03-31 09:30:00 +0200,TK1768,Istanbul Airport,Turkish Airlines,1,B8,Departed 09:35,2021-03-30 09:31:05 +0200,2021-03-31 09:44:05 +0200,true,2021-03-31 09:35:00 +0200,6062d379bebc432070144eb9,32B
 2931952,d,2021-03-31 09:40:00 +0200,LX1485,Zurich,Swiss International Air Lines,2,C14,Gate closed,2021-03-30 09:41:05 +0200,2021-03-31 09:31:06 +0200,true,,6062d5d0bebc432070144eff,221
 2932038,d,2021-03-31 10:00:00 +0200,ABP0951,Sion,Abs Jets,3,1,"",2021-03-31 06:07:05 +0200,2021-03-31 06:07:05 +0200,true,,6063f532bebc432070147ad9,GJ6
 2931962,d,2021-03-31 10:15:00 +0200,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,B7,Gate open,2021-03-30 10:16:05 +0200,2021-03-31 08:40:05 +0200,true,,6062de05bebc4320701451f5,319
