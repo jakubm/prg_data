@@ -23,3 +23,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2932461,a,2021-04-04 22:20:00 +0200,OK0919,Kyiv/BORYSPIL,Czech Airlines,1,"","",2021-04-03 22:21:06 +0200,2021-04-03 22:21:06 +0200,true,,6068cdf1bebc43207015bb59,320
 2932463,a,2021-04-04 22:30:00 +0200,KL1359,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-04-03 22:31:06 +0200,2021-04-03 22:31:06 +0200,true,,6068d049bebc43207015bb98,E75
 2932466,a,2021-04-04 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-04-03 23:51:05 +0200,2021-04-03 23:51:05 +0200,true,,6068e308bebc43207015bc3f,7M8
+2932467,a,2021-04-05 01:30:00 +0200,QS1153,Malaga,SmartWings,2,"","",2021-04-04 01:31:05 +0200,2021-04-04 01:31:05 +0200,true,,6068fa79bebc43207015c2ec,7M8
