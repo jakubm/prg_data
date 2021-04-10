@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2932867,d,2021-04-10 06:00:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 05:54,2021-04-09 06:01:05 +0200,2021-04-10 06:02:05 +0200,true,2021-04-10 05:54:00 +0200,606fd1422d38e1bc5364f14c,E90
-2932873,d,2021-04-10 08:00:00 +0200,QS4222,Ras Al Khaimah,SmartWings,1,B8,Check-in,2021-04-09 08:01:05 +0200,2021-04-10 05:31:05 +0200,true,,606fed612d38e1bc5364f1a7,73H
+2932873,d,2021-04-10 08:00:00 +0200,QS4222,Ras Al Khaimah,SmartWings,1,B8,Gate open,2021-04-09 08:01:05 +0200,2021-04-10 06:39:05 +0200,true,,606fed612d38e1bc5364f1a7,73H
 2932876,d,2021-04-10 09:30:00 +0200,TK1768,Istanbul Airport,Turkish Airlines,1,B7,"",2021-04-09 09:31:05 +0200,2021-04-09 09:31:05 +0200,true,,607002792d38e1bc5364f302,319
 2932886,d,2021-04-10 10:05:00 +0200,LX1485,Zurich,Swiss International Air Lines,2,C13,"",2021-04-09 10:06:05 +0200,2021-04-09 14:09:07 +0200,true,,60700aac2d38e1bc5364f8cb,223
 2932887,d,2021-04-10 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-04-09 10:21:06 +0200,2021-04-09 10:21:06 +0200,true,,60700e302d38e1bc5364fb26,CR9
