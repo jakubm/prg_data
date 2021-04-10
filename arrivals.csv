@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2932874,a,2021-04-10 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2021-04-09 08:36:05 +0200,2021-04-09 08:36:05 +0200,true,,606ff5942d38e1bc5364f206,319
+2932874,a,2021-04-10 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"",Expected 08:15,2021-04-09 08:36:05 +0200,2021-04-10 06:08:05 +0200,true,2021-04-10 08:15:00 +0200,606ff5942d38e1bc5364f206,319
 2932877,a,2021-04-10 09:40:00 +0200,LH1392,Frankfurt,Lufthansa,2,"","",2021-04-09 09:41:05 +0200,2021-04-09 09:41:05 +0200,true,,607004d22d38e1bc5364f45c,CR9
 2932894,a,2021-04-10 10:30:00 +0200,QS1241,Hurghada,SmartWings,1,"","",2021-04-09 10:31:06 +0200,2021-04-09 10:31:06 +0200,true,,607010892d38e1bc5364fc71,73J
 2932893,a,2021-04-10 10:30:00 +0200,QS2519,Hurghada,SmartWings,1,"","",2021-04-09 10:31:06 +0200,2021-04-09 10:31:06 +0200,true,,607010892d38e1bc5364fc70,7M8
