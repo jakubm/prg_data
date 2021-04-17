@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2933466,d,2021-04-17 06:30:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 06:15,2021-04-16 06:31:05 +0200,2021-04-17 06:25:09 +0200,true,2021-04-17 06:15:00 +0200,607912c92d38e1bc5366af4c,E90
-2933472,d,2021-04-17 08:00:00 +0200,QS4222,Ras Al Khaimah,SmartWings,1,A3,Check-in,2021-04-16 08:01:06 +0200,2021-04-17 05:34:05 +0200,true,,607927e12d38e1bc5366af84,73H
+2933472,d,2021-04-17 08:00:00 +0200,QS4222,Ras Al Khaimah,SmartWings,1,A3,Gate open,2021-04-16 08:01:06 +0200,2021-04-17 06:51:05 +0200,true,,607927e12d38e1bc5366af84,73H
 2933474,d,2021-04-17 08:45:00 +0200,QS2506,Hurghada,SmartWings,1,B7,Check-in,2021-04-16 08:46:05 +0200,2021-04-17 06:24:05 +0200,true,,6079326e2d38e1bc5366b074,73H
 2933480,d,2021-04-17 09:30:00 +0200,TK1768,Istanbul Airport,Turkish Airlines,1,B8,"",2021-04-16 09:31:06 +0200,2021-04-16 09:39:05 +0200,true,,60793cf92d38e1bc5366b0fe,321
 2933481,d,2021-04-17 09:40:00 +0200,AF1383,Paris/CDG,Air France,2,C2,"",2021-04-16 09:41:05 +0200,2021-04-16 09:41:05 +0200,true,,60793f512d38e1bc5366b15c,E70
