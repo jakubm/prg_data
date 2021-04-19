@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2933670,d,2021-04-19 06:30:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Boarding,2021-04-18 06:31:06 +0200,2021-04-19 05:57:05 +0200,true,,607bb5c92d38e1bc536752ea,73H
+2933670,d,2021-04-19 06:30:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Last call,2021-04-18 06:31:06 +0200,2021-04-19 06:12:05 +0200,true,,607bb5c92d38e1bc536752ea,73H
 2933677,d,2021-04-19 10:05:00 +0200,LX1485,Zurich,Swiss International Air Lines,2,C12,"",2021-04-18 10:06:05 +0200,2021-04-18 10:06:05 +0200,true,,607be82c2d38e1bc53676279,223
 2933678,d,2021-04-19 12:00:00 +0200,QS2036,Tenerife/SUR,SmartWings,2,C6,"",2021-04-18 12:01:05 +0200,2021-04-18 12:01:05 +0200,true,,607c03222d38e1bc536769a0,73J
 2933680,d,2021-04-19 12:20:00 +0200,QS1170,Madeira/FUNCHAL,SmartWings,2,D2,"",2021-04-18 12:21:06 +0200,2021-04-18 18:36:05 +0200,true,,607c07d02d38e1bc53676a5a,7M8
