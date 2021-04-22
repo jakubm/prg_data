@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2933856,a,2021-04-22 09:40:00 +0200,LH1392,Frankfurt,Lufthansa,2,"","",2021-04-21 09:41:05 +0200,2021-04-21 09:41:05 +0200,true,,607fd6d02d38e1bc5367e61f,CR9
+2933856,a,2021-04-22 09:40:00 +0200,LH1392,Frankfurt,Lufthansa,2,"",Expected 09:40,2021-04-21 09:41:05 +0200,2021-04-22 08:54:06 +0200,true,2021-04-22 09:40:00 +0200,607fd6d02d38e1bc5367e61f,CR9
 2933873,a,2021-04-22 12:00:00 +0200,SU2012,Moscow/SHEREMETYEVO,Aeroflot,1,"","",2021-04-21 12:01:05 +0200,2021-04-21 12:01:05 +0200,true,,607ff7a22d38e1bc5367eefd,32A
 2933882,a,2021-04-22 13:30:00 +0200,QR0291,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"",Expected 13:25,2021-04-21 13:31:06 +0200,2021-04-22 07:43:05 +0200,true,2021-04-22 13:25:00 +0200,60800cba2d38e1bc5367f0be,788
 2933883,a,2021-04-22 16:25:00 +0200,OK0761,Paris/CDG,Czech Airlines,2,"","",2021-04-21 16:26:05 +0200,2021-04-21 16:26:05 +0200,true,,608035bd2d38e1bc53680083,319
