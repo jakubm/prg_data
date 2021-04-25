@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2934128,d,2021-04-25 06:30:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 07:08,2021-04-24 06:31:05 +0200,2021-04-25 07:17:06 +0200,true,2021-04-25 07:08:00 +0200,60839ec92d38e1bc536894c8,E90
-2934135,d,2021-04-25 09:30:00 +0200,TK1768,Istanbul Airport,Turkish Airlines,1,B8,Check-in,2021-04-24 09:31:05 +0200,2021-04-25 07:22:06 +0200,true,,6083c8fa2d38e1bc53689eee,319
+2934135,d,2021-04-25 09:30:00 +0200,TK1768,Istanbul Airport,Turkish Airlines,1,B8,Gate open,2021-04-24 09:31:05 +0200,2021-04-25 08:02:06 +0200,true,,6083c8fa2d38e1bc53689eee,319
 2934146,d,2021-04-25 10:15:00 +0200,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,B7,Check-in,2021-04-24 10:16:05 +0200,2021-04-25 07:47:06 +0200,true,,6083d3852d38e1bc5368a487,320
 2934148,d,2021-04-25 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-04-24 10:21:06 +0200,2021-04-24 10:21:06 +0200,true,,6083d4b02d38e1bc5368a489,CR9
 2934156,d,2021-04-25 10:55:00 +0200,A30867,Athens,Aegean Airlines,2,C7,"",2021-04-24 10:57:05 +0200,2021-04-24 10:57:05 +0200,true,,6083dce42d38e1bc5368aa6d,320
