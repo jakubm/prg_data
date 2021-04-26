@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2934230,d,2021-04-26 06:30:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 06:19,2021-04-25 06:31:05 +0200,2021-04-26 06:40:06 +0200,true,2021-04-26 06:19:00 +0200,6084f04a2d38e1bc5368e0a8,E90
-2934237,d,2021-04-26 10:05:00 +0200,LX1485,Zurich,Swiss International Air Lines,2,C12,Last call,2021-04-25 10:06:05 +0200,2021-04-26 09:43:05 +0200,true,,608522ac2d38e1bc5368e68c,223
+2934237,d,2021-04-26 10:05:00 +0200,LX1485,Zurich,Swiss International Air Lines,2,C12,Gate closed,2021-04-25 10:06:05 +0200,2021-04-26 09:57:05 +0200,true,,608522ac2d38e1bc5368e68c,223
 2934238,d,2021-04-26 12:00:00 +0200,QS2036,Tenerife/SUR,SmartWings,2,C3,Check-in,2021-04-25 12:01:05 +0200,2021-04-26 09:34:05 +0200,true,,60853da22d38e1bc5368efe1,73J
 2934240,d,2021-04-26 12:30:00 +0200,LO0528,Warsaw,Lot Polish Airlines,2,C22,"",2021-04-25 12:31:05 +0200,2021-04-25 12:31:05 +0200,true,,608544a92d38e1bc5368f0f2,DH4
 2934241,d,2021-04-26 12:50:00 +0200,SU2013,Moscow/SHEREMETYEVO,Aeroflot,1,B7,"",2021-04-25 12:51:06 +0200,2021-04-25 12:51:06 +0200,true,,608549592d38e1bc5368f12e,321
