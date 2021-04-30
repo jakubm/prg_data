@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2934527,a,2021-04-30 09:40:00 +0200,LH1392,Frankfurt,Lufthansa,2,"","",2021-04-29 09:41:06 +0200,2021-04-29 09:41:06 +0200,true,,608a62d12d38e1bc53699db4,CR9
+2934527,a,2021-04-30 09:40:00 +0200,LH1392,Frankfurt,Lufthansa,2,"",Expected 09:35,2021-04-29 09:41:06 +0200,2021-04-30 08:48:06 +0200,true,2021-04-30 09:35:00 +0200,608a62d12d38e1bc53699db4,CR9
 2934542,a,2021-04-30 10:30:00 +0200,PS0807,Kyiv/BORYSPIL,Ukraine International Airlines,1,"","",2021-04-29 10:31:06 +0200,2021-04-29 10:31:06 +0200,true,,608a6e892d38e1bc5369a219,E90
 2934545,a,2021-04-30 11:10:00 +0200,KL1353,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-04-29 11:11:06 +0200,2021-04-29 11:11:06 +0200,true,,608a77e92d38e1bc5369a3ae,295
 2934546,a,2021-04-30 11:15:00 +0200,FB0301,Sofia,Bulgaria Air,1,"","",2021-04-29 11:16:07 +0200,2021-04-29 11:16:07 +0200,true,,608a79162d38e1bc5369a3d3,E90
