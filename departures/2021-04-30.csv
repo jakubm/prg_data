@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2934521,d,2021-04-30 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2021-04-29 06:21:06 +0200,2021-04-30 05:15:06 +0200,true,,608a33f12d38e1bc53699833,E7W
+2934521,d,2021-04-30 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Boarding,2021-04-29 06:21:06 +0200,2021-04-30 05:53:05 +0200,true,,608a33f12d38e1bc53699833,E7W
 2934536,d,2021-04-30 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-04-29 10:21:05 +0200,2021-04-29 10:21:05 +0200,true,,608a6c302d38e1bc5369a1e4,CR9
 2934543,d,2021-04-30 10:45:00 +0200,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,B7,"",2021-04-29 10:46:06 +0200,2021-04-29 10:46:06 +0200,true,,608a720d2d38e1bc5369a266,320
 2934547,d,2021-04-30 11:45:00 +0200,QS2006,Tenerife/SUR,SmartWings,2,C3,"",2021-04-29 11:46:05 +0200,2021-04-29 11:46:05 +0200,true,,608a801c2d38e1bc5369a96b,73J
