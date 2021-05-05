@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2934985,d,2021-05-05 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2021-05-04 06:21:05 +0200,2021-05-05 05:14:06 +0200,true,,6090cb712d3808423d941477,E90
+2934985,d,2021-05-05 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2021-05-04 06:21:05 +0200,2021-05-05 06:06:06 +0200,true,,6090cb712d3808423d941477,E90
 2935002,d,2021-05-05 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-05-04 10:21:06 +0200,2021-05-04 10:21:06 +0200,true,,609103b12d3808423d94192e,CR9
 2935009,d,2021-05-05 10:45:00 +0200,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,B8,"",2021-05-04 10:46:07 +0200,2021-05-04 10:46:07 +0200,true,,6091098d2d3808423d9419af,73G
 2935011,d,2021-05-05 11:00:00 +0200,KM0539,Malta,Air Malta,2,C2,"",2021-05-04 11:01:06 +0200,2021-05-04 11:01:06 +0200,true,,60910d112d3808423d9419e8,320
