@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2935279,d,2021-05-08 06:00:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Boarding,2021-05-07 06:01:05 +0200,2021-05-08 05:31:05 +0200,true,,6094bb422d3808423d94c5fd,E90
+2935279,d,2021-05-08 06:00:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2021-05-07 06:01:05 +0200,2021-05-08 05:47:05 +0200,true,,6094bb422d3808423d94c5fd,E90
 2935295,d,2021-05-08 10:05:00 +0200,LX1485,Zurich,Swiss International Air Lines,2,C13,"",2021-05-07 10:06:06 +0200,2021-05-07 10:07:05 +0200,true,,6094f4ad2d3808423d94d337,290
 2935300,d,2021-05-08 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-05-07 10:21:06 +0200,2021-05-07 10:21:06 +0200,true,,6094f8312d3808423d94d3f9,CR9
 2935308,d,2021-05-08 10:40:00 +0200,FR5007,Malaga,Ryanair,2,C22,"",2021-05-07 10:41:06 +0200,2021-05-07 10:41:06 +0200,true,,6094fce12d3808423d94d634,73H
