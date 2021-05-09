@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2935383,d,2021-05-09 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2021-05-08 06:21:06 +0200,2021-05-09 05:18:06 +0200,true,,609611712d3808423d95330a,E90
+2935383,d,2021-05-09 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Boarding,2021-05-08 06:21:06 +0200,2021-05-09 05:56:06 +0200,true,,609611712d3808423d95330a,E90
 2935390,d,2021-05-09 09:30:00 +0200,TK1768,Istanbul Airport,Turkish Airlines,1,B7,"",2021-05-08 09:31:06 +0200,2021-05-08 09:57:06 +0200,true,,60963dfa2d3808423d953674,319
 2935404,d,2021-05-09 10:15:00 +0200,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,B8,"",2021-05-08 10:16:06 +0200,2021-05-08 10:16:06 +0200,true,,609648852d3808423d953dba,320
 2935406,d,2021-05-09 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C9,"",2021-05-08 10:21:06 +0200,2021-05-08 12:18:05 +0200,true,,609649b12d3808423d953df2,CR9
