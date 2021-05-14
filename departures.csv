@@ -1,5 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2935856,d,2021-05-14 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2021-05-13 06:21:06 +0200,2021-05-14 05:17:05 +0200,true,,609ca8f12d3808423d967cd3,73H
+2935980,d,2021-05-14 06:05:00 +0200,QS1240A,Hurghada,SmartWings,1,B8,Boarding,2021-05-14 01:04:06 +0200,2021-05-14 05:50:06 +0200,true,,609db01a2d3808423d96c8de,73H
+2935856,d,2021-05-14 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Last call,2021-05-13 06:21:06 +0200,2021-05-14 05:53:05 +0200,true,,609ca8f12d3808423d967cd3,73H
 2935873,d,2021-05-14 10:15:00 +0200,VY8653,Barcelona,Vueling,2,D5,"",2021-05-13 10:16:06 +0200,2021-05-13 11:26:06 +0200,true,,609ce0052d3808423d968d4f,320
 2935874,d,2021-05-14 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-05-13 10:21:05 +0200,2021-05-13 11:26:06 +0200,true,,609ce1302d3808423d968d51,CR9
 2935881,d,2021-05-14 10:45:00 +0200,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,B7,"",2021-05-13 10:46:08 +0200,2021-05-13 10:46:08 +0200,true,,609ce70c2d3808423d968e07,320
