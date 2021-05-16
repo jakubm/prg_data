@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2936095,d,2021-05-16 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,D1,"",2021-05-15 04:56:05 +0200,2021-05-15 07:43:06 +0200,true,,609f38042d3808423d975534,7M8
+2936095,d,2021-05-16 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,D1,Check-in,2021-05-15 04:56:05 +0200,2021-05-16 02:29:05 +0200,true,,609f38042d3808423d975534,7M8
 2936096,d,2021-05-16 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C2,"",2021-05-15 06:21:05 +0200,2021-05-15 06:21:05 +0200,true,,609f4bf12d3808423d9758df,73H
 2936103,d,2021-05-16 09:30:00 +0200,TK1768,Istanbul Airport,Turkish Airlines,1,B8,"",2021-05-15 09:31:05 +0200,2021-05-15 09:31:05 +0200,true,,609f78792d3808423d975e3c,32Q
 2936117,d,2021-05-16 10:15:00 +0200,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,B7,"",2021-05-15 10:16:06 +0200,2021-05-15 10:16:06 +0200,true,,609f83052d3808423d9766ba,320
