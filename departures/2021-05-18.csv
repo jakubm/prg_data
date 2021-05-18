@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2936332,d,2021-05-18 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2021-05-17 06:21:06 +0200,2021-05-17 16:11:06 +0200,true,,60a1eef02d3808423d980d49,73H
+2936332,d,2021-05-18 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2021-05-17 06:21:06 +0200,2021-05-18 04:17:05 +0200,true,,60a1eef02d3808423d980d49,73H
 2936347,d,2021-05-18 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C9,"",2021-05-17 10:21:07 +0200,2021-05-17 11:17:07 +0200,true,,60a227312d3808423d9815ee,CR9
 2936354,d,2021-05-18 10:45:00 +0200,FR8237,Trapani,Ryanair,2,C20,"",2021-05-17 10:46:06 +0200,2021-05-17 10:46:06 +0200,true,,60a22d0d2d3808423d9817a4,73H
 2936358,d,2021-05-18 11:35:00 +0200,AY1222,Helsinki,Finnair,2,D5,"",2021-05-17 11:36:06 +0200,2021-05-17 11:36:06 +0200,true,,60a238c52d3808423d9824f9,E90
