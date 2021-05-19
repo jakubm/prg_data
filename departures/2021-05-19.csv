@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2936403,d,2021-05-19 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2021-05-18 06:21:05 +0200,2021-05-19 06:01:06 +0200,true,,60a340702d3808423d984c53,73H
+2936403,d,2021-05-19 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 06:12,2021-05-18 06:21:05 +0200,2021-05-19 06:25:06 +0200,true,2021-05-19 06:12:00 +0200,60a340702d3808423d984c53,73H
 2936420,d,2021-05-19 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C12,"",2021-05-18 10:21:06 +0200,2021-05-18 10:21:06 +0200,true,,60a378b02d3808423d9851dc,CR9
 2936428,d,2021-05-19 10:45:00 +0200,OK0894,Moscow/SHEREMETYEVO,Czech Airlines,1,A3,"",2021-05-18 10:46:07 +0200,2021-05-18 10:46:07 +0200,true,,60a37e8d2d3808423d98525d,320
 2936430,d,2021-05-19 10:45:00 +0200,QS2818,Djerba,SmartWings,1,A4,"",2021-05-18 10:46:07 +0200,2021-05-18 10:46:07 +0200,true,,60a37e8d2d3808423d98525e,73G
