@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2937599,a,2021-05-30 07:55:00 +0200,QS1263,Tel Aviv/BEN GURION,SmartWings,1,"","",2021-05-29 07:56:06 +0200,2021-05-29 07:56:06 +0200,true,,60b1d7342d3808423d9bc23d,73G
+2937599,a,2021-05-30 07:55:00 +0200,QS1263,Tel Aviv/BEN GURION,SmartWings,1,"",Expected 07:40,2021-05-29 07:56:06 +0200,2021-05-30 04:34:06 +0200,true,2021-05-30 07:40:00 +0200,60b1d7342d3808423d9bc23d,73G
 2937600,a,2021-05-30 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2021-05-29 08:36:06 +0200,2021-05-29 08:36:06 +0200,true,,60b1e0942d3808423d9bc4ba,32Q
 2937605,a,2021-05-30 09:40:00 +0200,LH1392,Frankfurt,Lufthansa,2,"","",2021-05-29 09:41:07 +0200,2021-05-29 09:41:07 +0200,true,,60b1efd02d3808423d9bcdb0,CR9
 2937614,a,2021-05-30 10:00:00 +0200,A30866,Athens,Aegean Airlines,2,"","",2021-05-29 10:01:06 +0200,2021-05-29 10:01:06 +0200,true,,60b1f4812d3808423d9bd447,320
