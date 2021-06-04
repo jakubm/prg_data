@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2938357,a,2021-06-05 07:10:00 +0200,QR0289,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"","",2021-06-04 07:11:07 +0200,2021-06-04 07:11:07 +0200,true,,60b9b5a92d3863e9dbe37410,788
+2938357,a,2021-06-05 07:10:00 +0200,QR0289,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"",Expected 06:30,2021-06-04 07:11:07 +0200,2021-06-05 01:22:06 +0200,true,2021-06-05 06:30:00 +0200,60b9b5a92d3863e9dbe37410,788
 2938367,a,2021-06-05 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2021-06-04 08:35:07 +0200,2021-06-04 08:35:07 +0200,true,,60b9c94e2d3863e9dbe375c8,319
 2938374,a,2021-06-05 09:40:00 +0200,QS2235,Kerkyra/CORFU,SmartWings,2,"","",2021-06-04 09:40:06 +0200,2021-06-04 09:40:06 +0200,true,,60b9d88a2d3863e9dbe37f52,73G
 2938375,a,2021-06-05 09:45:00 +0200,QS2525,Hurghada,SmartWings,1,"","",2021-06-04 09:45:08 +0200,2021-06-04 09:45:08 +0200,true,,60b9d9b62d3863e9dbe38023,7M8
@@ -44,3 +44,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2938484,a,2021-06-05 22:45:00 +0200,QS1169,Menorca,SmartWings,2,"","",2021-06-04 22:46:06 +0200,2021-06-04 22:46:06 +0200,true,,60ba90ce2d3863e9dbe3d8fc,73G
 2938485,a,2021-06-05 22:55:00 +0200,QS2041,Las Palmas,SmartWings,2,"","",2021-06-04 22:56:07 +0200,2021-06-04 22:56:07 +0200,true,,60ba93262d3863e9dbe3d902,7M8
 2938487,a,2021-06-05 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-06-04 23:51:07 +0200,2021-06-04 23:51:07 +0200,true,,60baa00a2d3863e9dbe3dc71,7M8
+2938491,a,2021-06-06 01:30:00 +0200,QS1153,Malaga,SmartWings,2,"","",2021-06-05 01:31:07 +0200,2021-06-05 01:31:07 +0200,true,,60bab77a2d3863e9dbe3ef0f,73G
