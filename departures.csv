@@ -47,3 +47,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2938645,d,2021-06-06 20:15:00 +0200,LX1499,Zurich,Swiss International Air Lines,2,C6,"",2021-06-05 20:16:06 +0200,2021-06-05 20:16:06 +0200,true,,60bbbf252d3863e9dbe49ad9,223
 2938647,d,2021-06-06 21:00:00 +0200,VY8655,Barcelona,Vueling,2,D5,"",2021-06-05 21:01:07 +0200,2021-06-05 21:01:07 +0200,true,,60bbc9b12d3863e9dbe49bd8,320
 2938648,d,2021-06-06 21:35:00 +0200,EK0138,Dubai,Emirates,1,B8,"",2021-06-05 21:36:06 +0200,2021-06-05 21:36:06 +0200,true,,60bbd1e52d3863e9dbe49ef9,77W
+2938663,d,2021-06-07 00:50:00 +0200,QS1240,Hurghada,SmartWings,1,B7,"",2021-06-06 00:51:06 +0200,2021-06-06 00:51:06 +0200,true,,60bbff992d3863e9dbe4aaa8,7M8
