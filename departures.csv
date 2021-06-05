@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2938344,d,2021-06-05 04:25:00 +0200,QS2234,Kerkyra/CORFU,SmartWings,2,D2,"",2021-06-04 04:26:06 +0200,2021-06-04 10:13:06 +0200,true,,60b98efd2d3863e9dbe365c6,73G
+2938344,d,2021-06-05 04:25:00 +0200,QS2234,Kerkyra/CORFU,SmartWings,2,D2,Check-in,2021-06-04 04:26:06 +0200,2021-06-05 01:56:06 +0200,true,,60b98efd2d3863e9dbe365c6,73G
 2938345,d,2021-06-05 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,C3,"",2021-06-04 04:46:06 +0200,2021-06-04 09:41:07 +0200,true,,60b993af2d3863e9dbe36b2b,73H
 2938346,d,2021-06-05 04:50:00 +0200,QS1126,Kos,SmartWings,2,D4,"",2021-06-04 04:51:06 +0200,2021-06-04 10:13:06 +0200,true,,60b994d82d3863e9dbe36ba6,73H
 2938347,d,2021-06-05 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,D6,"",2021-06-04 04:56:06 +0200,2021-06-04 08:14:06 +0200,true,,60b996052d3863e9dbe36c6f,7M8
