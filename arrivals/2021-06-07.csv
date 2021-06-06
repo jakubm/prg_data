@@ -33,3 +33,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2938796,a,2021-06-07 22:30:00 +0200,KL1359,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-06-06 22:31:07 +0200,2021-06-06 22:31:07 +0200,true,,60bd304a2d3863e9dbe54e48,E75
 2938799,a,2021-06-07 23:05:00 +0200,QS2037,Tenerife/SUR,SmartWings,2,"","",2021-06-06 23:06:07 +0200,2021-06-06 23:06:07 +0200,true,,60bd387d2d3863e9dbe54e5e,7M8
 2938800,a,2021-06-07 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-06-06 23:51:07 +0200,2021-06-06 23:51:07 +0200,true,,60bd43092d3863e9dbe54e87,73H
+2938801,a,2021-06-08 00:55:00 +0200,QS1113,Rhodes,SmartWings,2,"","",2021-06-07 00:56:07 +0200,2021-06-07 00:56:07 +0200,true,,60bd52452d3863e9dbe550cf,73G
