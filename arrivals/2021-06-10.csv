@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2939036,a,2021-06-10 07:10:00 +0200,QR0289,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"","",2021-06-09 07:11:07 +0200,2021-06-09 07:11:07 +0200,true,,60c04d292d3863e9dbe63ea3,788
+2939036,a,2021-06-10 07:10:00 +0200,QR0289,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"",Expected 06:25,2021-06-09 07:11:07 +0200,2021-06-10 01:29:06 +0200,true,2021-06-10 06:25:00 +0200,60c04d292d3863e9dbe63ea3,788
 2939050,a,2021-06-10 07:55:00 +0200,QS1263,Tel Aviv/BEN GURION,SmartWings,1,"","",2021-06-09 07:56:07 +0200,2021-06-09 07:56:07 +0200,true,,60c057b52d3863e9dbe6414a,73G
 2939055,a,2021-06-10 09:25:00 +0200,LO0523,Warsaw,Lot Polish Airlines,2,"","",2021-06-09 09:26:08 +0200,2021-06-09 09:26:08 +0200,true,,60c06ccd2d3863e9dbe6479d,DH4
 2939059,a,2021-06-10 10:05:00 +0200,QS2579,Sharm El Sheikh,SmartWings,1,"","",2021-06-09 10:06:08 +0200,2021-06-09 10:06:08 +0200,true,,60c0762d2d3863e9dbe64dbb,7M8
@@ -31,3 +31,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2939162,a,2021-06-10 23:30:00 +0200,QS1223,Marsa Allam,SmartWings,1,"","",2021-06-09 23:31:07 +0200,2021-06-09 23:31:07 +0200,true,,60c132da2d3863e9dbe6a3f6,7M8
 2939163,a,2021-06-10 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-06-09 23:51:07 +0200,2021-06-09 23:51:07 +0200,true,,60c137892d3863e9dbe6a402,7M8
 2939165,a,2021-06-11 00:55:00 +0200,QS1113,Rhodes,SmartWings,2,"","",2021-06-10 00:56:06 +0200,2021-06-10 00:56:06 +0200,true,,60c146c52d3863e9dbe6adb6,7M8
+2939167,a,2021-06-11 01:30:00 +0200,QS1153,Malaga,SmartWings,2,"","",2021-06-10 01:31:06 +0200,2021-06-10 01:31:06 +0200,true,,60c14ef92d3863e9dbe6aee3,73G
