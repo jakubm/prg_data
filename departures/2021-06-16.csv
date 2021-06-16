@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2939932,d,2021-06-16 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,D6,Check-in,2021-06-15 04:06:07 +0200,2021-06-16 01:38:06 +0200,true,,60c80acd2d3863e9dbe9eba3,73J
+2939932,d,2021-06-16 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,D6,Gate open,2021-06-15 04:06:07 +0200,2021-06-16 03:02:06 +0200,true,,60c80acd2d3863e9dbe9eba3,73J
 2939933,d,2021-06-16 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D2,Check-in,2021-06-15 04:46:06 +0200,2021-06-16 02:16:06 +0200,true,,60c8142d2d3863e9dbea08a9,73H
 2939934,d,2021-06-16 04:50:00 +0200,QS1126,Kos,SmartWings,2,D5,Check-in,2021-06-15 04:51:06 +0200,2021-06-16 02:16:07 +0200,true,,60c815592d3863e9dbea0a66,73H
 2939935,d,2021-06-16 04:55:00 +0200,QS1110,Chania,SmartWings,2,D4,Check-in,2021-06-15 04:56:07 +0200,2021-06-16 02:16:07 +0200,true,,60c816852d3863e9dbea0aad,73H
