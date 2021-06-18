@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2940454,d,2021-06-19 04:10:00 +0200,QS2700,Naples,SmartWings,2,C2,"",2021-06-18 04:11:09 +0200,2021-06-18 09:34:07 +0200,true,,60cc00792d3863e9dbebb683,73G
+2940454,d,2021-06-19 04:10:00 +0200,QS2700,Naples,SmartWings,2,C2,Check-in,2021-06-18 04:11:09 +0200,2021-06-19 01:40:06 +0200,true,,60cc00792d3863e9dbebb683,73G
 2940455,d,2021-06-19 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D4,"",2021-06-18 04:46:08 +0200,2021-06-18 09:34:07 +0200,true,,60cc08ad2d3863e9dbebcc44,73H
 2940456,d,2021-06-19 04:50:00 +0200,QS1126,Kos,SmartWings,2,C3,"",2021-06-18 04:51:07 +0200,2021-06-18 09:34:07 +0200,true,,60cc09d92d3863e9dbebcf21,319
 2940457,d,2021-06-19 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,D2,"",2021-06-18 04:56:07 +0200,2021-06-18 09:52:07 +0200,true,,60cc0b052d3863e9dbebd3b1,73H
