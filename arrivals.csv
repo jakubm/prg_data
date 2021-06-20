@@ -43,3 +43,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2940997,a,2021-06-21 23:05:00 +0200,QS2037,Tenerife/SUR,SmartWings,2,"","",2021-06-20 23:06:06 +0200,2021-06-20 23:06:06 +0200,true,,60cfad7d2d3863e9dbee5de2,7M8
 2940998,a,2021-06-21 23:45:00 +0200,QS1137,Tirana,SmartWings,1,"","",2021-06-20 23:46:06 +0200,2021-06-20 23:46:06 +0200,true,,60cfb6dd2d3863e9dbee5e2b,73H
 2941000,a,2021-06-22 00:55:00 +0200,QS1113,Rhodes,SmartWings,2,"","",2021-06-21 00:56:06 +0200,2021-06-21 00:56:06 +0200,true,,60cfc7452d3863e9dbee6627,7M8
+2941002,a,2021-06-22 01:30:00 +0200,QS1153,Malaga,SmartWings,2,"","",2021-06-21 01:31:07 +0200,2021-06-21 01:31:07 +0200,true,,60cfcf792d3863e9dbee66c2,73G
