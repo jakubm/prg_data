@@ -53,4 +53,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2941297,d,2021-06-24 00:35:00 +0200,QS2578,Sharm El Sheikh,SmartWings,1,A7,Check-in,2021-06-23 00:36:06 +0200,2021-06-23 22:05:07 +0200,true,,60d265942d3863e9dbefa88c,73H
 2941298,d,2021-06-24 00:45:00 +0200,QS2588,Marsa Allam,SmartWings,1,A6,Check-in,2021-06-23 00:46:06 +0200,2021-06-23 22:10:06 +0200,true,,60d267ed2d3863e9dbefab8a,7M8
 2941299,d,2021-06-24 00:50:00 +0200,QS1240,Hurghada,SmartWings,1,A9,Check-in,2021-06-23 00:51:06 +0200,2021-06-23 22:16:06 +0200,true,,60d269192d3863e9dbefac6c,73J
-2941301,d,2021-06-24 01:10:00 +0200,QS1222,Marsa Allam,SmartWings,1,B7,"",2021-06-23 01:11:06 +0200,2021-06-23 01:11:06 +0200,true,,60d26dc92d3863e9dbefac81,7M8
+2941301,d,2021-06-24 01:10:00 +0200,QS1222,Marsa Allam,SmartWings,1,B7,Check-in,2021-06-23 01:11:06 +0200,2021-06-23 22:36:06 +0200,true,,60d26dc92d3863e9dbefac81,7M8
