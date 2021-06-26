@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2941711,a,2021-06-26 07:10:00 +0200,QR0289,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"","",2021-06-25 07:11:08 +0200,2021-06-25 07:11:08 +0200,true,,60d565282d3863e9dbf1b420,788
+2941711,a,2021-06-26 07:10:00 +0200,QR0289,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"",Expected 06:15,2021-06-25 07:11:08 +0200,2021-06-26 05:07:06 +0200,true,2021-06-26 06:15:00 +0200,60d565282d3863e9dbf1b420,788
 2941721,a,2021-06-26 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2021-06-25 08:36:07 +0200,2021-06-25 08:36:07 +0200,true,,60d579152d3863e9dbf1b929,321
 2941729,a,2021-06-26 09:45:00 +0200,QS2525,Hurghada,SmartWings,1,"","",2021-06-25 09:46:07 +0200,2021-06-25 09:46:07 +0200,true,,60d5897d2d3863e9dbf1c329,7M8
 2941730,a,2021-06-26 10:05:00 +0200,FV6621,St Petersburg,Rossiya Airlines,1,"","",2021-06-25 10:06:08 +0200,2021-06-25 10:06:08 +0200,true,,60d58e2d2d3863e9dbf1c7ba,319
