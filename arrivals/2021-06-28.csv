@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2942118,a,2021-06-28 03:30:00 +0200,QS2695,Antalya,SmartWings,1,"","",2021-06-27 03:31:07 +0200,2021-06-27 03:31:07 +0200,true,,60d7d4992d3863e9dbf380ca,7M8
+2942118,a,2021-06-28 03:30:00 +0200,QS2695,Antalya,SmartWings,1,"",Expected 03:10,2021-06-27 03:31:07 +0200,2021-06-28 01:24:06 +0200,true,2021-06-28 03:10:00 +0200,60d7d4992d3863e9dbf380ca,7M8
 2942141,a,2021-06-28 08:20:00 +0200,EW9772,Dusseldorf,Eurowings Ag,2,"","",2021-06-27 08:21:08 +0200,2021-06-27 08:21:08 +0200,true,,60d818902d3863e9dbf3b4cb,32A
 2942142,a,2021-06-28 08:30:00 +0200,LX1484,Zurich,Swiss International Air Lines,2,"","",2021-06-27 08:31:07 +0200,2021-06-27 08:31:07 +0200,true,,60d81aea2d3863e9dbf3b561,320
 2942143,a,2021-06-28 09:00:00 +0200,JU0610,Belgrade,Air Serbia,1,"","",2021-06-27 09:01:08 +0200,2021-06-27 09:01:08 +0200,true,,60d821f12d3863e9dbf3b99c,AT7
