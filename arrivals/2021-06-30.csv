@@ -61,3 +61,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2942677,a,2021-07-01 01:20:00 +0200,QS2609,Antalya,SmartWings,1,"","",2021-06-30 01:21:07 +0200,2021-06-30 01:21:07 +0200,true,,60dbaaa0bebc020251f60807,73H
 2942678,a,2021-07-01 01:50:00 +0200,QS1107,Heraklion,SmartWings,2,"","",2021-06-30 01:51:07 +0200,2021-06-30 01:51:07 +0200,true,,60dbb1a8bebc020251f60a29,73H
 2942679,a,2021-07-01 01:50:00 +0200,QS2253,Kos,SmartWings,2,"","",2021-06-30 01:51:07 +0200,2021-06-30 01:51:07 +0200,true,,60dbb1a8bebc020251f60a2a,73H
+2942680,a,2021-07-01 02:45:00 +0200,QS2003,Palma De Mallorca,SmartWings,2,"","",2021-06-30 02:46:06 +0200,2021-06-30 02:46:06 +0200,true,,60dbbe8cbebc020251f60e89,73H
