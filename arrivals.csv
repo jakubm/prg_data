@@ -74,3 +74,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2942926,a,2021-07-01 22:40:00 +0200,LH1402,Frankfurt,Lufthansa,2,"","",2021-06-30 22:41:07 +0200,2021-06-30 22:41:07 +0200,true,,60dcd6a1bebc020251f724b6,32A
 2942930,a,2021-07-01 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-06-30 23:51:07 +0200,2021-06-30 23:51:07 +0200,true,,60dce708bebc020251f72fc4,73H
 2942931,a,2021-07-01 23:50:00 +0200,QS2905,Burgas,SmartWings,1,"","",2021-06-30 23:51:07 +0200,2021-06-30 23:51:07 +0200,true,,60dce708bebc020251f72fc5,7M8
+2942933,a,2021-07-02 00:10:00 +0200,QS2219,Rhodes,SmartWings,2,"","",2021-07-01 00:11:07 +0200,2021-07-01 00:11:07 +0200,true,,60dcebc2bebc020251f7322a,73H
