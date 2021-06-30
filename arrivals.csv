@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2942702,a,2021-07-01 07:10:00 +0200,QR0289,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"","",2021-06-30 07:11:08 +0200,2021-06-30 07:11:08 +0200,true,,60dbfca8bebc020251f64827,788
+2942702,a,2021-07-01 07:10:00 +0200,QR0289,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"",Expected 07:05,2021-06-30 07:11:08 +0200,2021-07-01 01:27:07 +0200,true,2021-07-01 07:05:00 +0200,60dbfca8bebc020251f64827,32A
 2942703,a,2021-07-01 07:15:00 +0200,OK0461,Keflavik,Czech Airlines,2,"","",2021-06-30 07:16:07 +0200,2021-06-30 07:16:07 +0200,true,,60dbfddebebc020251f64a26,319
 2942709,a,2021-07-01 07:55:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"","",2021-06-30 07:56:07 +0200,2021-06-30 07:56:07 +0200,true,,60dc0734bebc020251f64c72,73J
 2942711,a,2021-07-01 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2021-06-30 08:36:09 +0200,2021-06-30 08:36:09 +0200,true,,60dc1094bebc020251f65060,321
