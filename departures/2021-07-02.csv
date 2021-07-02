@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2942939,d,2021-07-02 04:00:00 +0200,QS2658,Antalya,SmartWings,1,B3,Gate closed,2021-07-01 04:01:06 +0200,2021-07-02 03:53:06 +0200,true,,60dd21a1bebc020251f74f2a,73H
+2942939,d,2021-07-02 04:00:00 +0200,QS2658,Antalya,SmartWings,1,B3,Departed 03:57,2021-07-01 04:01:06 +0200,2021-07-02 04:08:06 +0200,true,2021-07-02 03:57:00 +0200,60dd21a1bebc020251f74f2a,73H
 2942940,d,2021-07-02 04:05:00 +0200,QS1100,Karpathos,SmartWings,2,D3,Gate closed,2021-07-01 04:06:07 +0200,2021-07-02 03:49:06 +0200,true,,60dd22ccbebc020251f74f30,7M8
 2942943,d,2021-07-02 04:45:00 +0200,QS1124,Samos,SmartWings,2,C2,Gate open,2021-07-01 04:46:07 +0200,2021-07-02 03:46:06 +0200,true,,60dd2c2dbebc020251f7678b,7M8
 2942942,d,2021-07-02 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D5,Gate open,2021-07-01 04:46:07 +0200,2021-07-02 03:46:06 +0200,true,,60dd2c2dbebc020251f7678a,73H
