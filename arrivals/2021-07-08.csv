@@ -73,3 +73,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2944751,a,2021-07-09 00:45:00 +0200,QS1055,Valencia,SmartWings,2,"","",2021-07-08 00:46:07 +0200,2021-07-08 00:46:07 +0200,true,,60e62e6dbebc020251fdb9bd,73H
 2944752,a,2021-07-09 00:55:00 +0200,QS1113,Rhodes,SmartWings,2,"","",2021-07-08 00:56:07 +0200,2021-07-08 00:56:07 +0200,true,,60e630c4bebc020251fdba49,73H
 2944754,a,2021-07-09 01:30:00 +0200,QS1153,Malaga,SmartWings,2,"","",2021-07-08 01:31:13 +0200,2021-07-08 01:31:13 +0200,true,,60e63902bebc020251fdbaef,73G
+2944755,a,2021-07-09 01:50:00 +0200,QS2243,Heraklion,SmartWings,2,"","",2021-07-08 01:51:07 +0200,2021-07-08 01:51:07 +0200,true,,60e63db2bebc020251fdbafb,7M8
