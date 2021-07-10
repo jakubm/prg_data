@@ -96,3 +96,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2945639,a,2021-07-11 23:50:00 +0200,QS1031,Nice,SmartWings,2,"","",2021-07-10 23:51:09 +0200,2021-07-10 23:51:09 +0200,true,,60ea1608bebc020251ffeacd,73G
 2945638,a,2021-07-11 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-07-10 23:51:09 +0200,2021-07-10 23:51:09 +0200,true,,60ea1608bebc020251ffeacc,73H
 2945641,a,2021-07-12 00:45:00 +0200,QS1055,Valencia,SmartWings,2,"","",2021-07-11 00:46:09 +0200,2021-07-11 00:46:09 +0200,true,,60ea22edbebc020251fff090,73H
+2945643,a,2021-07-12 00:55:00 +0200,QS1113,Rhodes,SmartWings,2,"","",2021-07-11 00:56:09 +0200,2021-07-11 00:56:09 +0200,true,,60ea2544bebc020251fff111,73H
