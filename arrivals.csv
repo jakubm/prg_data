@@ -70,3 +70,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2946581,a,2021-07-15 23:35:00 +0200,OK0515,Berlin/BRANDENBURG,Czech Airlines,2,"",Cancelled,2021-07-14 23:36:10 +0200,2021-07-14 23:36:10 +0200,true,,60ef588dbebc02025202a63c,320
 2946582,a,2021-07-15 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-07-14 23:51:08 +0200,2021-07-14 23:51:08 +0200,true,,60ef5c11bebc02025202a838,73H
 2946583,a,2021-07-15 23:50:00 +0200,QS2905,Burgas,SmartWings,1,"","",2021-07-14 23:51:08 +0200,2021-07-14 23:51:08 +0200,true,,60ef5c11bebc02025202a839,73H
+2946585,a,2021-07-16 00:10:00 +0200,QS2219,Rhodes,SmartWings,2,"","",2021-07-15 00:11:08 +0200,2021-07-15 00:11:08 +0200,true,,60ef60b8bebc02025202ab5a,7M8
