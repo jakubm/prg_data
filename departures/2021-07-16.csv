@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2946592,d,2021-07-16 04:05:00 +0200,QS1100,Karpathos,SmartWings,2,D2,"",2021-07-15 04:06:08 +0200,2021-07-15 09:13:07 +0200,true,,60ef97ccbebc02025202b488,7M8
+2946592,d,2021-07-16 04:05:00 +0200,QS1100,Karpathos,SmartWings,2,D2,Check-in,2021-07-15 04:06:08 +0200,2021-07-16 01:36:07 +0200,true,,60ef97ccbebc02025202b488,7M8
 2946595,d,2021-07-16 04:45:00 +0200,QS1124,Samos,SmartWings,2,C3,"",2021-07-15 04:46:07 +0200,2021-07-15 09:15:07 +0200,true,,60efa12cbebc02025202beae,73H
 2946594,d,2021-07-16 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D6,"",2021-07-15 04:46:07 +0200,2021-07-15 09:15:07 +0200,true,,60efa12cbebc02025202bead,73H
 2946593,d,2021-07-16 04:45:00 +0200,QS1190,Antalya,SmartWings,1,B8,"",2021-07-15 04:46:07 +0200,2021-07-15 09:15:07 +0200,true,,60efa12cbebc02025202beac,73H
