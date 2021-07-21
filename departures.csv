@@ -75,3 +75,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2948505,d,2021-07-22 21:55:00 +0200,VOE1585,Cagliari,Volotea Airlines,2,C16,"",2021-07-21 21:56:09 +0200,2021-07-21 21:56:09 +0200,true,,60f87b94bebcf80a738ff28b,320
 2948510,d,2021-07-22 22:15:00 +0200,LY2524,Tel Aviv/BEN GURION,El Al Israel Airlines,1,A2,"",2021-07-21 22:16:07 +0200,2021-07-21 22:16:07 +0200,true,,60f88045bebcf80a738ff2c7,739
 2948520,d,2021-07-22 23:00:00 +0200,QS1286,Tel Aviv/BEN GURION,SmartWings,1,B3,"",2021-07-21 23:01:08 +0200,2021-07-21 23:01:08 +0200,true,,60f88adabebcf4f23d70b5be,319
+2948523,d,2021-07-23 00:05:00 +0200,QS1240,Hurghada,SmartWings,1,B8,"",2021-07-22 00:06:09 +0200,2021-07-22 00:06:09 +0200,true,,60f89a16bebc8afd1d98d65c,7M8
