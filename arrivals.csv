@@ -85,3 +85,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2948821,a,2021-07-23 23:35:00 +0200,FR8301,Palma De Mallorca,Ryanair,2,"","",2021-07-22 23:36:09 +0200,2021-07-22 23:36:09 +0200,true,,60f9e48ebebc8afd1d998ef5,73H
 2948820,a,2021-07-23 23:35:00 +0200,QS2933,Burgas,SmartWings,1,"","",2021-07-22 23:36:09 +0200,2021-07-22 23:36:09 +0200,true,,60f9e48ebebc8afd1d998ef4,73H
 2948822,a,2021-07-23 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-07-22 23:51:09 +0200,2021-07-22 23:51:09 +0200,true,,60f9e808bebc8afd1d999055,73H
+2948824,a,2021-07-24 00:15:00 +0200,FR7326,Dublin,Ryanair,1,"","",2021-07-23 00:16:09 +0200,2021-07-23 00:16:09 +0200,true,,60f9edeebebc8afd1d99909d,73H
