@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2948564,a,2021-07-23 07:55:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"","",2021-07-22 07:56:10 +0200,2021-07-22 07:56:10 +0200,true,,60f9083ebebc8afd1d990776,319
+2948564,a,2021-07-23 07:55:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Expected 07:55,2021-07-22 07:56:10 +0200,2021-07-23 04:13:08 +0200,true,2021-07-23 07:55:00 +0200,60f9083ebebc8afd1d990776,319
 2948565,a,2021-07-23 08:25:00 +0200,FR8331,Rome/CIAMPINO,Ryanair,2,"","",2021-07-22 08:26:10 +0200,2021-07-22 08:26:10 +0200,true,,60f90f3dbebc8afd1d990d5c,73H
 2948572,a,2021-07-23 08:40:00 +0200,FR1013,London/STANSTED,Ryanair,1,"","",2021-07-22 08:41:10 +0200,2021-07-22 08:41:10 +0200,true,,60f912c0bebc8afd1d990edc,73H
 2948574,a,2021-07-23 08:50:00 +0200,AF1382,Paris/CDG,Air France,2,"","",2021-07-22 08:51:10 +0200,2021-07-22 08:51:10 +0200,true,,60f91518bebc8afd1d99102c,E90
