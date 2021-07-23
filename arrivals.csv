@@ -87,3 +87,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949121,a,2021-07-24 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-07-23 23:51:07 +0200,2021-07-23 23:51:07 +0200,true,,60fb3989bebc8afd1d9a6692,7M8
 2949124,a,2021-07-25 00:35:00 +0200,QS2329,Kerkyra/CORFU,SmartWings,2,"","",2021-07-24 00:36:08 +0200,2021-07-24 00:36:08 +0200,true,,60fb4414bebc8afd1d9a6e5c,73H
 2949127,a,2021-07-25 00:55:00 +0200,QS1113,Rhodes,SmartWings,2,"","",2021-07-24 00:56:08 +0200,2021-07-24 00:56:08 +0200,true,,60fb48c4bebc8afd1d9a7041,73H
+2949129,a,2021-07-25 01:30:00 +0200,QS1153,Malaga,SmartWings,2,"","",2021-07-24 01:31:08 +0200,2021-07-24 01:31:08 +0200,true,,60fb50f9bebc8afd1d9a749c,319
