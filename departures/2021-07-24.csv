@@ -63,7 +63,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949029,d,2021-07-24 17:05:00 +0200,FR1375,London/STANSTED,Ryanair,1,B10,Gate closed,2021-07-23 17:06:08 +0200,2021-07-24 16:50:07 +0200,true,,60fada9dbebc8afd1d9a2d2b,73H
 2949028,d,2021-07-24 17:05:00 +0200,QS1168,Menorca,SmartWings,2,C7,Gate closed,2021-07-23 17:06:08 +0200,2021-07-24 16:58:07 +0200,true,,60fada9dbebc8afd1d9a2d2a,7M8
 2949042,d,2021-07-24 17:45:00 +0200,SU2015,Moscow/SHEREMETYEVO,Aeroflot,1,B4,Boarding,2021-07-23 17:46:08 +0200,2021-07-24 16:51:07 +0200,true,,60fae3fdbebc8afd1d9a3ad4,73H
-2949049,d,2021-07-24 17:50:00 +0200,FR8256,Riga,Ryanair,2,C19,Gate open,2021-07-23 17:51:08 +0200,2021-07-24 16:40:06 +0200,true,,60fae528bebc8afd1d9a3c6b,73H
+2949049,d,2021-07-24 17:50:00 +0200,FR8256,Riga,Ryanair,2,C19,Boarding,2021-07-23 17:51:08 +0200,2021-07-24 17:07:06 +0200,true,,60fae528bebc8afd1d9a3c6b,73H
 2949054,d,2021-07-24 18:05:00 +0200,QS1152,Malaga,SmartWings,2,D6,Check-in,2021-07-23 18:06:09 +0200,2021-07-24 15:35:06 +0200,true,,60fae8acbebc8afd1d9a445f,319
 2949055,d,2021-07-24 18:05:00 +0200,QS1164,Palma De Mallorca,SmartWings,2,D3,Check-in,2021-07-23 18:06:09 +0200,2021-07-24 15:48:07 +0200,true,,60fae8acbebc8afd1d9a4460,73G
 2949060,d,2021-07-24 18:15:00 +0200,AF1583,Paris/CDG,Air France,2,C2,Check-in,2021-07-23 18:16:08 +0200,2021-07-24 16:13:06 +0200,true,,60faeb05bebc8afd1d9a4ccf,E70
