@@ -99,3 +99,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949460,a,2021-07-25 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-07-24 23:51:08 +0200,2021-07-24 23:51:08 +0200,true,,60fc8b08bebc8afd1d9b5982,73H
 2949463,a,2021-07-26 00:45:00 +0200,QS1055,Valencia,SmartWings,2,"","",2021-07-25 00:46:08 +0200,2021-07-25 00:46:08 +0200,true,,60fc97edbebc8afd1d9b5fe0,73H
 2949465,a,2021-07-26 00:55:00 +0200,QS1113,Rhodes,SmartWings,2,"","",2021-07-25 00:56:09 +0200,2021-07-25 00:56:09 +0200,true,,60fc9a44bebc8afd1d9b61d9,73H
+2949467,a,2021-07-26 01:30:00 +0200,QS1153,Malaga,SmartWings,2,"","",2021-07-25 01:31:10 +0200,2021-07-25 01:31:10 +0200,true,,60fca279bebc8afd1d9b62c1,7M8
