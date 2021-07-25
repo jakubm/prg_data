@@ -29,9 +29,9 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949234,d,2021-07-25 10:55:00 +0200,OS0706,Vienna,Austrian Airlines,2,C12,Departed 10:49,2021-07-24 10:56:07 +0200,2021-07-25 10:56:07 +0200,true,2021-07-25 10:49:00 +0200,60fbd564bebc8afd1d9ac3dc,E95
 2949237,d,2021-07-25 11:00:00 +0200,EJU3642,Barcelona,Easyjet,2,D6,Gate closed,2021-07-24 11:01:08 +0200,2021-07-25 10:51:07 +0200,true,,60fbd691bebc8afd1d9ac4df,319
 2949243,d,2021-07-25 11:15:00 +0200,A30867,Athens,Aegean Airlines,2,C7,Gate closed,2021-07-24 11:16:08 +0200,2021-07-25 11:05:07 +0200,true,,60fbda1ebebc8afd1d9ace55,32N
-2949248,d,2021-07-25 11:15:00 +0200,XC0338,Bodrum,Corendon Airlines,1,A7,Gate open,2021-07-24 11:16:08 +0200,2021-07-25 10:34:07 +0200,true,,60fbda1ebebc8afd1d9ace65,73H
-2949250,d,2021-07-25 11:20:00 +0200,FR7462,Rhodes,Ryanair,2,C19,Last call,2021-07-24 11:21:08 +0200,2021-07-25 10:40:07 +0200,true,,60fbdb4abebc8afd1d9ad089,73H
-2949253,d,2021-07-25 11:30:00 +0200,QS1210,Fuerteventura,SmartWings,2,C10,Boarding,2021-07-24 11:31:07 +0200,2021-07-25 10:58:06 +0200,true,,60fbdd98bebc8afd1d9ad48d,7M8
+2949248,d,2021-07-25 11:15:00 +0200,XC0338,Bodrum,Corendon Airlines,1,A7,Boarding,2021-07-24 11:16:08 +0200,2021-07-25 11:16:07 +0200,true,,60fbda1ebebc8afd1d9ace65,73H
+2949250,d,2021-07-25 11:20:00 +0200,FR7462,Rhodes,Ryanair,2,C19,Gate closed,2021-07-24 11:21:08 +0200,2021-07-25 11:13:07 +0200,true,,60fbdb4abebc8afd1d9ad089,73H
+2949253,d,2021-07-25 11:30:00 +0200,QS1210,Fuerteventura,SmartWings,2,C10,Last call,2021-07-24 11:31:07 +0200,2021-07-25 11:06:07 +0200,true,,60fbdd98bebc8afd1d9ad48d,7M8
 2949255,d,2021-07-25 11:50:00 +0200,QS1196,Antalya,SmartWings,1,A9,Gate open,2021-07-24 11:51:08 +0200,2021-07-25 10:06:13 +0200,true,,60fbe248bebc8afd1d9adc4e,73H
 2949256,d,2021-07-25 11:55:00 +0200,KL1354,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2021-07-24 11:56:08 +0200,2021-07-25 11:05:07 +0200,true,,60fbe37ebebc8afd1d9aded6,E90
 2949258,d,2021-07-25 12:00:00 +0200,QS1104,Heraklion,SmartWings,2,C2,Gate open,2021-07-24 12:01:09 +0200,2021-07-25 11:05:07 +0200,true,,60fbe4a1bebc8afd1d9adffd,73J
