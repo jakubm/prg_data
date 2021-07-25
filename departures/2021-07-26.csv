@@ -69,3 +69,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949697,d,2021-07-26 21:10:00 +0200,FR1053,Edinburgh,Ryanair,1,B10,"",2021-07-25 21:11:07 +0200,2021-07-25 21:11:07 +0200,true,,60fdb708bebc8afd1d9c5ae9,73H
 2949704,d,2021-07-26 22:40:00 +0200,OK0460,Keflavik,Czech Airlines,2,D3,"",2021-07-25 22:41:07 +0200,2021-07-25 22:41:07 +0200,true,,60fdcc20bebc8afd1d9c5e3f,319
 2949714,d,2021-07-26 23:45:00 +0200,QS1286,Tel Aviv/BEN GURION,SmartWings,1,B2,"",2021-07-25 23:46:07 +0200,2021-07-25 23:46:07 +0200,true,,60fddb5dbebc8afd1d9c60e5,320
+2949717,d,2021-07-27 00:50:00 +0200,QS1240,Hurghada,SmartWings,1,B7,"",2021-07-26 00:51:07 +0200,2021-07-26 00:51:07 +0200,true,,60fdea99bebc8afd1d9c660e,73H
