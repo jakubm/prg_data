@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2949157,a,2021-07-25 07:15:00 +0200,OK0461,Keflavik,Czech Airlines,2,"",Expected 07:10,2021-07-24 07:16:07 +0200,2021-07-25 03:42:07 +0200,true,2021-07-25 07:10:00 +0200,60fba1debebc8afd1d9aa134,320
 2949164,a,2021-07-25 07:35:00 +0200,W66421,Kutaisi,Wizz Air,1,"",Expected 07:35,2021-07-24 07:36:08 +0200,2021-07-25 04:56:07 +0200,true,2021-07-25 07:35:00 +0200,60fba684bebc8afd1d9aa1a0,32A
-2949165,a,2021-07-25 07:40:00 +0200,FR8223,Goteborg,Ryanair,2,"","",2021-07-24 07:41:08 +0200,2021-07-24 07:41:08 +0200,true,,60fba7babebc8afd1d9aa1b3,73H
+2949165,a,2021-07-25 07:40:00 +0200,FR8223,Goteborg,Ryanair,2,"",Expected 07:25,2021-07-24 07:41:08 +0200,2021-07-25 06:29:08 +0200,true,2021-07-25 07:25:00 +0200,60fba7babebc8afd1d9aa1b3,73H
 2949168,a,2021-07-25 08:05:00 +0200,FR2121,Charleroi,Ryanair,2,"","",2021-07-24 08:06:08 +0200,2021-07-24 08:06:08 +0200,true,,60fbad96bebc8afd1d9aa3cb,73H
 2949169,a,2021-07-25 08:05:00 +0200,VY6818,Florence,Vueling,2,"","",2021-07-24 08:06:08 +0200,2021-07-24 08:06:08 +0200,true,,60fbad96bebc8afd1d9aa3d2,319
 2949171,a,2021-07-25 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"",Expected 08:10,2021-07-24 08:36:09 +0200,2021-07-25 06:17:07 +0200,true,2021-07-25 08:10:00 +0200,60fbb495bebc8afd1d9aab29,7M8
