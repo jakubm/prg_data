@@ -100,4 +100,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949457,d,2021-07-25 23:20:00 +0200,OK0460,Keflavik,Czech Airlines,2,C3,Departed 23:12,2021-07-24 23:20:08 +0200,2021-07-25 23:27:06 +0200,true,2021-07-25 23:12:00 +0200,60fc8400bebc8afd1d9b5772,319
 2949462,d,2021-07-26 00:35:00 +0200,QS2582,Sharm El Sheikh,SmartWings,1,B8,Gate open,2021-07-25 00:36:07 +0200,2021-07-25 23:23:06 +0200,true,,60fc959ebebc8afd1d9b5d7a,7M8
 2949464,d,2021-07-26 00:50:00 +0200,QS1240,Hurghada,SmartWings,1,A6,Gate open,2021-07-25 00:51:07 +0200,2021-07-25 23:23:06 +0200,true,,60fc9922bebc8afd1d9b6177,73H
-2949466,d,2021-07-26 01:10:00 +0200,QS1222,Marsa Allam,SmartWings,1,A7,Check-in,2021-07-25 01:11:08 +0200,2021-07-25 22:41:06 +0200,true,,60fc9dd2bebc8afd1d9b62b4,7M8
+2949466,d,2021-07-26 01:10:00 +0200,QS1222,Marsa Allam,SmartWings,1,A7,Gate open,2021-07-25 01:11:08 +0200,2021-07-25 23:43:06 +0200,true,,60fc9dd2bebc8afd1d9b62b4,7M8
