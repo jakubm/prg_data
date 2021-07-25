@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2949131,d,2021-07-25 04:35:00 +0200,QS2248,Heraklion,SmartWings,2,D2,Check-in,2021-07-24 04:36:07 +0200,2021-07-25 02:06:06 +0200,true,,60fb7c54bebc8afd1d9a7f69,73H
-2949132,d,2021-07-25 04:45:00 +0200,QS1190,Antalya,SmartWings,1,B7,"",2021-07-24 04:46:07 +0200,2021-07-24 10:07:07 +0200,true,,60fb7eacbebc8afd1d9a8367,73H
+2949132,d,2021-07-25 04:45:00 +0200,QS1190,Antalya,SmartWings,1,B7,Check-in,2021-07-24 04:46:07 +0200,2021-07-25 02:15:06 +0200,true,,60fb7eacbebc8afd1d9a8367,73H
 2949133,d,2021-07-25 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,C2,"",2021-07-24 04:56:07 +0200,2021-07-24 08:55:07 +0200,true,,60fb8104bebc8afd1d9a8532,73J
 2949134,d,2021-07-25 04:55:00 +0200,QS1110,Chania,SmartWings,2,D3,"",2021-07-24 04:56:07 +0200,2021-07-24 08:55:07 +0200,true,,60fb8104bebc8afd1d9a8533,73H
 2949135,d,2021-07-25 05:05:00 +0200,QS1186,Varna,SmartWings,1,B8,"",2021-07-24 05:06:07 +0200,2021-07-24 10:07:07 +0200,true,,60fb835cbebc8afd1d9a85b5,73H
