@@ -29,10 +29,10 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949234,d,2021-07-25 10:55:00 +0200,OS0706,Vienna,Austrian Airlines,2,C12,Departed 10:49,2021-07-24 10:56:07 +0200,2021-07-25 10:56:07 +0200,true,2021-07-25 10:49:00 +0200,60fbd564bebc8afd1d9ac3dc,E95
 2949237,d,2021-07-25 11:00:00 +0200,EJU3642,Barcelona,Easyjet,2,D6,Gate closed,2021-07-24 11:01:08 +0200,2021-07-25 10:51:07 +0200,true,,60fbd691bebc8afd1d9ac4df,319
 2949243,d,2021-07-25 11:15:00 +0200,A30867,Athens,Aegean Airlines,2,C7,Gate closed,2021-07-24 11:16:08 +0200,2021-07-25 11:05:07 +0200,true,,60fbda1ebebc8afd1d9ace55,32N
-2949248,d,2021-07-25 11:15:00 +0200,XC0338,Bodrum,Corendon Airlines,1,A7,Boarding,2021-07-24 11:16:08 +0200,2021-07-25 11:16:07 +0200,true,,60fbda1ebebc8afd1d9ace65,73H
-2949250,d,2021-07-25 11:20:00 +0200,FR7462,Rhodes,Ryanair,2,C19,Gate closed,2021-07-24 11:21:08 +0200,2021-07-25 11:13:07 +0200,true,,60fbdb4abebc8afd1d9ad089,73H
-2949253,d,2021-07-25 11:30:00 +0200,QS1210,Fuerteventura,SmartWings,2,C10,Last call,2021-07-24 11:31:07 +0200,2021-07-25 11:06:07 +0200,true,,60fbdd98bebc8afd1d9ad48d,7M8
-2949255,d,2021-07-25 11:50:00 +0200,QS1196,Antalya,SmartWings,1,A9,Gate open,2021-07-24 11:51:08 +0200,2021-07-25 10:06:13 +0200,true,,60fbe248bebc8afd1d9adc4e,73H
+2949248,d,2021-07-25 11:15:00 +0200,XC0338,Bodrum,Corendon Airlines,1,A7,Last call,2021-07-24 11:16:08 +0200,2021-07-25 11:21:08 +0200,true,,60fbda1ebebc8afd1d9ace65,73H
+2949250,d,2021-07-25 11:20:00 +0200,FR7462,Rhodes,Ryanair,2,C19,Departed 11:21,2021-07-24 11:21:08 +0200,2021-07-25 11:28:07 +0200,true,2021-07-25 11:21:00 +0200,60fbdb4abebc8afd1d9ad089,73H
+2949253,d,2021-07-25 11:30:00 +0200,QS1210,Fuerteventura,SmartWings,2,C10,Gate closed,2021-07-24 11:31:07 +0200,2021-07-25 11:20:07 +0200,true,,60fbdd98bebc8afd1d9ad48d,7M8
+2949255,d,2021-07-25 11:50:00 +0200,QS1196,Antalya,SmartWings,1,A9,Last call,2021-07-24 11:51:08 +0200,2021-07-25 11:26:07 +0200,true,,60fbe248bebc8afd1d9adc4e,73H
 2949256,d,2021-07-25 11:55:00 +0200,KL1354,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2021-07-24 11:56:08 +0200,2021-07-25 11:05:07 +0200,true,,60fbe37ebebc8afd1d9aded6,E90
 2949258,d,2021-07-25 12:00:00 +0200,QS1104,Heraklion,SmartWings,2,C2,Gate open,2021-07-24 12:01:09 +0200,2021-07-25 11:05:07 +0200,true,,60fbe4a1bebc8afd1d9adffd,73J
 2949266,d,2021-07-25 12:05:00 +0200,FR8300,Palma De Mallorca,Ryanair,2,C18,Gate open,2021-07-24 12:06:09 +0200,2021-07-25 10:56:07 +0200,true,,60fbe5ccbebc8afd1d9ae1da,73H
@@ -41,7 +41,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949268,d,2021-07-25 12:20:00 +0200,QS1132,Kefallinia,SmartWings,2,C9,Gate open,2021-07-24 12:21:07 +0200,2021-07-25 11:05:07 +0200,true,,60fbe950bebc8afd1d9ae8e5,73H
 2949269,d,2021-07-25 12:25:00 +0200,QS1018,Cagliari,SmartWings,2,D2,Check-in,2021-07-24 12:26:08 +0200,2021-07-25 09:56:07 +0200,true,,60fbea86bebc8afd1d9aeacb,73G
 2949270,d,2021-07-25 12:25:00 +0200,QS1082,Split,SmartWings,1,B4,Gate open,2021-07-24 12:26:08 +0200,2021-07-25 11:05:07 +0200,true,,60fbea86bebc8afd1d9aeacc,7M8
-2949271,d,2021-07-25 12:30:00 +0200,LO0528,Warsaw/CHOPIN,Lot Polish Airlines,2,C3,Check-in,2021-07-24 12:31:08 +0200,2021-07-25 10:31:07 +0200,true,,60fbeba9bebc8afd1d9aec0a,E75
+2949271,d,2021-07-25 12:30:00 +0200,LO0528,Warsaw/CHOPIN,Lot Polish Airlines,2,C3,Gate open,2021-07-24 12:31:08 +0200,2021-07-25 11:22:07 +0200,true,,60fbeba9bebc8afd1d9aec0a,E75
 2949273,d,2021-07-25 12:40:00 +0200,QS1016,Catania,SmartWings,2,D4,Check-in,2021-07-24 12:41:09 +0200,2021-07-25 10:13:07 +0200,true,,60fbee00bebc8afd1d9aee84,73H
 2949274,d,2021-07-25 12:40:00 +0200,QS1122,Thessaloniki,SmartWings,2,C6,Check-in,2021-07-24 12:41:09 +0200,2021-07-25 10:14:06 +0200,true,,60fbee00bebc8afd1d9aee85,73H
 2949275,d,2021-07-25 12:40:00 +0200,QS1178,Burgas,SmartWings,1,B8,Gate open,2021-07-24 12:41:09 +0200,2021-07-25 11:05:07 +0200,true,,60fbee00bebc8afd1d9aee86,73J
