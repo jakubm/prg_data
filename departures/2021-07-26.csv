@@ -19,7 +19,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949528,d,2021-07-26 09:35:00 +0200,AF1383,Paris/CDG,Air France,2,C2,Gate closed,2021-07-25 09:35:08 +0200,2021-07-26 09:32:07 +0200,true,,60fd1424bebc8afd1d9b9c21,E70
 2949527,d,2021-07-26 09:35:00 +0200,JU0611,Belgrade,Air Serbia,1,B14,Gate closed,2021-07-25 09:35:08 +0200,2021-07-26 09:24:07 +0200,true,,60fd1424bebc8afd1d9b9c20,AT7
 2949545,d,2021-07-26 09:55:00 +0200,A30443,Heraklion,Aegean Airlines,2,C7,Last call,2021-07-25 09:55:08 +0200,2021-07-26 09:23:07 +0200,true,,60fd18d4bebc8afd1d9ba2b7,320
-2949544,d,2021-07-26 09:55:00 +0200,EJU7902,Amsterdam,Easyjet,2,D4,Gate open,2021-07-25 09:55:08 +0200,2021-07-26 08:34:07 +0200,true,,60fd18d4bebc8afd1d9ba2b6,319
+2949544,d,2021-07-26 09:55:00 +0200,EJU7902,Amsterdam,Easyjet,2,D4,Boarding,2021-07-25 09:55:08 +0200,2021-07-26 09:39:07 +0200,true,,60fd18d4bebc8afd1d9ba2b6,319
 2949547,d,2021-07-26 09:55:00 +0200,FR8228,Marseille,Ryanair,2,C19,Gate closed,2021-07-25 09:55:08 +0200,2021-07-26 09:35:08 +0200,true,,60fd18d4bebc8afd1d9ba2b8,73H
 2949548,d,2021-07-26 10:05:00 +0200,LX1485,Zurich,Swiss International Air Lines,2,C6,Boarding,2021-07-25 10:06:13 +0200,2021-07-26 09:31:07 +0200,true,,60fd1b2dbebc8afd1d9ba696,320
 2949554,d,2021-07-26 10:20:00 +0200,LH1393,Frankfurt,Lufthansa,2,C9,Gate open,2021-07-25 10:20:08 +0200,2021-07-26 09:32:07 +0200,true,,60fd1eb0bebc8afd1d9baba0,319
@@ -35,7 +35,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949584,d,2021-07-26 11:50:00 +0200,QS1196,Antalya,SmartWings,1,B8,Check-in,2021-07-25 11:50:08 +0200,2021-07-26 09:20:07 +0200,true,,60fd33c9bebc8afd1d9bc97a,73H
 2949588,d,2021-07-26 12:00:00 +0200,QS2036,Tenerife/SUR,SmartWings,2,C2,Check-in,2021-07-25 12:01:08 +0200,2021-07-26 09:30:08 +0200,true,,60fd3621bebc8afd1d9bce32,7M8
 2949590,d,2021-07-26 12:05:00 +0200,FR4069,Krakow,Ryanair,2,C18,Check-in,2021-07-25 12:05:08 +0200,2021-07-26 09:08:07 +0200,true,,60fd374cbebc8afd1d9bd111,73H
-2949591,d,2021-07-26 12:05:00 +0200,OK0760,Paris/CDG,Czech Airlines,2,C11,"",2021-07-25 12:05:08 +0200,2021-07-25 12:05:08 +0200,true,,60fd374cbebc8afd1d9bd112,319
+2949591,d,2021-07-26 12:05:00 +0200,OK0760,Paris/CDG,Czech Airlines,2,C11,Check-in,2021-07-25 12:05:08 +0200,2021-07-26 09:36:08 +0200,true,,60fd374cbebc8afd1d9bd112,319
 2949598,d,2021-07-26 12:20:00 +0200,QS1170,Madeira/FUNCHAL,SmartWings,2,D4,"",2021-07-25 12:20:07 +0200,2021-07-25 12:20:07 +0200,true,,60fd3ad1bebc8afd1d9bd939,73J
 2949599,d,2021-07-26 12:25:00 +0200,QS1082,Split,SmartWings,1,B7,"",2021-07-25 12:25:08 +0200,2021-07-25 12:25:08 +0200,true,,60fd3bfcbebc8afd1d9bd9e4,73H
 2949600,d,2021-07-26 12:30:00 +0200,LO0528,Warsaw/CHOPIN,Lot Polish Airlines,2,C23,"",2021-07-25 12:30:08 +0200,2021-07-25 12:30:08 +0200,true,,60fd3d29bebc8afd1d9bda7c,DH4
