@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2949503,a,2021-07-26 07:45:00 +0200,OK0461,Keflavik,Czech Airlines,2,"",Expected 07:40,2021-07-25 07:46:09 +0200,2021-07-26 04:21:07 +0200,true,2021-07-26 07:40:00 +0200,60fcfa5dbebc8afd1d9b8b3e,319
+2949503,a,2021-07-26 07:45:00 +0200,OK0461,Keflavik,Czech Airlines,2,"",Expected 07:30,2021-07-25 07:46:09 +0200,2021-07-26 06:41:08 +0200,true,2021-07-26 07:30:00 +0200,60fcfa5dbebc8afd1d9b8b3e,319
 2949504,a,2021-07-26 07:55:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Expected 07:45,2021-07-25 07:55:09 +0200,2021-07-26 04:22:07 +0200,true,2021-07-26 07:45:00 +0200,60fcfcb5bebc8afd1d9b8b8c,73H
 2949505,a,2021-07-26 08:10:00 +0200,EW9772,Dusseldorf,Eurowings Ag,2,"","",2021-07-25 08:10:09 +0200,2021-07-25 08:10:09 +0200,true,,60fd0038bebc8afd1d9b8ceb,32A
 2949506,a,2021-07-26 08:20:00 +0200,HV5235,Eindhoven,Transavia.com,2,"","",2021-07-25 08:20:09 +0200,2021-07-25 08:20:09 +0200,true,,60fd0290bebc8afd1d9b8f63,73H
@@ -23,7 +23,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2949566,a,2021-07-26 10:40:00 +0200,FR1013,London/STANSTED,Ryanair,1,"","",2021-07-25 10:40:09 +0200,2021-07-25 10:40:09 +0200,true,,60fd2361bebc8afd1d9bb0e1,73H
 2949571,a,2021-07-26 10:55:00 +0200,QS1119,Zakynthos Island,SmartWings,2,"","",2021-07-25 10:55:10 +0200,2021-07-25 10:55:10 +0200,true,,60fd26e4bebc8afd1d9bb441,73H
 2949573,a,2021-07-26 11:05:00 +0200,KL1353,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-07-25 11:05:10 +0200,2021-07-25 11:05:10 +0200,true,,60fd293cbebc8afd1d9bb68a,73H
-2949574,a,2021-07-26 11:10:00 +0200,QS1223,Marsa Allam,SmartWings,1,"","",2021-07-25 11:10:11 +0200,2021-07-25 11:10:11 +0200,true,,60fd2a68bebc8afd1d9bb78f,7M8
+2949574,a,2021-07-26 11:10:00 +0200,QS1223,Marsa Allam,SmartWings,1,"",Expected 11:00,2021-07-25 11:10:11 +0200,2021-07-26 06:29:09 +0200,true,2021-07-26 11:00:00 +0200,60fd2a68bebc8afd1d9bb78f,7M8
 2949576,a,2021-07-26 11:15:00 +0200,QS1127,Kos,SmartWings,2,"","",2021-07-25 11:15:09 +0200,2021-07-25 11:15:09 +0200,true,,60fd2b94bebc8afd1d9bb865,73H
 2949577,a,2021-07-26 11:20:00 +0200,QS1147,Rhodes,SmartWings,2,"","",2021-07-25 11:21:11 +0200,2021-07-25 11:21:11 +0200,true,,60fd2cc1bebc8afd1d9bba19,73J
 2949578,a,2021-07-26 11:25:00 +0200,QS1103,Heraklion,SmartWings,2,"","",2021-07-25 11:25:09 +0200,2021-07-25 11:25:09 +0200,true,,60fd2dedbebc8afd1d9bbce8,73H
