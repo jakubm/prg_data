@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2949976,a,2021-07-28 07:55:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"","",2021-07-27 07:56:10 +0200,2021-07-27 07:56:10 +0200,true,,60ff9fb52d38c39c0e06728e,73H
+2949976,a,2021-07-28 07:55:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Expected 07:40,2021-07-27 07:56:10 +0200,2021-07-28 04:16:07 +0200,true,2021-07-28 07:40:00 +0200,60ff9fb52d38c39c0e06728e,73H
 2949977,a,2021-07-28 08:05:00 +0200,FR2121,Charleroi,Ryanair,2,"","",2021-07-27 08:06:08 +0200,2021-07-27 08:06:08 +0200,true,,60ffa20c2d38c39c0e0673d7,73H
 2949978,a,2021-07-28 08:10:00 +0200,FR8331,Rome/CIAMPINO,Ryanair,2,"","",2021-07-27 08:11:08 +0200,2021-07-27 08:11:08 +0200,true,,60ffa3382d38c39c0e06761a,73H
 2949981,a,2021-07-28 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2021-07-27 08:36:09 +0200,2021-07-27 08:36:09 +0200,true,,60ffa9142d38c39c0e067798,319
