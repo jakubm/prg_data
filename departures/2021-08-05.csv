@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2952204,d,2021-08-05 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D2,"",2021-08-04 04:46:07 +0200,2021-08-04 10:44:07 +0200,true,,6109ff2dbebca3038afffe67,73H
-2952205,d,2021-08-05 04:50:00 +0200,QS1126,Kos,SmartWings,2,C3,"",2021-08-04 04:51:07 +0200,2021-08-04 17:29:07 +0200,true,,610a0059bebca3038afffed9,73H
+2952204,d,2021-08-05 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D2,Check-in,2021-08-04 04:46:07 +0200,2021-08-05 02:16:06 +0200,true,,6109ff2dbebca3038afffe67,73G
+2952205,d,2021-08-05 04:50:00 +0200,QS1126,Kos,SmartWings,2,C3,Check-in,2021-08-04 04:51:07 +0200,2021-08-05 02:20:06 +0200,true,,610a0059bebca3038afffed9,73H
 2952206,d,2021-08-05 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,D3,"",2021-08-04 04:56:07 +0200,2021-08-04 10:44:07 +0200,true,,610a0185bebca3038affff42,73H
 2952207,d,2021-08-05 05:05:00 +0200,QS1186,Varna,SmartWings,1,B3,"",2021-08-04 05:06:07 +0200,2021-08-04 10:23:06 +0200,true,,610a03ddbebca3038affff9c,320
 2952208,d,2021-08-05 05:10:00 +0200,QS1114,Kerkyra/CORFU,SmartWings,2,D6,"",2021-08-04 05:11:07 +0200,2021-08-04 10:44:07 +0200,true,,610a0509bebca3038affffc0,7M8
