@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2952234,a,2021-08-05 07:45:00 +0200,OK0461,Keflavik,Czech Airlines,2,"","",2021-08-04 07:46:09 +0200,2021-08-04 07:46:09 +0200,true,,610a295dbebca3038b001e6a,319
+2952234,a,2021-08-05 07:45:00 +0200,OK0461,Keflavik,Czech Airlines,2,"",Expected 08:10,2021-08-04 07:46:09 +0200,2021-08-05 04:45:07 +0200,true,2021-08-05 08:10:00 +0200,610a295dbebca3038b001e6a,319
 2952235,a,2021-08-05 07:55:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"","",2021-08-04 07:56:07 +0200,2021-08-04 07:56:07 +0200,true,,610a2bb5bebca3038b001ecc,73H
 2952243,a,2021-08-05 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2021-08-04 08:36:07 +0200,2021-08-04 08:36:07 +0200,true,,610a3515bebca3038b0027c4,319
 2952249,a,2021-08-05 08:50:00 +0200,AF1382,Paris/CDG,Air France,2,"","",2021-08-04 08:51:08 +0200,2021-08-04 08:51:08 +0200,true,,610a3899bebca3038b002a09,E70
