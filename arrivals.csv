@@ -81,3 +81,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2953070,a,2021-08-07 23:40:00 +0200,QS2235,Kerkyra/CORFU,SmartWings,2,"","",2021-08-06 23:41:09 +0200,2021-08-06 23:41:09 +0200,true,,610dac30bebca3038b029b8a,7M8
 2953072,a,2021-08-07 23:45:00 +0200,QS1137,Tirana,SmartWings,1,"","",2021-08-06 23:46:09 +0200,2021-08-06 23:46:09 +0200,true,,610dad5dbebca3038b029be3,73J
 2953073,a,2021-08-07 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-08-06 23:51:09 +0200,2021-08-06 23:51:09 +0200,true,,610dae88bebca3038b029be4,7M8
+2953075,a,2021-08-08 00:15:00 +0200,QS1185,Burgas,SmartWings,1,"","",2021-08-07 00:16:08 +0200,2021-08-07 00:16:08 +0200,true,,610db465bebca3038b029cd2,73J
