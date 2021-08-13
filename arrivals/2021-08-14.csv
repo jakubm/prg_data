@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2954757,a,2021-08-14 07:10:00 +0200,QR0289,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"","",2021-08-13 07:11:08 +0200,2021-08-13 07:11:08 +0200,true,,6115fea9bebca3038b079ede,788
+2954757,a,2021-08-14 07:10:00 +0200,QR0289,Doha/HAMAD INTERNATIONAL,Qatar Airways,1,"",Expected 06:35,2021-08-13 07:11:08 +0200,2021-08-14 01:17:07 +0200,true,2021-08-14 06:35:00 +0200,6115fea9bebca3038b079ede,788
 2954764,a,2021-08-14 08:15:00 +0200,FR8331,Rome/CIAMPINO,Ryanair,2,"","",2021-08-13 08:16:08 +0200,2021-08-13 08:16:08 +0200,true,,61160de5bebca3038b07a3dc,73H
 2954765,a,2021-08-14 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2021-08-13 08:36:08 +0200,2021-08-13 08:36:08 +0200,true,,61161294bebca3038b07a588,319
 2954774,a,2021-08-14 08:50:00 +0200,AF1382,Paris/CDG,Air France,2,"","",2021-08-13 08:51:08 +0200,2021-08-13 08:51:08 +0200,true,,61161619bebca3038b07a8c0,E90
