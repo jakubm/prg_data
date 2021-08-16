@@ -75,4 +75,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2955848,d,2021-08-16 23:15:00 +0200,OS0126,Vienna,Austrian Airlines,2,"","",2021-08-16 22:38:06 +0200,2021-08-16 22:38:06 +0200,true,,611acc9ebebca3038b0b005a,320
 2955626,d,2021-08-16 23:45:00 +0200,QS1286,Tel Aviv/BEN GURION,SmartWings,1,B2,Gate open,2021-08-15 23:46:07 +0200,2021-08-16 22:05:06 +0200,true,,61198adebebca3038b0a447f,73J
 2955629,d,2021-08-17 00:50:00 +0200,QS1240,Hurghada,SmartWings,1,A9,Check-in,2021-08-16 00:51:07 +0200,2021-08-16 22:21:05 +0200,true,,61199a19bebca3038b0a4abc,7M8
-2955631,d,2021-08-17 01:10:00 +0200,QS1222,Marsa Allam,SmartWings,1,A7,"",2021-08-16 01:11:07 +0200,2021-08-16 09:14:07 +0200,true,,61199ec9bebca3038b0a4b0d,7M8
+2955631,d,2021-08-17 01:10:00 +0200,QS1222,Marsa Allam,SmartWings,1,A7,Check-in,2021-08-16 01:11:07 +0200,2021-08-16 22:44:06 +0200,true,,61199ec9bebca3038b0a4b0d,7M8
