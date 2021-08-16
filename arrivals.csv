@@ -64,3 +64,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2955853,a,2021-08-17 22:50:00 +0200,FR8269,Zadar,Ryanair,1,"","",2021-08-16 22:51:08 +0200,2021-08-16 22:51:08 +0200,true,,611acf79bebca3038b0b0087,73H
 2955854,a,2021-08-17 22:50:00 +0200,KL1359,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-08-16 22:51:08 +0200,2021-08-16 22:51:08 +0200,true,,611acf79bebca3038b0b0088,73H
 2955857,a,2021-08-17 23:35:00 +0200,QS2931,Burgas,SmartWings,1,"","",2021-08-16 23:36:08 +0200,2021-08-16 23:36:08 +0200,true,,611ada05bebca3038b0b0438,7M8
+2955860,a,2021-08-18 00:55:00 +0200,QS1113,Rhodes,SmartWings,2,"","",2021-08-17 00:57:07 +0200,2021-08-17 00:57:07 +0200,true,,611aecc5bebca3038b0b0860,7M8
