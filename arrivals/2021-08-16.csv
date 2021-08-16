@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2955407,a,2021-08-16 07:45:00 +0200,OK0461,Keflavik,Czech Airlines,2,"","",2021-08-15 07:46:08 +0200,2021-08-15 07:46:08 +0200,true,,6118a9ddbebca3038b096a48,320
+2955407,a,2021-08-16 07:45:00 +0200,OK0461,Keflavik,Czech Airlines,2,"",Expected 07:25,2021-08-15 07:46:08 +0200,2021-08-16 04:16:07 +0200,true,2021-08-16 07:25:00 +0200,6118a9ddbebca3038b096a48,320
 2955408,a,2021-08-16 07:55:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"","",2021-08-15 07:56:08 +0200,2021-08-15 07:56:08 +0200,true,,6118ac35bebca3038b096aea,73J
 2955409,a,2021-08-16 08:20:00 +0200,EW9772,Dusseldorf,Eurowings Ag,2,"","",2021-08-15 08:21:09 +0200,2021-08-15 08:21:09 +0200,true,,6118b211bebca3038b096f89,32A
 2955410,a,2021-08-16 08:20:00 +0200,HV5235,Eindhoven,Transavia.com,2,"","",2021-08-15 08:21:09 +0200,2021-08-15 08:21:09 +0200,true,,6118b211bebca3038b096f8a,73H
