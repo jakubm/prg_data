@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2955862,d,2021-08-18 04:00:00 +0200,QS3210,Hurghada,SmartWings,1,A6,"",2021-08-17 04:01:07 +0200,2021-08-17 14:52:07 +0200,true,,611b1821bebca3038b0b0c3f,7M8
+2955862,d,2021-08-18 04:00:00 +0200,QS3210,Hurghada,SmartWings,1,A6,Check-in,2021-08-17 04:01:07 +0200,2021-08-18 01:29:06 +0200,true,,611b1821bebca3038b0b0c3f,7M8
 2955863,d,2021-08-18 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,C2,"",2021-08-17 04:06:06 +0200,2021-08-17 09:55:07 +0200,true,,611b194dbebca3038b0b0d09,73J
 2955865,d,2021-08-18 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D5,"",2021-08-17 04:46:06 +0200,2021-08-17 09:34:07 +0200,true,,611b22adbebca3038b0b1c05,73H
 2955864,d,2021-08-18 04:45:00 +0200,QS1190,Antalya,SmartWings,1,B8,"",2021-08-17 04:46:06 +0200,2021-08-17 09:34:07 +0200,true,,611b22adbebca3038b0b1c04,73H
