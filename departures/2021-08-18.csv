@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2955862,d,2021-08-18 04:00:00 +0200,QS3210,Hurghada,SmartWings,1,A6,Gate closed,2021-08-17 04:01:07 +0200,2021-08-18 03:49:06 +0200,true,,611b1821bebca3038b0b0c3f,7M8
+2955862,d,2021-08-18 04:00:00 +0200,QS3210,Hurghada,SmartWings,1,A6,Departed 03:58,2021-08-17 04:01:07 +0200,2021-08-18 04:09:07 +0200,true,2021-08-18 03:58:00 +0200,611b1821bebca3038b0b0c3f,7M8
 2955863,d,2021-08-18 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,C2,Gate closed,2021-08-17 04:06:06 +0200,2021-08-18 03:53:06 +0200,true,,611b194dbebca3038b0b0d09,73J
 2955865,d,2021-08-18 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D5,Gate open,2021-08-17 04:46:06 +0200,2021-08-18 03:34:06 +0200,true,,611b22adbebca3038b0b1c05,73H
 2955864,d,2021-08-18 04:45:00 +0200,QS1190,Antalya,SmartWings,1,B8,Gate open,2021-08-17 04:46:06 +0200,2021-08-18 02:59:06 +0200,true,,611b22adbebca3038b0b1c04,73H
@@ -9,7 +9,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2955869,d,2021-08-18 05:10:00 +0200,QS1114,Kerkyra/CORFU,SmartWings,2,C3,Gate open,2021-08-17 05:11:08 +0200,2021-08-18 04:00:07 +0200,true,,611b2889bebca3038b0b1ef9,73H
 2955870,d,2021-08-18 05:15:00 +0200,QS1118,Zakynthos Island,SmartWings,2,C10,Gate open,2021-08-17 05:16:06 +0200,2021-08-18 04:00:07 +0200,true,,611b29b5bebca3038b0b1f4c,73H
 2955871,d,2021-08-18 06:00:00 +0200,QS1180,Burgas,SmartWings,1,B7,Gate open,2021-08-17 06:01:07 +0200,2021-08-18 04:01:07 +0200,true,,611b3441bebca3038b0b2c39,73J
-2955872,d,2021-08-18 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2021-08-17 06:06:06 +0200,2021-08-17 06:06:06 +0200,true,,611b356dbebca3038b0b2ce9,73H
+2955872,d,2021-08-18 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2021-08-17 06:06:06 +0200,2021-08-18 04:05:07 +0200,true,,611b356dbebca3038b0b2ce9,73H
 2955878,d,2021-08-18 06:35:00 +0200,FR8220,Copenhagen,Ryanair,2,C19,Check-in,2021-08-17 06:36:07 +0200,2021-08-18 03:36:06 +0200,true,,611b3c74bebca3038b0b3181,73H
 2955879,d,2021-08-18 06:35:00 +0200,FR8222,Goteborg,Ryanair,2,C18,Check-in,2021-08-17 06:36:07 +0200,2021-08-18 03:36:06 +0200,true,,611b3c74bebca3038b0b3182,73H
 2955880,d,2021-08-18 06:45:00 +0200,FR1014,London/STANSTED,Ryanair,1,B10,Check-in,2021-08-17 06:46:06 +0200,2021-08-18 03:47:07 +0200,true,,611b3ecdbebca3038b0b33e7,73H
