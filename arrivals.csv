@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2956426,a,2021-08-19 05:00:00 +0200,XC5040,Hannover,Corendon Airlines,2,"",Expected,2021-08-19 04:58:07 +0200,2021-08-19 04:58:07 +0200,true,,611dc89abebca3038b0c929b,73H
+2956426,a,2021-08-19 05:00:00 +0200,XC5040,Hannover,Corendon Airlines,2,"",Arrived 05:05,2021-08-19 04:58:07 +0200,2021-08-19 05:23:07 +0200,true,2021-08-19 05:05:00 +0200,611dc89abebca3038b0c929b,73H
 2956168,a,2021-08-19 07:45:00 +0200,OK0461,Keflavik,Czech Airlines,2,"",Expected 07:40,2021-08-18 07:45:08 +0200,2021-08-19 04:28:08 +0200,true,2021-08-19 07:40:00 +0200,611c9e5dbebca3038b0bee2d,320
 2956169,a,2021-08-19 07:55:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Expected 07:45,2021-08-18 07:55:08 +0200,2021-08-19 04:13:07 +0200,true,2021-08-19 07:45:00 +0200,611ca0b5bebca3038b0beeba,73H
 2956177,a,2021-08-19 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2021-08-18 08:35:08 +0200,2021-08-18 08:35:08 +0200,true,,611caa15bebca3038b0bf47a,320
