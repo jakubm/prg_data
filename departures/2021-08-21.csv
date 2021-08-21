@@ -38,7 +38,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2956852,d,2021-08-21 12:05:00 +0200,OK0760,Paris/CDG,Czech Airlines,2,D6,Check-in,2021-08-20 12:06:07 +0200,2021-08-21 09:38:07 +0200,true,,611f7e4cbebca3038b0dc9f1,73H
 2956859,d,2021-08-21 12:15:00 +0200,QS1084,Dubrovnik,SmartWings,1,A3,Check-in,2021-08-20 12:16:07 +0200,2021-08-21 09:47:09 +0200,true,,611f80a5bebca3038b0dcdcb,73H
 2956861,d,2021-08-21 12:25:00 +0200,QS1082,Split,SmartWings,1,A4,Check-in,2021-08-20 12:26:08 +0200,2021-08-21 09:57:08 +0200,true,,611f82fcbebca3038b0dd2a6,7M8
-2956864,d,2021-08-21 12:30:00 +0200,BV6658,Punta Cana International Airport,Blue Panorama Airlines,1,B3,Check-in,2021-08-20 12:31:07 +0200,2021-08-21 10:01:09 +0200,true,,611f8429bebca3038b0dd3ef,332
+2956864,d,2021-08-21 12:30:00 +0200,BV6658,Punta Cana International Airport,Blue Panorama Airlines,1,B3,Gate open,2021-08-20 12:31:07 +0200,2021-08-21 10:52:08 +0200,true,,611f8429bebca3038b0dd3ef,332
 2956862,d,2021-08-21 12:30:00 +0200,QS1020,Olbia,SmartWings,2,D3,Check-in,2021-08-20 12:31:07 +0200,2021-08-21 10:00:09 +0200,true,,611f8429bebca3038b0dd3ed,73J
 2956863,d,2021-08-21 12:30:00 +0200,QS2622,Antalya,SmartWings,1,A9,Check-in,2021-08-20 12:31:07 +0200,2021-08-21 10:02:09 +0200,true,,611f8429bebca3038b0dd3ee,7M8
 2956865,d,2021-08-21 12:35:00 +0200,QS2910,Burgas,SmartWings,1,B7,Check-in,2021-08-20 12:36:08 +0200,2021-08-21 10:09:09 +0200,true,,611f8555bebca3038b0dd50a,73H
