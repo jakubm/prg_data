@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2962945,a,2021-09-11 04:45:00 +0200,QS4106,Sal Island,SmartWings,1,"","",2021-09-10 04:46:11 +0200,2021-09-10 20:51:10 +0200,true,,613ac6ad2d3877813c54322a,7M8
+2962945,a,2021-09-11 04:45:00 +0200,QS4106,Sal Island,SmartWings,1,"",Expected 03:25,2021-09-10 04:46:11 +0200,2021-09-11 02:49:08 +0200,true,2021-09-11 03:25:00 +0200,613ac6ad2d3877813c54322a,7M8
 2962979,a,2021-09-11 08:15:00 +0200,FR8331,Rome/CIAMPINO,Ryanair,2,"","",2021-09-10 08:16:11 +0200,2021-09-10 08:16:11 +0200,true,,613af7e52d3877813c544ca2,73H
 2962980,a,2021-09-11 08:35:00 +0200,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2021-09-10 08:36:11 +0200,2021-09-10 08:36:11 +0200,true,,613afc942d3877813c545008,73J
 2962988,a,2021-09-11 08:40:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"","",2021-09-10 08:41:12 +0200,2021-09-10 08:41:12 +0200,true,,613afdc02d3877813c545071,320
