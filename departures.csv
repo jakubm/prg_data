@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2974184,d,2021-10-20 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2021-10-19 06:21:07 +0200,2021-10-19 06:21:07 +0200,true,,616e47712d382f9f485a77ba,73H
+2974184,d,2021-10-20 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2021-10-19 06:21:07 +0200,2021-10-20 04:20:05 +0200,true,,616e47712d382f9f485a77ba,73H
 2974190,d,2021-10-20 06:35:00 +0200,FR8220,Copenhagen,Ryanair,2,C19,Check-in,2021-10-19 06:36:07 +0200,2021-10-20 03:39:05 +0200,true,,616e4af52d382f9f485a7b1e,73H
 2974191,d,2021-10-20 06:35:00 +0200,FR8222,Goteborg,Ryanair,2,C18,Check-in,2021-10-19 06:36:07 +0200,2021-10-20 03:39:05 +0200,true,,616e4af52d382f9f485a7b1f,73H
 2974192,d,2021-10-20 06:45:00 +0200,FR1014,London/STANSTED,Ryanair,1,B10,Check-in,2021-10-19 06:46:07 +0200,2021-10-20 03:46:06 +0200,true,,616e4d4d2d382f9f485a7ce1,73H
