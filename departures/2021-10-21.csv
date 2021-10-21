@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2974418,d,2021-10-21 04:00:00 +0200,QS3214,Hurghada,SmartWings,1,A6,Check-in,2021-10-20 04:01:06 +0200,2021-10-21 01:30:06 +0200,true,,616f78212d382f9f485b1a3c,73H
+2974418,d,2021-10-21 04:00:00 +0200,QS3214,Hurghada,SmartWings,1,A6,Gate open,2021-10-20 04:01:06 +0200,2021-10-21 02:31:06 +0200,true,,616f78212d382f9f485b1a3c,73H
 2974425,d,2021-10-21 06:20:00 +0200,FR8220,Copenhagen,Ryanair,2,C18,"",2021-10-20 06:22:06 +0200,2021-10-20 08:54:07 +0200,true,,616f98f22d382f9f485b27b4,73H
 2974419,d,2021-10-21 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2021-10-20 06:22:06 +0200,2021-10-20 06:22:06 +0200,true,,616f98f22d382f9f485b27b3,73W
 2974426,d,2021-10-21 07:00:00 +0200,LH1685,Munich,Lufthansa,2,C12,"",2021-10-20 07:01:07 +0200,2021-10-20 10:00:07 +0200,true,,616fa2542d382f9f485b323c,CR9
