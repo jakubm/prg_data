@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2974685,d,2021-10-22 04:30:00 +0200,QS4106,Boa Vista Island/RABIL,SmartWings,1,B7,"",2021-10-21 04:30:07 +0200,2021-10-21 10:20:07 +0200,true,,6170d0a92d382f9f485bd4ce,7M8
+2974685,d,2021-10-22 04:30:00 +0200,QS4106,Boa Vista Island/RABIL,SmartWings,1,B7,Check-in,2021-10-21 04:30:07 +0200,2021-10-22 01:59:06 +0200,true,,6170d0a92d382f9f485bd4ce,7M8
 2974686,d,2021-10-22 06:15:00 +0200,FR8210,Bari,Ryanair,2,C19,"",2021-10-21 06:16:06 +0200,2021-10-21 09:54:08 +0200,true,,6170e9452d382f9f485bdca5,73H
 2974687,d,2021-10-22 06:20:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2021-10-21 06:21:11 +0200,2021-10-21 06:21:11 +0200,true,,6170ea712d382f9f485bdce5,73H
 2974693,d,2021-10-22 06:30:00 +0200,FR8220,Copenhagen,Ryanair,2,C18,"",2021-10-21 06:31:06 +0200,2021-10-21 09:54:08 +0200,true,,6170ecc92d382f9f485bdff3,73H
