@@ -73,3 +73,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2976677,a,2021-10-28 22:50:00 +0200,KL1359,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-10-27 22:51:10 +0200,2021-10-27 22:51:10 +0200,true,,6179bb79bebc7562338a8a43,73W
 2976682,a,2021-10-28 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2021-10-27 23:51:10 +0200,2021-10-27 23:51:10 +0200,true,,6179c989bebc7562338a8cac,73H
 2976685,a,2021-10-29 00:20:00 +0200,QS1201,Dubai,SmartWings,1,"","",2021-10-28 00:21:10 +0200,2021-10-28 00:21:10 +0200,true,,6179d090bebc7562338a8cdf,7M8
+2976686,a,2021-10-29 00:25:00 +0200,QS3217,Marsa Allam,SmartWings,1,"","",2021-10-28 00:26:10 +0200,2021-10-28 00:26:10 +0200,true,,6179d1bcbebc7562338a8d61,73H
