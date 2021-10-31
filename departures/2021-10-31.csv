@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2977303,d,2021-10-31 06:00:00 +0100,EW4212,Bristol,Eurowings Ag,1,B5,Gate open,2021-10-30 07:01:09 +0200,2021-10-31 04:57:08 +0100,true,,617cd151bebc7562338c8837,319
-2977304,d,2021-10-31 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2021-10-30 07:01:09 +0200,2021-10-31 03:33:08 +0100,true,,617cd151bebc7562338c8838,73W
+2977304,d,2021-10-31 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2021-10-30 07:01:09 +0200,2021-10-31 05:12:09 +0100,true,,617cd151bebc7562338c8838,73W
 2977309,d,2021-10-31 06:00:00 +0100,QS4210,Salalah Airport,SmartWings,1,A3,Gate open,2021-10-30 07:01:09 +0200,2021-10-31 04:35:09 +0100,true,,617cd151bebc7562338c8839,7M8
 2977310,d,2021-10-31 06:15:00 +0100,EW4208,Fuerteventura,Eurowings Ag,2,D1,Gate open,2021-10-30 07:16:09 +0200,2021-10-31 04:57:08 +0100,true,,617cd4d5bebc7562338c89bd,32A
 2977311,d,2021-10-31 06:15:00 +0100,QS3204,Hurghada,SmartWings,1,A4,Gate open,2021-10-30 07:16:09 +0200,2021-10-31 04:35:09 +0100,true,,617cd4d5bebc7562338c89be,73H
