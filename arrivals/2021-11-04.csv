@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2978419,a,2021-11-04 08:20:00 +0100,EW9772,Dusseldorf,Eurowings Ag,2,"","",2021-11-03 08:21:13 +0100,2021-11-03 08:21:13 +0100,true,,61823820bebc7562338fded2,319
+2978419,a,2021-11-04 08:20:00 +0100,EW9772,Dusseldorf,Eurowings Ag,2,"",Expected 08:10,2021-11-03 08:21:13 +0100,2021-11-04 07:10:11 +0100,true,2021-11-04 08:10:00 +0100,61823820bebc7562338fded2,319
 2978420,a,2021-11-04 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-11-03 08:21:13 +0100,2021-11-03 08:21:13 +0100,true,,61823820bebc7562338fded3,E90
 2978423,a,2021-11-04 08:40:00 +0100,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Expected 08:20,2021-11-03 08:41:12 +0100,2021-11-04 05:09:10 +0100,true,2021-11-04 08:20:00 +0100,61823cd1bebc7562338fe210,73J
 2978432,a,2021-11-04 09:30:00 +0100,LO0523,Warsaw/CHOPIN,Lot Polish Airlines,2,"","",2021-11-03 09:31:12 +0100,2021-11-03 09:31:12 +0100,true,,61824889bebc7562338fe6ae,DH4
