@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2980052,d,2021-11-10 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C2,Gate open,2021-11-09 06:01:09 +0100,2021-11-10 05:04:08 +0100,true,,618a0056bebc75623394eb51,E90
-2980057,d,2021-11-10 06:15:00 +0100,EW4214,Barcelona,Eurowings Ag,2,C22,Check-in,2021-11-09 06:16:10 +0100,2021-11-10 04:17:09 +0100,true,,618a03d5bebc75623394ed34,319
+2980057,d,2021-11-10 06:15:00 +0100,EW4214,Barcelona,Eurowings Ag,2,C22,Gate open,2021-11-09 06:16:10 +0100,2021-11-10 05:15:09 +0100,true,,618a03d5bebc75623394ed34,319
 2980058,d,2021-11-10 06:50:00 +0100,LH1689,Munich,Lufthansa,2,C12,Check-in,2021-11-09 06:51:09 +0100,2021-11-10 04:53:09 +0100,true,,618a0c09bebc75623394fa83,CR9
 2980064,d,2021-11-10 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,C3,Check-in,2021-11-09 06:51:09 +0100,2021-11-10 04:51:09 +0100,true,,618a0c09bebc75623394fa84,319
 2980068,d,2021-11-10 07:00:00 +0100,BA0853,London/HEATHROW,British Airways,1,B2,Check-in,2021-11-09 07:01:09 +0100,2021-11-10 05:00:09 +0100,true,,618a0e61bebc75623394fbf7,320
