@@ -53,3 +53,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2981950,a,2021-11-16 22:40:00 +0100,BA0858,London/HEATHROW,British Airways,1,"","",2021-11-15 22:41:10 +0100,2021-11-15 22:41:10 +0100,true,,6192d3b1bebc7562339abcce,320
 2981952,a,2021-11-16 23:20:00 +0100,QS1201,Dubai,SmartWings,1,"","",2021-11-15 23:21:11 +0100,2021-11-15 23:21:11 +0100,true,,6192dd12bebc7562339abf36,73H
 2981961,a,2021-11-17 01:10:00 +0100,QS4361,Trieste-ronchi De Legionari,SmartWings,2,"","",2021-11-16 01:11:10 +0100,2021-11-16 01:11:10 +0100,true,,6192f6d8bebc7562339ac021,73G
+2981962,a,2021-11-17 02:00:00 +0100,OK7101,Skelleftea,Czech Airlines,2,"","",2021-11-16 02:01:10 +0100,2021-11-16 02:01:10 +0100,true,,61930291bebc7562339ac0d2,320
