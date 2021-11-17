@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2981963,d,2021-11-17 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Boarding,2021-11-16 06:01:10 +0100,2021-11-17 05:34:09 +0100,true,,61933ad2bebc7562339ace4c,295
-2981968,d,2021-11-17 06:15:00 +0100,EW4214,Barcelona,Eurowings Ag,2,C3,Gate open,2021-11-16 06:16:10 +0100,2021-11-17 05:00:10 +0100,true,,61933e55bebc7562339ad116,32A
+2981963,d,2021-11-17 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2021-11-16 06:01:10 +0100,2021-11-17 05:49:09 +0100,true,,61933ad2bebc7562339ace4c,295
+2981968,d,2021-11-17 06:15:00 +0100,EW4214,Barcelona,Eurowings Ag,2,C3,Last call,2021-11-16 06:16:10 +0100,2021-11-17 05:52:09 +0100,true,,61933e55bebc7562339ad116,32A
 2981969,d,2021-11-17 06:50:00 +0100,LH1689,Munich,Lufthansa,2,C10,Check-in,2021-11-16 06:51:10 +0100,2021-11-17 04:52:09 +0100,true,,61934688bebc7562339adeba,319
 2981975,d,2021-11-17 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,C7,Check-in,2021-11-16 06:51:10 +0100,2021-11-17 04:52:09 +0100,true,,61934688bebc7562339adebb,319
 2981979,d,2021-11-17 07:00:00 +0100,BA0853,London/HEATHROW,British Airways,1,B2,Gate open,2021-11-16 07:01:10 +0100,2021-11-17 05:40:09 +0100,true,,619348e4bebc7562339ae09f,320
