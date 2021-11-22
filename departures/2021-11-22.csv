@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2983358,d,2021-11-22 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2021-11-21 06:01:11 +0100,2021-11-21 06:01:11 +0100,true,,6199d254bebc7562339e6983,295
+2983358,d,2021-11-22 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2021-11-21 06:01:11 +0100,2021-11-22 03:31:09 +0100,true,,6199d254bebc7562339e6983,295
 2983363,d,2021-11-22 06:20:00 +0100,ENT0510,Jerez De La Frontera,Enter Air Sp Z.o.o.,2,D2,"",2021-11-21 06:21:11 +0100,2021-11-21 09:09:11 +0100,true,,6199d701bebc7562339e6d2e,738
 2983364,d,2021-11-22 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2021-11-21 06:31:10 +0100,2021-11-21 06:31:10 +0100,true,,6199d959bebc7562339e7405,320
 2983369,d,2021-11-22 06:40:00 +0100,EW4204,Milan/MALPENSA,Eurowings Ag,2,C6,"",2021-11-21 06:41:11 +0100,2021-11-21 17:53:08 +0100,true,,6199dbb1bebc7562339e76a5,319
