@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2984101,d,2021-11-25 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2021-11-24 06:01:10 +0100,2021-11-25 05:48:08 +0100,true,,619dc6d2bebc756233a0d0f4,295
-2984106,d,2021-11-25 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Boarding,2021-11-24 06:31:11 +0100,2021-11-25 05:56:08 +0100,true,,619dcddabebc756233a0d80c,320
-2984111,d,2021-11-25 06:40:00 +0100,OK0490,Stockholm/ARLANDA,Czech Airlines,2,C23,Gate open,2021-11-24 06:41:10 +0100,2021-11-25 05:33:08 +0100,true,,619dd030bebc756233a0dc51,319
+2984101,d,2021-11-25 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 06:02,2021-11-24 06:01:10 +0100,2021-11-25 06:13:08 +0100,true,2021-11-25 06:02:00 +0100,619dc6d2bebc756233a0d0f4,295
+2984106,d,2021-11-25 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Gate closed,2021-11-24 06:31:11 +0100,2021-11-25 06:14:09 +0100,true,,619dcddabebc756233a0d80c,320
+2984111,d,2021-11-25 06:40:00 +0100,OK0490,Stockholm/ARLANDA,Czech Airlines,2,C23,Last call,2021-11-24 06:41:10 +0100,2021-11-25 06:12:09 +0100,true,,619dd030bebc756233a0dc51,319
 2984114,d,2021-11-25 06:50:00 +0100,LH1689,Munich,Lufthansa,2,C10,Gate open,2021-11-24 06:51:10 +0100,2021-11-25 06:03:09 +0100,true,,619dd289bebc756233a0dee6,319
 2984120,d,2021-11-25 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,C7,Gate open,2021-11-24 06:51:10 +0100,2021-11-25 06:03:09 +0100,true,,619dd289bebc756233a0dee7,319
 2984124,d,2021-11-25 07:00:00 +0100,BA0853,London/HEATHROW,British Airways,1,A9,Gate open,2021-11-24 07:01:10 +0100,2021-11-25 05:48:09 +0100,true,,619dd4e3bebc756233a0e09e,320
