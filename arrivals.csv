@@ -1,4 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+2984940,a,2021-11-27 07:00:00 +0100,FEG3115,Hurghada,Flyegypt,1,"",Expected,2021-11-27 06:37:09 +0100,2021-11-27 06:37:09 +0100,true,,61a1c3c12d383170f5f26450,73H
 2984735,a,2021-11-27 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2021-11-26 08:21:10 +0100,2021-11-26 08:21:10 +0100,true,,61a08aa12d383170f5f181e9,E90
 2984738,a,2021-11-27 08:20:00 +0100,W66421,Kutaisi,Wizz Air,1,"",Expected 08:00,2021-11-26 08:21:10 +0100,2021-11-27 05:11:09 +0100,true,2021-11-27 08:00:00 +0100,61a08aa12d383170f5f181ea,32A
 2984739,a,2021-11-27 08:40:00 +0100,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Expected 08:30,2021-11-26 08:41:10 +0100,2021-11-27 05:12:09 +0100,true,2021-11-27 08:30:00 +0100,61a08f522d383170f5f18990,73H
