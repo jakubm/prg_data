@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2984932,d,2021-11-28 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2021-11-27 06:01:09 +0100,2021-11-28 05:47:08 +0100,true,,61a1bb542d383170f5f257cc,295
 2984937,d,2021-11-28 06:00:00 +0100,QS4210,Salalah Airport,SmartWings,1,A6,Gate closed,2021-11-27 06:01:09 +0100,2021-11-28 05:52:09 +0100,true,,61a1bb542d383170f5f257cd,7M8
-2984938,d,2021-11-28 06:15:00 +0100,EW4208,Fuerteventura,Eurowings Ag,2,D1,Gate open,2021-11-27 06:16:09 +0100,2021-11-28 05:27:09 +0100,true,,61a1bed62d383170f5f25a30,32A
+2984938,d,2021-11-28 06:15:00 +0100,EW4208,Fuerteventura,Eurowings Ag,2,D1,Last call,2021-11-27 06:16:09 +0100,2021-11-28 05:59:09 +0100,true,,61a1bed62d383170f5f25a30,32A
 2984939,d,2021-11-28 06:25:00 +0100,FR5007,Malaga,Ryanair,2,C18,Last call,2021-11-27 06:26:09 +0100,2021-11-28 05:49:09 +0100,true,,61a1c12e2d383170f5f25f3d,73H
 2984941,d,2021-11-28 06:45:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,Boarding,2021-11-27 06:46:09 +0100,2021-11-28 05:48:08 +0100,true,,61a1c5dd2d383170f5f26910,73H
 2984942,d,2021-11-28 06:50:00 +0100,LH1689,Munich,Lufthansa,2,C10,Gate open,2021-11-27 06:51:09 +0100,2021-11-28 05:52:09 +0100,true,,61a1c7092d383170f5f26b8f,319
