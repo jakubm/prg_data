@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2986863,d,2021-12-05 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2021-12-04 06:01:11 +0100,2021-12-04 06:01:11 +0100,true,,61aaf5d62d383170f5f7c0c6,295
+2986863,d,2021-12-05 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2021-12-04 06:01:11 +0100,2021-12-05 04:02:10 +0100,true,,61aaf5d62d383170f5f7c0c6,E90
 2986868,d,2021-12-05 06:00:00 +0100,QS4210,Salalah Airport,SmartWings,1,B8,Check-in,2021-12-04 06:01:11 +0100,2021-12-05 03:31:10 +0100,true,,61aaf5d62d383170f5f7c0c7,7M8
 2986869,d,2021-12-05 06:15:00 +0100,EW4208,Fuerteventura,Eurowings Ag,2,C2,"",2021-12-04 06:16:11 +0100,2021-12-04 17:46:10 +0100,true,,61aaf9562d383170f5f7c6aa,32A
 2986870,d,2021-12-05 06:25:00 +0100,FR5007,Malaga,Ryanair,2,C18,Check-in,2021-12-04 06:26:11 +0100,2021-12-05 03:26:10 +0100,true,,61aafbae2d383170f5f7c83a,73H
