@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2989098,d,2021-12-13 03:00:00 +0100,QS4432,Heraklion,SmartWings,2,D1,"",2021-12-12 03:01:11 +0100,2021-12-12 19:39:09 +0100,true,,61b557a22d383170f5fdcd39,7M8
+2989098,d,2021-12-13 03:00:00 +0100,QS4432,Heraklion,SmartWings,2,D1,Check-in,2021-12-12 03:01:11 +0100,2021-12-13 00:31:09 +0100,true,,61b557a22d383170f5fdcd39,73H
 2989099,d,2021-12-13 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2021-12-12 06:01:10 +0100,2021-12-12 06:01:10 +0100,true,,61b581d32d383170f5fddd8b,73W
 2989104,d,2021-12-13 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2021-12-12 06:31:10 +0100,2021-12-12 06:31:10 +0100,true,,61b588d92d383170f5fde441,321
 2989109,d,2021-12-13 06:45:00 +0100,EW4214,Barcelona,Eurowings Ag,2,C6,"",2021-12-12 06:46:10 +0100,2021-12-12 07:34:10 +0100,true,,61b58c5e2d383170f5fdec25,319
