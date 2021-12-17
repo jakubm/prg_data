@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2990084,d,2021-12-17 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2021-12-16 06:01:09 +0100,2021-12-16 06:01:09 +0100,true,,61bac7d52d38358656fcfe31,73H
+2990084,d,2021-12-17 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2021-12-16 06:01:09 +0100,2021-12-17 03:47:08 +0100,true,,61bac7d52d38358656fcfe31,73H
 2990089,d,2021-12-17 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2021-12-16 06:31:10 +0100,2021-12-16 06:31:10 +0100,true,,61baceda2d38358656fd046e,320
 2990094,d,2021-12-17 06:50:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,"",2021-12-16 06:51:09 +0100,2021-12-16 08:24:10 +0100,true,,61bad38a2d38358656fd0b03,73H
 2990095,d,2021-12-17 06:50:00 +0100,LH1689,Munich,Lufthansa,2,C3,"",2021-12-16 06:51:09 +0100,2021-12-16 20:02:08 +0100,true,,61bad38a2d38358656fd0b04,319
