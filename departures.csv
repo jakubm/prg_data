@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2995898,d,2022-01-06 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-01-05 06:01:06 +0100,2022-01-05 06:01:06 +0100,true,,61d525d32d383586570db725,295
+2995898,d,2022-01-06 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2022-01-05 06:01:06 +0100,2022-01-06 03:47:05 +0100,true,,61d525d32d383586570db725,295
 2995903,d,2022-01-06 06:15:00 +0100,EW4208,Fuerteventura,Eurowings Ag,2,C6,"",2022-01-05 06:16:06 +0100,2022-01-05 08:48:07 +0100,true,,61d529572d383586570dbec2,32A
 2995904,d,2022-01-06 06:15:00 +0100,EW4224,Malaga,Eurowings Ag,2,C3,"",2022-01-05 06:16:06 +0100,2022-01-05 07:54:06 +0100,true,,61d529572d383586570dbec3,319
 2995905,d,2022-01-06 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2022-01-05 06:31:06 +0100,2022-01-05 06:31:06 +0100,true,,61d52cda2d383586570dc348,319
