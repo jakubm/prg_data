@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2997435,d,2022-01-13 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2022-01-12 06:01:06 +0100,2022-01-13 05:47:06 +0100,true,,61de6054bebc5880271c2a92,E7W
-2997440,d,2022-01-13 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Gate open,2022-01-12 06:31:07 +0100,2022-01-13 05:26:06 +0100,true,,61de675abebc5880271c369c,319
+2997435,d,2022-01-13 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 05:54,2022-01-12 06:01:06 +0100,2022-01-13 06:17:06 +0100,true,2022-01-13 05:54:00 +0100,61de6054bebc5880271c2a92,E7W
+2997440,d,2022-01-13 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Gate closed,2022-01-12 06:31:07 +0100,2022-01-13 06:17:06 +0100,true,,61de675abebc5880271c369c,319
 2997445,d,2022-01-13 06:50:00 +0100,LH1689,Munich,Lufthansa,2,C10,Gate open,2022-01-12 06:51:06 +0100,2022-01-13 05:58:05 +0100,true,,61de6c08bebc5880271c41ff,319
 2997451,d,2022-01-13 06:55:00 +0100,PWF0080,Braunschweig,Private Wings Flugcharter,3,1,"",2022-01-12 06:56:07 +0100,2022-01-12 06:56:07 +0100,true,,61de6d35bebc5880271c42fa,BES
 2997452,d,2022-01-13 07:00:00 +0100,LH1403,Frankfurt,Lufthansa,2,C9,Gate open,2022-01-12 07:01:06 +0100,2022-01-13 05:58:05 +0100,true,,61de6e63bebc5880271c4440,32A
