@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2997460,a,2022-01-13 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-01-12 08:21:08 +0100,2022-01-12 08:21:08 +0100,true,,61de8121bebc5880271c48c2,E75
-2997463,a,2022-01-13 08:40:00 +0100,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"","",2022-01-12 08:41:07 +0100,2022-01-12 08:41:07 +0100,true,,61de85d1bebc5880271c4ace,73J
+2997463,a,2022-01-13 08:40:00 +0100,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Expected 08:25,2022-01-12 08:41:07 +0100,2022-01-13 05:02:06 +0100,true,2022-01-13 08:25:00 +0100,61de85d1bebc5880271c4ace,7M8
 2997472,a,2022-01-13 09:30:00 +0100,LO0523,Warsaw/CHOPIN,Lot Polish Airlines,2,"","",2022-01-12 09:31:08 +0100,2022-01-12 09:31:08 +0100,true,,61de918abebc5880271c547d,DH4
 2997473,a,2022-01-13 09:45:00 +0100,PWF0081,Braunschweig,Private Wings Flugcharter,3,"","",2022-01-12 09:46:06 +0100,2022-01-12 09:46:06 +0100,true,,61de950dbebc5880271c5532,BES
 2997475,a,2022-01-13 10:35:00 +0100,LY2521,Tel Aviv/BEN GURION,El Al Israel Airlines,1,"","",2022-01-12 10:36:06 +0100,2022-01-12 10:36:06 +0100,true,,61dea0c5bebc5880271c5c7a,739
