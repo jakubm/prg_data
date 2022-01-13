@@ -43,3 +43,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 2997602,a,2022-01-13 22:15:00 +0100,KL1359,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-01-12 22:16:07 +0100,2022-01-12 22:16:07 +0100,true,,61df44d5bebc5880271ca3f5,E90
 2997606,a,2022-01-13 22:40:00 +0100,AF1582,Paris/CDG,Air France,2,"","",2022-01-12 22:41:07 +0100,2022-01-12 22:41:07 +0100,true,,61df4ab1bebc5880271ca404,319
 2997608,a,2022-01-13 22:55:00 +0100,OS0711,Vienna,Austrian Airlines,2,"","",2022-01-12 22:56:07 +0100,2022-01-12 22:56:07 +0100,true,,61df4e35bebc5880271ca411,E95
+2997612,a,2022-01-14 01:30:00 +0100,QS1153,Malaga,SmartWings,2,"","",2022-01-13 01:31:06 +0100,2022-01-13 01:31:06 +0100,true,,61df7289bebc5880271ca61e,7M8
