@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2998646,a,2022-01-19 07:25:00 +0100,FR8257,Riga,Ryanair,2,"","",2022-01-18 07:26:06 +0100,2022-01-18 07:26:06 +0100,true,,61e65d3dbebc5880271fb7d1,73H
-2998647,a,2022-01-19 07:35:00 +0100,LO6298,Zanzibar,Lot Polish Airlines,1,"",Expected 07:20,2022-01-18 07:36:06 +0100,2022-01-18 23:51:06 +0100,true,2022-01-19 07:20:00 +0100,61e65f95bebc5880271fb7db,789
+2998647,a,2022-01-19 07:35:00 +0100,LO6298,Zanzibar,Lot Polish Airlines,1,"",Expected 07:25,2022-01-18 07:36:06 +0100,2022-01-19 00:27:06 +0100,true,2022-01-19 07:25:00 +0100,61e65f95bebc5880271fb7db,789
 2998649,a,2022-01-19 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-01-18 08:21:07 +0100,2022-01-18 08:21:07 +0100,true,,61e66a21bebc5880271fb9c9,E75
 2998652,a,2022-01-19 08:40:00 +0100,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"","",2022-01-18 08:41:07 +0100,2022-01-18 08:41:07 +0100,true,,61e66ed2bebc5880271fbb0b,7M8
 2998658,a,2022-01-19 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2022-01-18 08:51:06 +0100,2022-01-18 08:51:06 +0100,true,,61e67129bebc5880271fbd69,73J
