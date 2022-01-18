@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-2998512,d,2022-01-18 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Boarding,2022-01-17 06:01:07 +0100,2022-01-18 05:31:05 +0100,true,,61e4f7d4bebc5880271f271c,E90
-2998517,d,2022-01-18 06:45:00 +0100,FR1772,Amman,Ryanair,1,B10,Check-in,2022-01-17 06:46:08 +0100,2022-01-18 03:42:05 +0100,true,,61e5025dbebc5880271f3106,73H
+2998512,d,2022-01-18 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2022-01-17 06:01:07 +0100,2022-01-18 05:42:06 +0100,true,,61e4f7d4bebc5880271f271c,E90
+2998517,d,2022-01-18 06:45:00 +0100,FR1772,Amman,Ryanair,1,B10,Last call,2022-01-17 06:46:08 +0100,2022-01-18 05:57:05 +0100,true,,61e5025dbebc5880271f3106,73H
 2998518,d,2022-01-18 07:00:00 +0100,LH1403,Frankfurt,Lufthansa,2,C9,Check-in,2022-01-17 07:01:07 +0100,2022-01-18 05:00:05 +0100,true,,61e505e4bebc5880271f34e1,32A
 2998531,d,2022-01-18 08:50:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-01-17 08:51:07 +0100,2022-01-17 09:22:06 +0100,true,,61e51fa9bebc5880271f42b8,E75
 2998535,d,2022-01-18 09:10:00 +0100,LX1485,Zurich,Swiss International Air Lines,2,C11,"",2022-01-17 09:11:06 +0100,2022-01-17 09:11:06 +0100,true,,61e52459bebc5880271f43a4,223
