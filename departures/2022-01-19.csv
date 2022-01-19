@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 2998627,d,2022-01-19 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Departed 05:57,2022-01-18 06:01:06 +0100,2022-01-19 06:08:06 +0100,true,2022-01-19 05:57:00 +0100,61e64954bebc5880271fb070,E90
-2998632,d,2022-01-19 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Last call,2022-01-18 06:31:11 +0100,2022-01-19 06:05:05 +0100,true,,61e6505abebc5880271fb438,319
+2998632,d,2022-01-19 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Gate closed,2022-01-18 06:31:11 +0100,2022-01-19 06:26:05 +0100,true,,61e6505abebc5880271fb438,319
 2998637,d,2022-01-19 07:00:00 +0100,LH1403,Frankfurt,Lufthansa,2,C9,Gate open,2022-01-18 07:01:07 +0100,2022-01-19 06:05:05 +0100,true,,61e65766bebc5880271fb7a2,32A
 2998645,d,2022-01-19 07:15:00 +0100,LO0530,Warsaw/CHOPIN,Lot Polish Airlines,2,C5,Gate open,2022-01-18 07:16:06 +0100,2022-01-19 05:58:06 +0100,true,,61e65ae5bebc5880271fb7cb,E75
 2998648,d,2022-01-19 07:50:00 +0100,FR8256,Riga,Ryanair,2,C18,Gate open,2022-01-18 07:51:06 +0100,2022-01-19 06:20:05 +0100,true,,61e66319bebc5880271fb825,73H
