@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3000062,d,2022-01-27 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Boarding,2022-01-26 06:01:06 +0100,2022-01-27 05:31:05 +0100,true,,61f0d552bebc58802723d045,E90
-3000067,d,2022-01-27 06:00:00 +0100,QS4112,Ras Al Khaimah,SmartWings,1,B4,Last call,2022-01-26 06:01:06 +0100,2022-01-27 05:31:05 +0100,true,,61f0d552bebc58802723d046,7M8
+3000062,d,2022-01-27 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2022-01-26 06:01:06 +0100,2022-01-27 05:42:06 +0100,true,,61f0d552bebc58802723d045,E90
+3000067,d,2022-01-27 06:00:00 +0100,QS4112,Ras Al Khaimah,SmartWings,1,B4,Gate closed,2022-01-26 06:01:06 +0100,2022-01-27 05:40:06 +0100,true,,61f0d552bebc58802723d046,7M8
 3000068,d,2022-01-27 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Gate open,2022-01-26 06:31:06 +0100,2022-01-27 05:31:05 +0100,true,,61f0dc5abebc58802723d6d0,319
 3000073,d,2022-01-27 06:55:00 +0100,PWF0080,Braunschweig,Private Wings Flugcharter,3,1,"",2022-01-26 06:56:06 +0100,2022-01-26 06:56:06 +0100,true,,61f0e235bebc58802723d935,BES
 3000074,d,2022-01-27 07:00:00 +0100,LH1403,Frankfurt,Lufthansa,2,C9,Check-in,2022-01-26 07:01:07 +0100,2022-01-27 05:02:05 +0100,true,,61f0e363bebc58802723d99c,32A
