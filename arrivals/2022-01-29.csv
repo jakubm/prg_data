@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3000473,a,2022-01-29 07:20:00 +0100,W66421,Kutaisi,Wizz Air,1,"","",2022-01-28 07:21:07 +0100,2022-01-28 07:21:07 +0100,true,,61f38b10bebc58802724d35b,32A
+3000473,a,2022-01-29 07:20:00 +0100,W66421,Kutaisi,Wizz Air,1,"",Expected 07:35,2022-01-28 07:21:07 +0100,2022-01-29 04:09:06 +0100,true,2022-01-29 07:35:00 +0100,61f38b10bebc58802724d35b,32A
 3000484,a,2022-01-29 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-01-28 08:21:08 +0100,2022-01-28 08:21:08 +0100,true,,61f39920bebc58802724d473,E75
 3000487,a,2022-01-29 08:30:00 +0100,VY8450,Amsterdam,Vueling,2,"","",2022-01-28 08:31:08 +0100,2022-01-28 08:31:08 +0100,true,,61f39b79bebc58802724d4de,320
 3000492,a,2022-01-29 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2022-01-28 08:51:07 +0100,2022-01-28 08:51:07 +0100,true,,61f3a028bebc58802724d56b,7M8
