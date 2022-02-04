@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3001604,d,2022-02-04 03:10:00 +0100,QS4106,Boa Vista Island/RABIL,SmartWings,1,B7,Boarding,2022-02-03 03:11:06 +0100,2022-02-04 02:35:06 +0100,true,,61fb39782d386bd0d1ac9bb6,7M8
+3001604,d,2022-02-04 03:10:00 +0100,QS4106,Boa Vista Island/RABIL,SmartWings,1,B7,Gate closed,2022-02-03 03:11:06 +0100,2022-02-04 03:07:06 +0100,true,,61fb39782d386bd0d1ac9bb6,7M8
 3001605,d,2022-02-04 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-02-03 06:01:12 +0100,2022-02-03 06:01:12 +0100,true,,61fb61542d386bd0d1aca517,295
 3001610,d,2022-02-04 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2022-02-03 06:31:06 +0100,2022-02-03 06:31:06 +0100,true,,61fb68592d386bd0d1acab2c,319
 3001615,d,2022-02-04 06:50:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,"",2022-02-03 06:51:06 +0100,2022-02-03 08:24:07 +0100,true,,61fb6d082d386bd0d1acafc0,73H
