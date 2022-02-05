@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3001901,a,2022-02-05 08:15:00 +0100,W66421,Kutaisi,Wizz Air,1,"",Expected 08:25,2022-02-04 08:16:08 +0100,2022-02-05 06:29:08 +0100,true,2022-02-05 08:25:00 +0100,61fcd2752d386bd0d1ad4db1,32A
 3001902,a,2022-02-05 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-02-04 08:21:08 +0100,2022-02-04 08:21:08 +0100,true,,61fcd3a02d386bd0d1ad4e93,E75
-3001911,a,2022-02-05 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2022-02-04 08:51:07 +0100,2022-02-04 08:51:07 +0100,true,,61fcdaa82d386bd0d1ad524a,73H
+3001911,a,2022-02-05 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"",Expected 08:45,2022-02-04 08:51:07 +0100,2022-02-05 06:46:08 +0100,true,2022-02-05 08:45:00 +0100,61fcdaa82d386bd0d1ad524a,73H
 3001917,a,2022-02-05 09:50:00 +0100,LH1392,Frankfurt,Lufthansa,2,"","",2022-02-04 09:51:08 +0100,2022-02-04 09:51:08 +0100,true,,61fce8b82d386bd0d1ad562d,32A
 3001926,a,2022-02-05 10:05:00 +0100,QS2571,Marsa Allam,SmartWings,1,"",Expected 10:05,2022-02-04 10:06:07 +0100,2022-02-05 06:31:07 +0100,true,2022-02-05 10:05:00 +0100,61fcec3c2d386bd0d1ad574c,7M8
 3001927,a,2022-02-05 10:05:00 +0100,QS2587,Marsa Allam,SmartWings,1,"",Cancelled,2022-02-04 10:06:07 +0100,2022-02-04 16:04:07 +0100,true,,61fcec3c2d386bd0d1ad574d,7M8
