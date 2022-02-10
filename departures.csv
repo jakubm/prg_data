@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3002885,d,2022-02-10 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-02-09 06:01:06 +0100,2022-02-09 06:01:06 +0100,true,,62034a532d386bd0d1b0761a,295
-3002890,d,2022-02-10 06:00:00 +0100,QS4112,Ras Al Khaimah,SmartWings,1,B7,"",2022-02-09 06:01:06 +0100,2022-02-09 07:51:07 +0100,true,,62034a542d386bd0d1b0761b,7M8
+3002890,d,2022-02-10 06:00:00 +0100,QS4112,Ras Al Khaimah,SmartWings,1,B7,Check-in,2022-02-09 06:01:06 +0100,2022-02-10 03:31:06 +0100,true,,62034a542d386bd0d1b0761b,7M8
 3002891,d,2022-02-10 06:15:00 +0100,EW4208,Fuerteventura,Eurowings Ag,2,C6,"",2022-02-09 06:16:07 +0100,2022-02-09 17:06:07 +0100,true,,62034dd62d386bd0d1b07bb5,32A
 3002892,d,2022-02-10 06:55:00 +0100,PWF0080,Braunschweig,Private Wings Flugcharter,3,1,"",2022-02-09 06:56:07 +0100,2022-02-09 06:56:07 +0100,true,,620357352d386bd0d1b08604,BES
 3002893,d,2022-02-10 07:00:00 +0100,LH1403,Frankfurt,Lufthansa,2,C9,"",2022-02-09 07:01:06 +0100,2022-02-09 07:01:06 +0100,true,,620358622d386bd0d1b086c5,32N
