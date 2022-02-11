@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3003098,d,2022-02-11 03:10:00 +0100,QS4106,Boa Vista Island/RABIL,SmartWings,1,B8,Gate open,2022-02-10 03:11:07 +0100,2022-02-11 02:07:07 +0100,true,,620473f82d386bd0d1b0f11e,7M8
+3003098,d,2022-02-11 03:10:00 +0100,QS4106,Boa Vista Island/RABIL,SmartWings,1,B8,Gate closed,2022-02-10 03:11:07 +0100,2022-02-11 02:59:06 +0100,true,,620473f82d386bd0d1b0f11e,7M8
 3003099,d,2022-02-11 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-02-10 06:01:08 +0100,2022-02-10 06:01:08 +0100,true,,62049bd32d386bd0d1b0f977,E90
 3003104,d,2022-02-11 06:50:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,"",2022-02-10 06:51:08 +0100,2022-02-10 07:58:08 +0100,true,,6204a7892d386bd0d1b10191,73H
 3003105,d,2022-02-11 06:50:00 +0100,LH1689,Munich,Lufthansa,2,C14,"",2022-02-10 06:51:08 +0100,2022-02-10 06:51:08 +0100,true,,6204a7892d386bd0d1b10192,CR9
@@ -94,3 +94,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3003394,d,2022-02-12 00:50:00 +0100,QS1240,Hurghada,SmartWings,1,B8,"",2022-02-11 00:51:08 +0100,2022-02-11 00:51:08 +0100,true,,6205a4a82d386bd0d1b17cc7,73J
 3003396,d,2022-02-12 01:10:00 +0100,QS1222,Marsa Allam,SmartWings,1,"","",2022-02-11 01:11:08 +0100,2022-02-11 01:11:08 +0100,true,,6205a9582d386bd0d1b17cd7,73J
 3003398,d,2022-02-12 01:30:00 +0100,QS2524,Hurghada,SmartWings,1,"","",2022-02-11 01:31:07 +0100,2022-02-11 01:31:07 +0100,true,,6205ae092d386bd0d1b17d3e,7M8
+3003400,d,2022-02-12 02:30:00 +0100,QS2562,Hurghada,SmartWings,1,"","",2022-02-11 02:31:07 +0100,2022-02-11 02:31:07 +0100,true,,6205bc182d386bd0d1b17d8b,73H
