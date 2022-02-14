@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3004177,d,2022-02-15 03:10:00 +0100,QS4104,Boa Vista Island/RABIL,SmartWings,1,B8,"",2022-02-14 03:11:07 +0100,2022-02-14 08:04:07 +0100,true,,6209b9f82d386bd0d1b3e40c,7M8
+3004177,d,2022-02-15 03:10:00 +0100,QS4104,Boa Vista Island/RABIL,SmartWings,1,B8,Check-in,2022-02-14 03:11:07 +0100,2022-02-15 00:41:05 +0100,true,,6209b9f82d386bd0d1b3e40c,7M8
 3004178,d,2022-02-15 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-02-14 06:01:07 +0100,2022-02-14 06:01:07 +0100,true,,6209e1d22d386bd0d1b3edf4,295
 3004183,d,2022-02-15 06:45:00 +0100,FR1772,Amman,Ryanair,1,B10,"",2022-02-14 06:46:07 +0100,2022-02-14 08:49:08 +0100,true,,6209ec5e2d386bd0d1b40010,73H
 3004184,d,2022-02-15 06:50:00 +0100,LH1689,Munich,Lufthansa,2,C12,"",2022-02-14 06:51:07 +0100,2022-02-14 06:51:07 +0100,true,,6209ed882d386bd0d1b40154,CR9
@@ -49,3 +49,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3004345,d,2022-02-15 21:45:00 +0100,FR2414,Pisa,Ryanair,2,C18,"",2022-02-14 21:46:06 +0100,2022-02-14 21:46:06 +0100,true,,620abf4d2d386bd0d1b49f1e,73H
 3004346,d,2022-02-15 21:55:00 +0100,FZ1782,Dubai,Flydubai,1,A6,"",2022-02-14 21:56:07 +0100,2022-02-14 21:56:07 +0100,true,,620ac1a42d386bd0d1b49f47,7M8
 3004358,d,2022-02-16 00:05:00 +0100,QS2558,Hurghada,SmartWings,1,B8,"",2022-02-15 00:06:06 +0100,2022-02-15 00:06:06 +0100,true,,620ae01d2d386bd0d1b4a202,7M8
+3004359,d,2022-02-16 00:30:00 +0100,QS2568,Marsa Allam,SmartWings,1,B7,"",2022-02-15 00:31:07 +0100,2022-02-15 00:31:07 +0100,true,,620ae5f92d386bd0d1b4a212,7M8
