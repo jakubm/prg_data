@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3004591,a,2022-02-17 08:40:00 +0100,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"","",2022-02-16 08:41:07 +0100,2022-02-16 08:41:07 +0100,true,,620caa592d386bd0d1b54f54,73J
+3004591,a,2022-02-17 08:40:00 +0100,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Delayed,2022-02-16 08:41:07 +0100,2022-02-17 05:22:08 +0100,true,,620caa592d386bd0d1b54f54,73J
 3004597,a,2022-02-17 09:30:00 +0100,LO0523,Warsaw/CHOPIN,Lot Polish Airlines,2,"","",2022-02-16 09:31:08 +0100,2022-02-16 09:31:08 +0100,true,,620cb6092d386bd0d1b55667,DH4
 3004598,a,2022-02-17 09:45:00 +0100,PWF0081,Braunschweig,Private Wings Flugcharter,3,"","",2022-02-16 09:46:08 +0100,2022-02-16 09:46:08 +0100,true,,620cb98d2d386bd0d1b5574e,BES
 3004600,a,2022-02-17 10:05:00 +0100,BA0854,London/HEATHROW,British Airways,1,"","",2022-02-16 10:05:07 +0100,2022-02-16 10:05:07 +0100,true,,620cbe3c2d386bd0d1b559f1,320
