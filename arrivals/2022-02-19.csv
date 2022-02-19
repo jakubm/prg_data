@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3005126,a,2022-02-19 08:15:00 +0100,W66421,Kutaisi,Wizz Air,1,"","",2022-02-18 08:16:09 +0100,2022-02-18 08:16:09 +0100,true,,620f47752d386bd0d1b67cb6,320
+3005126,a,2022-02-19 08:15:00 +0100,W66421,Kutaisi,Wizz Air,1,"",Expected 08:25,2022-02-18 08:16:09 +0100,2022-02-19 05:27:07 +0100,true,2022-02-19 08:25:00 +0100,620f47752d386bd0d1b67cb6,320
 3005127,a,2022-02-19 08:20:00 +0100,TO4030,Paris/ORLY,Transavia France,2,"","",2022-02-18 08:21:08 +0100,2022-02-18 08:21:08 +0100,true,,620f48a02d386bd0d1b67ce4,73H
 3005130,a,2022-02-19 08:50:00 +0100,TK1767,Istanbul Airport,Turkish Airlines,1,"","",2022-02-18 08:51:08 +0100,2022-02-18 08:51:08 +0100,true,,620f4fb22d386bd0d1b680cc,321
 3005131,a,2022-02-19 08:55:00 +0100,EJU7905,Amsterdam,Easyjet,2,"","",2022-02-18 08:56:09 +0100,2022-02-18 08:56:09 +0100,true,,620f50de2d386bd0d1b681b3,319
