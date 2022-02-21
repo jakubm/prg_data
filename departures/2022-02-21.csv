@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3005600,d,2022-02-21 06:00:00 +0100,QS4144,Salalah Airport,SmartWings,1,B8,Last call,2022-02-20 06:01:09 +0100,2022-02-21 05:34:07 +0100,true,,6211cad12d386bd0d1b810a9,7M8
-3005601,d,2022-02-21 06:05:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Boarding,2022-02-20 06:06:08 +0100,2022-02-21 05:35:07 +0100,true,,6211cbfc2d386bd0d1b81204,E90
+3005601,d,2022-02-21 06:05:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Last call,2022-02-20 06:06:08 +0100,2022-02-21 05:44:07 +0100,true,,6211cbfc2d386bd0d1b81204,E90
 3005606,d,2022-02-21 06:40:00 +0100,EW4204,Milan/MALPENSA,Eurowings Ag,2,C6,Gate open,2022-02-20 06:41:07 +0100,2022-02-21 05:34:07 +0100,true,,6211d4302d386bd0d1b819a8,319
 3005607,d,2022-02-21 06:40:00 +0100,LH1689,Munich,Lufthansa,2,C12,Gate open,2022-02-20 06:41:07 +0100,2022-02-21 05:34:07 +0100,true,,6211d4302d386bd0d1b819a9,CR9
 3005613,d,2022-02-21 06:45:00 +0100,EW4214,Barcelona,Eurowings Ag,2,C3,Gate open,2022-02-20 06:46:07 +0100,2022-02-21 05:34:07 +0100,true,,6211d5662d386bd0d1b81b26,319
