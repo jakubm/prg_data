@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3006036,d,2022-02-23 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2022-02-22 06:01:07 +0100,2022-02-23 05:07:06 +0100,true,,62146dd52d386bd0d1b9acc2,295
+3006036,d,2022-02-23 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Boarding,2022-02-22 06:01:07 +0100,2022-02-23 05:37:06 +0100,true,,62146dd52d386bd0d1b9acc2,295
 3006041,d,2022-02-23 06:15:00 +0100,EW4202,Tenerife/SUR,Eurowings Ag,2,C3,Gate open,2022-02-22 06:16:07 +0100,2022-02-23 05:33:05 +0100,true,,621471562d386bd0d1b9aee5,320
 3006042,d,2022-02-23 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Gate open,2022-02-22 06:31:06 +0100,2022-02-23 05:33:05 +0100,true,,621474d92d386bd0d1b9b03b,319
 3006047,d,2022-02-23 07:00:00 +0100,LH1403,Frankfurt,Lufthansa,2,C9,Check-in,2022-02-22 07:01:09 +0100,2022-02-23 05:05:07 +0100,true,,62147be22d386bd0d1b9b36e,32A
