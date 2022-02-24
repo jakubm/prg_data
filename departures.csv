@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3006226,d,2022-02-24 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-02-23 06:01:06 +0100,2022-02-23 06:01:06 +0100,true,,6215bf532d386bd0d1ba2b9b,295
+3006226,d,2022-02-24 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2022-02-23 06:01:06 +0100,2022-02-24 03:48:06 +0100,true,,6215bf532d386bd0d1ba2b9b,295
 3006231,d,2022-02-24 06:00:00 +0100,QS4112,Ras Al Khaimah,SmartWings,1,B7,Check-in,2022-02-23 06:01:06 +0100,2022-02-24 03:31:06 +0100,true,,6215bf532d386bd0d1ba2b9c,7M8
 3006232,d,2022-02-24 06:15:00 +0100,EW4208,Fuerteventura,Eurowings Ag,2,C6,"",2022-02-23 06:16:07 +0100,2022-02-23 07:14:06 +0100,true,,6215c2d52d386bd0d1ba2dff,319
 3006233,d,2022-02-24 06:15:00 +0100,EW4224,Malaga,Eurowings Ag,2,C3,"",2022-02-23 06:16:07 +0100,2022-02-23 07:14:06 +0100,true,,6215c2d52d386bd0d1ba2e00,319
