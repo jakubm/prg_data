@@ -89,3 +89,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3007266,a,2022-02-27 23:30:00 +0100,EW4215,Barcelona,Eurowings Ag,2,"","",2022-02-26 23:31:09 +0100,2022-02-26 23:31:09 +0100,true,,621aa9e92d386bd0d1bcedce,320
 3007270,a,2022-02-27 23:50:00 +0100,FR1829,Paris/BEAUVAIS,Ryanair,2,"","",2022-02-26 23:51:08 +0100,2022-02-26 23:51:08 +0100,true,,621aae982d386bd0d1bcee0a,73H
 3007271,a,2022-02-27 23:50:00 +0100,FR2013,London/STANSTED,Ryanair,1,"","",2022-02-26 23:51:08 +0100,2022-02-26 23:51:08 +0100,true,,621aae982d386bd0d1bcee0b,73H
+3007272,a,2022-02-28 01:30:00 +0100,QS1153,Malaga,SmartWings,2,"","",2022-02-27 01:31:07 +0100,2022-02-27 01:31:07 +0100,true,,621ac6092d386bd0d1bcf39e,73H
