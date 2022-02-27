@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3007000,d,2022-02-27 06:00:00 +0100,QS4210,Salalah Airport,SmartWings,1,B7,Check-in,2022-02-26 06:01:07 +0100,2022-02-27 03:30:07 +0100,true,,6219b3d12d386bd0d1bc5a0a,7M8
-3007001,d,2022-02-27 06:15:00 +0100,EW4208,Fuerteventura,Eurowings Ag,2,C6,"",2022-02-26 06:16:07 +0100,2022-02-26 09:44:08 +0100,true,,6219b7552d386bd0d1bc5c24,320
+3007001,d,2022-02-27 06:15:00 +0100,EW4208,Fuerteventura,Eurowings Ag,2,C6,Check-in,2022-02-26 06:16:07 +0100,2022-02-27 04:15:06 +0100,true,,6219b7552d386bd0d1bc5c24,320
 3007002,d,2022-02-27 06:25:00 +0100,FR5007,Malaga,Ryanair,2,C18,Check-in,2022-02-26 06:26:07 +0100,2022-02-27 03:30:07 +0100,true,,6219b9ac2d386bd0d1bc5d20,73H
 3007003,d,2022-02-27 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2022-02-26 06:31:07 +0100,2022-02-26 06:31:07 +0100,true,,6219bad92d386bd0d1bc5de5,320
 3007008,d,2022-02-27 06:45:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,Check-in,2022-02-26 06:46:07 +0100,2022-02-27 03:46:07 +0100,true,,6219be5d2d386bd0d1bc63fe,73H
