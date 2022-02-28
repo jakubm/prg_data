@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3007273,d,2022-02-28 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-02-27 06:01:07 +0100,2022-02-27 06:01:07 +0100,true,,621b05542d386bd0d1bcffeb,295
-3007278,d,2022-02-28 06:00:00 +0100,QS4144,Salalah Airport,SmartWings,1,A6,"",2022-02-27 06:01:07 +0100,2022-02-27 09:34:07 +0100,true,,621b05542d386bd0d1bcffec,7M8
+3007278,d,2022-02-28 06:00:00 +0100,QS4144,Salalah Airport,SmartWings,1,A6,Check-in,2022-02-27 06:01:07 +0100,2022-02-28 03:33:06 +0100,true,,621b05542d386bd0d1bcffec,7M8
 3007279,d,2022-02-28 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2022-02-27 06:31:07 +0100,2022-02-27 06:31:07 +0100,true,,621b0c592d386bd0d1bd03dc,E70
 3007284,d,2022-02-28 06:40:00 +0100,EW4204,Milan/MALPENSA,Eurowings Ag,2,C3,"",2022-02-27 06:41:07 +0100,2022-02-27 09:55:08 +0100,true,,621b0eb02d386bd0d1bd07b3,319
 3007285,d,2022-02-28 06:40:00 +0100,LH1689,Munich,Lufthansa,2,C12,"",2022-02-27 06:41:07 +0100,2022-02-27 06:41:07 +0100,true,,621b0eb12d386bd0d1bd07b4,CR9
