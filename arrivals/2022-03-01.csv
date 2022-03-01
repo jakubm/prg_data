@@ -53,3 +53,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3007755,a,2022-03-01 22:15:00 +0100,KL1359,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-02-28 22:16:09 +0100,2022-02-28 22:16:09 +0100,true,,621d3b562d386bd0d1be86be,295
 3007757,a,2022-03-01 22:40:00 +0100,BA0858,London/HEATHROW,British Airways,1,"","",2022-02-28 22:41:07 +0100,2022-02-28 22:41:07 +0100,true,,621d41312d386bd0d1be86cc,320
 3007758,a,2022-03-01 23:20:00 +0100,QS1201,Dubai,SmartWings,1,"","",2022-02-28 23:21:08 +0100,2022-02-28 23:21:08 +0100,true,,621d4a912d386bd0d1be880a,7M8
+3007765,a,2022-03-02 01:30:00 +0100,QS1153,Malaga,SmartWings,2,"","",2022-03-01 01:31:07 +0100,2022-03-01 01:31:07 +0100,true,,621d69092d386bd0d1be8b55,73G
