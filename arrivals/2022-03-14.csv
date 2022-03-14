@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3011015,a,2022-03-14 08:00:00 +0100,EZS1217,Basel/MULHOUSE,Easyjet,2,"",Expected 07:35,2022-03-13 08:00:10 +0100,2022-03-14 06:32:07 +0100,true,2022-03-14 07:35:00 +0100,622d96732d38fe27f488f3f8,319
+3011015,a,2022-03-14 08:00:00 +0100,EZS1217,Basel/MULHOUSE,Easyjet,2,"",Expected 07:30,2022-03-13 08:00:10 +0100,2022-03-14 06:57:07 +0100,true,2022-03-14 07:30:00 +0100,622d96732d38fe27f488f3f8,319
 3011016,a,2022-03-14 08:20:00 +0100,EW9772,Dusseldorf,Eurowings Ag,2,"",Cancelled,2022-03-13 08:21:09 +0100,2022-03-13 16:20:08 +0100,true,,622d9b202d38fe27f488f639,32A
 3011017,a,2022-03-14 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-03-13 08:21:09 +0100,2022-03-13 08:21:09 +0100,true,,622d9b202d38fe27f488f63a,295
 3011026,a,2022-03-14 09:00:00 +0100,JU0610,Belgrade,Air Serbia,1,"","",2022-03-13 09:02:08 +0100,2022-03-13 09:02:08 +0100,true,,622da4852d38fe27f488fde6,AT7
