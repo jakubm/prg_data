@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3013867,a,2022-03-25 03:05:00 +0100,RR9554,Stockholm/ARLANDA,Buzz,2,"",Expected 03:50,2022-03-24 03:06:08 +0100,2022-03-25 03:19:13 +0100,true,2022-03-25 03:50:00 +0100,623bd1cc2d38fe27f491aef4,73H
+3013867,a,2022-03-25 03:05:00 +0100,RR9554,Stockholm/ARLANDA,Buzz,2,"",Arrived 03:45,2022-03-24 03:06:08 +0100,2022-03-25 03:47:08 +0100,true,2022-03-25 03:45:00 +0100,623bd1cc2d38fe27f491aef4,73H
 3013908,a,2022-03-25 08:10:00 +0100,FR5424,Naples,Ryanair,2,"","",2022-03-24 08:11:08 +0100,2022-03-24 08:11:08 +0100,true,,623c19482d38fe27f491c93f,7M8
 3013909,a,2022-03-25 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-03-24 08:21:09 +0100,2022-03-24 08:21:09 +0100,true,,623c1ba02d38fe27f491c994,295
 3013912,a,2022-03-25 08:25:00 +0100,QS1241,Hurghada,SmartWings,1,"","",2022-03-24 08:26:09 +0100,2022-03-24 08:26:09 +0100,true,,623c1ccc2d38fe27f491cb10,73H
