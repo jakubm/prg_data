@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3014459,a,2022-03-27 08:20:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-03-26 07:21:08 +0100,2022-03-26 07:21:08 +0100,true,,623eb0912d38fe27f4939f70,E90
-3014461,a,2022-03-27 08:30:00 +0200,TK1767,Istanbul/AIRPORT,Turkish Airlines,1,"","",2022-03-26 07:31:08 +0100,2022-03-26 07:31:08 +0100,true,,623eb2ea2d38fe27f493a172,32Q
+3014461,a,2022-03-27 08:30:00 +0200,TK1767,Istanbul/AIRPORT,Turkish Airlines,1,"",Expected 08:25,2022-03-26 07:31:08 +0100,2022-03-27 06:18:08 +0200,true,2022-03-27 08:25:00 +0200,623eb2ea2d38fe27f493a172,32B
 3014466,a,2022-03-27 09:10:00 +0200,EZY1803,Manchester,Easyjet,1,"","",2022-03-26 08:11:08 +0100,2022-03-26 08:11:08 +0100,true,,623ebc482d38fe27f493a2f3,320
 3014468,a,2022-03-27 09:20:00 +0200,D84571,Stockholm/ARLANDA,Norwegian Air Sweden,2,"","",2022-03-26 08:21:08 +0100,2022-03-26 08:21:08 +0100,true,,623ebea02d38fe27f493a489,73H
 3014469,a,2022-03-27 09:20:00 +0200,LO0523,Warsaw/CHOPIN,Lot Polish Airlines,2,"","",2022-03-26 08:21:08 +0100,2022-03-26 08:21:08 +0100,true,,623ebea02d38fe27f493a48a,DH4
