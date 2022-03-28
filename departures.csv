@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3014751,d,2022-03-28 06:00:00 +0200,FR8220,Copenhagen,Ryanair,2,C19,"",2022-03-27 06:01:08 +0200,2022-03-27 10:07:07 +0200,true,,623fe1442d38fe27f4944289,73H
+3014751,d,2022-03-28 06:00:00 +0200,FR8220,Copenhagen,Ryanair,2,C19,Check-in,2022-03-27 06:01:08 +0200,2022-03-28 03:01:06 +0200,true,,623fe1442d38fe27f4944289,73H
 3014752,d,2022-03-28 06:00:00 +0200,LH1403,Frankfurt,Lufthansa,2,C9,"",2022-03-27 06:01:08 +0200,2022-03-27 10:07:07 +0200,true,,623fe1442d38fe27f494428a,32A
 3014761,d,2022-03-28 06:00:00 +0200,QS4144,Salalah Airport,SmartWings,1,B7,"",2022-03-27 06:01:08 +0200,2022-03-27 10:07:07 +0200,true,,623fe1442d38fe27f494428b,7M8
 3014762,d,2022-03-28 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-03-27 06:06:07 +0200,2022-03-27 10:07:07 +0200,true,,623fe26c2d38fe27f4944320,73H
