@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3016513,a,2022-04-03 08:15:00 +0200,HV5235,Eindhoven,Transavia.com,2,"","",2022-04-02 08:16:08 +0200,2022-04-02 08:16:08 +0200,true,,6247e9e52d388aa8e87bf1c3,73H
 3016514,a,2022-04-03 08:20:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-04-02 08:21:08 +0200,2022-04-02 08:21:08 +0200,true,,6247eb112d388aa8e87bf1fe,E90
-3016516,a,2022-04-03 08:30:00 +0200,TK1767,Istanbul/AIRPORT,Turkish Airlines,1,"","",2022-04-02 08:31:08 +0200,2022-04-02 08:31:08 +0200,true,,6247ed692d388aa8e87bf358,321
+3016516,a,2022-04-03 08:30:00 +0200,TK1767,Istanbul/AIRPORT,Turkish Airlines,1,"",Expected 08:25,2022-04-02 08:31:08 +0200,2022-04-03 06:22:07 +0200,true,2022-04-03 08:25:00 +0200,6247ed692d388aa8e87bf358,321
 3016523,a,2022-04-03 08:40:00 +0200,LX1484,Zurich,Swiss International Air Lines,2,"","",2022-04-02 08:41:09 +0200,2022-04-02 08:41:09 +0200,true,,6247efc12d388aa8e87bf41c,320
 3016524,a,2022-04-03 08:40:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Expected 09:00,2022-04-02 08:41:09 +0200,2022-04-03 05:50:08 +0200,true,2022-04-03 09:00:00 +0200,6247efc22d388aa8e87bf41d,7M8
 3016530,a,2022-04-03 09:10:00 +0200,EZY1803,Manchester,Easyjet,1,"","",2022-04-02 09:11:08 +0200,2022-04-02 09:11:08 +0200,true,,6247f6c82d388aa8e87bfa9d,320
