@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3017186,d,2022-04-05 06:00:00 +0200,LH1403,Frankfurt,Lufthansa,2,C9,"",2022-04-04 06:01:08 +0200,2022-04-04 15:02:08 +0200,true,,624a6d412d388aa8e87dae8f,321
+3017186,d,2022-04-05 06:00:00 +0200,LH1403,Frankfurt,Lufthansa,2,C9,Check-in,2022-04-04 06:01:08 +0200,2022-04-05 04:02:08 +0200,true,,624a6d412d388aa8e87dae8f,321
 3017195,d,2022-04-05 06:00:00 +0200,QS4104,Boa Vista Island/RABIL,SmartWings,1,B3,Check-in,2022-04-04 06:01:08 +0200,2022-04-05 03:30:08 +0200,true,,624a6d422d388aa8e87dae90,7M8
 3017196,d,2022-04-05 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2022-04-04 06:06:09 +0200,2022-04-05 03:47:07 +0200,true,,624a6e6c2d388aa8e87daf8f,73H
 3017200,d,2022-04-05 06:10:00 +0200,FR8256,Riga,Ryanair,2,C19,Check-in,2022-04-04 06:11:08 +0200,2022-04-05 03:11:06 +0200,true,,624a6f992d388aa8e87db1da,73H
