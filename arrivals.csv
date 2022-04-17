@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3021209,a,2022-04-17 08:15:00 +0200,HV5235,Eindhoven,Transavia.com,2,"","",2022-04-16 08:16:07 +0200,2022-04-16 08:16:07 +0200,true,,625a5ee42d38f7147f81d845,73H
+3021209,a,2022-04-17 08:15:00 +0200,HV5235,Eindhoven,Transavia.com,2,"",Expected 08:10,2022-04-16 08:16:07 +0200,2022-04-17 07:10:08 +0200,true,2022-04-17 08:10:00 +0200,625a5ee42d38f7147f81d845,73H
 3021210,a,2022-04-17 08:30:00 +0200,TK1767,Istanbul/AIRPORT,Turkish Airlines,1,"",Expected 08:20,2022-04-16 08:31:07 +0200,2022-04-17 06:17:07 +0200,true,2022-04-17 08:20:00 +0200,625a62682d38f7147f81d93a,32Q
 3021217,a,2022-04-17 08:40:00 +0200,LX1484,Zurich,Swiss International Air Lines,2,"","",2022-04-16 08:41:08 +0200,2022-04-16 08:41:08 +0200,true,,625a64c02d38f7147f81da89,223
 3021218,a,2022-04-17 08:40:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Expected 08:45,2022-04-16 08:41:08 +0200,2022-04-17 05:53:08 +0200,true,2022-04-17 08:45:00 +0200,625a64c02d38f7147f81da8a,73H
