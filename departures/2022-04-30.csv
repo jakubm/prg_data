@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3025670,d,2022-04-30 04:45:00 +0200,QS2570,Marsa Allam,SmartWings,1,A6,"",2022-04-29 04:46:09 +0200,2022-04-29 08:49:10 +0200,true,,626b512d2d38f1d9eea6bb5c,7M8
+3025670,d,2022-04-30 04:45:00 +0200,QS2570,Marsa Allam,SmartWings,1,A6,Check-in,2022-04-29 04:46:09 +0200,2022-04-30 02:16:07 +0200,true,,626b512d2d38f1d9eea6bb5c,7M8
 3025671,d,2022-04-30 06:00:00 +0200,EW4218,Larnaca,Eurowings Ag,1,A7,"",2022-04-29 06:01:08 +0200,2022-04-29 08:41:09 +0200,true,,626b62c42d38f1d9eea6cbc3,32A
 3025673,d,2022-04-30 06:00:00 +0200,LH1403,Frankfurt,Lufthansa,2,C9,"",2022-04-29 06:01:08 +0200,2022-04-29 08:41:09 +0200,true,,626b62c42d38f1d9eea6cbc4,321
 3025682,d,2022-04-30 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-04-29 06:06:09 +0200,2022-04-29 08:42:08 +0200,true,,626b63ec2d38f1d9eea6ccb6,73H
