@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3025994,a,2022-05-01 08:15:00 +0200,HV5235,Eindhoven,Transavia.com,2,"",Expected 08:15,2022-04-30 08:16:09 +0200,2022-05-01 07:10:08 +0200,true,2022-05-01 08:15:00 +0200,626cd3e62d38f1d9eea82f9c,73H
+3025994,a,2022-05-01 08:15:00 +0200,HV5235,Eindhoven,Transavia.com,2,"",Expected 08:20,2022-04-30 08:16:09 +0200,2022-05-01 07:51:10 +0200,true,2022-05-01 08:20:00 +0200,626cd3e62d38f1d9eea82f9c,73H
 3025995,a,2022-05-01 08:20:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 08:25,2022-04-30 08:21:08 +0200,2022-05-01 07:16:08 +0200,true,2022-05-01 08:25:00 +0200,626cd5102d38f1d9eea82fd4,E90
 3025998,a,2022-05-01 08:30:00 +0200,TK1767,Istanbul/AIRPORT,Turkish Airlines,1,"",Expected 08:10,2022-04-30 08:31:10 +0200,2022-05-01 07:45:10 +0200,true,2022-05-01 08:10:00 +0200,626cd7692d38f1d9eea83213,32Q
 3026005,a,2022-05-01 08:40:00 +0200,LX1484,Zurich,Swiss International Air Lines,2,"",Expected 08:45,2022-04-30 08:41:10 +0200,2022-05-01 07:37:09 +0200,true,2022-05-01 08:45:00 +0200,626cd9c02d38f1d9eea83285,223
