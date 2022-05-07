@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3028087,d,2022-05-07 04:50:00 +0200,QS2852,Djerba,SmartWings,1,A8,"",2022-05-06 04:51:08 +0200,2022-05-06 09:34:08 +0200,true,,62748cd82d38f1d9eeae53df,73G
+3028087,d,2022-05-07 04:50:00 +0200,QS2852,Djerba,SmartWings,1,A8,Check-in,2022-05-06 04:51:08 +0200,2022-05-07 02:20:06 +0200,true,,62748cd82d38f1d9eeae53df,73G
 3028088,d,2022-05-07 06:00:00 +0200,EW4218,Larnaca,Eurowings Ag,1,B5,"",2022-05-06 06:01:08 +0200,2022-05-06 09:34:08 +0200,true,,62749d442d38f1d9eeae6665,319
 3028090,d,2022-05-07 06:00:00 +0200,LH1403,Frankfurt,Lufthansa,2,C9,"",2022-05-06 06:01:08 +0200,2022-05-06 09:34:08 +0200,true,,62749d442d38f1d9eeae6666,32N
 3028099,d,2022-05-07 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2022-05-06 06:06:08 +0200,2022-05-06 09:34:09 +0200,true,,62749e6d2d38f1d9eeae686d,73H
