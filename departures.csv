@@ -95,3 +95,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3029741,d,2022-05-11 22:15:00 +0200,LY2524,Tel Aviv/BEN GURION,El Al Israel Airlines,1,A2,"",2022-05-10 22:16:08 +0200,2022-05-10 22:16:08 +0200,true,,627ac7c52d38f1d9eeb3d660,73J
 3029751,d,2022-05-11 23:45:00 +0200,QS1286,Tel Aviv/BEN GURION,SmartWings,1,B3,"",2022-05-10 23:46:07 +0200,2022-05-10 23:46:07 +0200,true,,627adcdd2d38f1d9eeb3dc42,73J
 3029755,d,2022-05-12 00:15:00 +0200,QS2588,Marsa Allam,SmartWings,1,A4,"",2022-05-11 00:16:09 +0200,2022-05-11 00:16:09 +0200,true,,627ae3e52d38f1d9eeb3dd19,73H
+3029758,d,2022-05-12 00:35:00 +0200,QS2578,Sharm El Sheikh,SmartWings,1,B1,"",2022-05-11 00:36:07 +0200,2022-05-11 00:36:07 +0200,true,,627ae8942d38f1d9eeb3dfd1,73J
