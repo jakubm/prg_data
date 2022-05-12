@@ -124,3 +124,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3030520,d,2022-05-13 23:45:00 +0200,QS1286,Tel Aviv/BEN GURION,SmartWings,1,B5,"",2022-05-12 23:46:08 +0200,2022-05-12 23:46:08 +0200,true,,627d7fdd2d38f1d9eeb5e8c3,73J
 3030524,d,2022-05-14 00:05:00 +0200,QS2524,Hurghada,SmartWings,1,B8,"",2022-05-13 00:06:08 +0200,2022-05-13 00:06:08 +0200,true,,627d848c2d38f1d9eeb5ea6f,73H
 3030525,d,2022-05-14 00:05:00 +0200,QS3222,Marsa Allam,SmartWings,1,A7,"",2022-05-13 00:06:08 +0200,2022-05-13 00:06:08 +0200,true,,627d848d2d38f1d9eeb5ea70,73H
+3030526,d,2022-05-14 00:15:00 +0200,QS2506,Marsa Allam,SmartWings,1,A4,"",2022-05-13 00:16:08 +0200,2022-05-13 00:16:08 +0200,true,,627d86e62d38f1d9eeb5ea85,7M8
