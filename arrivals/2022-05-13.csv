@@ -129,3 +129,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3030514,a,2022-05-13 23:15:00 +0200,LH1402,Frankfurt,Lufthansa,2,"","",2022-05-12 23:16:09 +0200,2022-05-12 23:16:09 +0200,true,,627d78d62d38f1d9eeb5e2f1,321
 3030519,a,2022-05-13 23:35:00 +0200,FR8211,Bari,Ryanair,2,"","",2022-05-12 23:36:10 +0200,2022-05-12 23:36:10 +0200,true,,627d7d852d38f1d9eeb5e550,73H
 3030523,a,2022-05-13 23:55:00 +0200,QS2547,Marsa Allam,SmartWings,1,"","",2022-05-12 23:56:09 +0200,2022-05-12 23:56:09 +0200,true,,627d82352d38f1d9eeb5ea65,73H
+3030527,a,2022-05-14 00:20:00 +0200,QS1201,Al Maktoum International Airport,SmartWings,1,"","",2022-05-13 00:21:09 +0200,2022-05-13 00:21:09 +0200,true,,627d88112d38f1d9eeb5eab7,7M8
