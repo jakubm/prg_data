@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3030120,d,2022-05-13 04:10:00 +0200,QS4106,Boa Vista Island/RABIL,SmartWings,1,B8,"",2022-05-12 04:11:07 +0200,2022-05-12 10:08:07 +0200,true,,627c6c782d38f1d9eeb4e8dc,7M8
+3030120,d,2022-05-13 04:10:00 +0200,QS4106,Boa Vista Island/RABIL,SmartWings,1,B8,Check-in,2022-05-12 04:11:07 +0200,2022-05-13 01:37:07 +0200,true,,627c6c782d38f1d9eeb4e8dc,7M8
 3030121,d,2022-05-13 06:00:00 +0200,EW4206,Palma De Mallorca,Eurowings Ag,2,C6,"",2022-05-12 06:01:08 +0200,2022-05-12 10:10:07 +0200,true,,627c86422d38f1d9eeb4ff7c,319
 3030123,d,2022-05-13 06:00:00 +0200,FR8220,Copenhagen,Ryanair,2,C19,"",2022-05-12 06:01:08 +0200,2022-05-12 10:08:07 +0200,true,,627c86422d38f1d9eeb4ff7d,73H
 3030124,d,2022-05-13 06:00:00 +0200,LH1403,Frankfurt,Lufthansa,2,C9,"",2022-05-12 06:01:08 +0200,2022-05-12 06:01:08 +0200,true,,627c86422d38f1d9eeb4ff7e,321
