@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3030119,a,2022-05-13 04:00:00 +0200,QS4147,Sal Island,SmartWings,1,"",Expected 04:20,2022-05-12 04:01:09 +0200,2022-05-12 22:24:09 +0200,true,2022-05-13 04:20:00 +0200,627c6a222d38f1d9eeb4e866,7M8
+3030119,a,2022-05-13 04:00:00 +0200,QS4147,Sal Island,SmartWings,1,"",Arrived 04:08,2022-05-12 04:01:09 +0200,2022-05-13 04:11:09 +0200,true,2022-05-13 04:08:00 +0200,627c6a222d38f1d9eeb4e866,7M8
 3030147,a,2022-05-13 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"","",2022-05-12 07:21:09 +0200,2022-05-12 07:21:09 +0200,true,,627c99022d38f1d9eeb507c4,73H
 3030155,a,2022-05-13 07:45:00 +0200,W65439,Venice/MARCO POLO,Wizz Air,2,"","",2022-05-12 07:46:09 +0200,2022-05-12 07:46:09 +0200,true,,627c9edd2d38f1d9eeb50982,32Q
 3030156,a,2022-05-13 08:00:00 +0200,VOE2206,Nantes,Volotea Airlines,2,"","",2022-05-12 08:01:09 +0200,2022-05-12 08:01:09 +0200,true,,627ca2632d38f1d9eeb50c28,320
