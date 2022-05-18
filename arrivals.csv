@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3031923,a,2022-05-18 04:15:00 +0200,QS4104,Sal Island,SmartWings,1,"",Expected 04:30,2022-05-17 04:16:10 +0200,2022-05-17 22:20:08 +0200,true,2022-05-18 04:30:00 +0200,628305252d38f1d9eeba77b1,7M8
+3031923,a,2022-05-18 04:15:00 +0200,QS4104,Sal Island,SmartWings,1,"",Expected 04:20,2022-05-17 04:16:10 +0200,2022-05-18 04:16:08 +0200,true,2022-05-18 04:20:00 +0200,628305252d38f1d9eeba77b1,7M8
 3031959,a,2022-05-18 07:45:00 +0200,W65439,Venice/MARCO POLO,Wizz Air,2,"","",2022-05-17 07:46:08 +0200,2022-05-17 07:46:08 +0200,true,,6283365d2d38f1d9eeba9a30,321
 3031960,a,2022-05-18 08:05:00 +0200,FR2121,Charleroi,Ryanair,2,"","",2022-05-17 08:06:10 +0200,2022-05-17 08:06:10 +0200,true,,62833b0c2d38f1d9eeba9d19,73H
 3031962,a,2022-05-18 08:20:00 +0200,EW9772,Dusseldorf,Eurowings Ag,2,"","",2022-05-17 08:21:08 +0200,2022-05-17 08:21:08 +0200,true,,62833e902d38f1d9eebaa3fb,32A
