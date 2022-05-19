@@ -127,3 +127,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3033010,d,2022-05-21 00:05:00 +0200,QS2524,Hurghada,SmartWings,1,A6,"",2022-05-20 00:06:08 +0200,2022-05-20 00:06:08 +0200,true,,6286bf0c2d38f1d9eebd8de8,73H
 3033011,d,2022-05-21 00:05:00 +0200,QS3222,Marsa Allam,SmartWings,1,B8,"",2022-05-20 00:06:08 +0200,2022-05-20 00:06:08 +0200,true,,6286bf0c2d38f1d9eebd8de9,73H
 3033012,d,2022-05-21 00:15:00 +0200,QS2506,Marsa Allam,SmartWings,1,B7,"",2022-05-20 00:16:08 +0200,2022-05-20 00:16:08 +0200,true,,6286c1652d38f1d9eebd8df3,73H
+3033013,d,2022-05-21 00:45:00 +0200,QS2570,Marsa Allam,SmartWings,1,B3,"",2022-05-20 00:46:11 +0200,2022-05-20 00:46:11 +0200,true,,6286c86e2d38f1d9eebd917c,73H
