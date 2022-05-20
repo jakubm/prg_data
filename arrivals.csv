@@ -93,3 +93,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3033316,a,2022-05-21 23:55:00 +0200,QS2521,Marsa Allam,SmartWings,1,"","",2022-05-20 23:56:09 +0200,2022-05-20 23:56:09 +0200,true,,62880e352d38f1d9eebee5e2,73H
 3033320,a,2022-05-22 00:20:00 +0200,QS1201,Al Maktoum International Airport,SmartWings,1,"","",2022-05-21 00:21:08 +0200,2022-05-21 00:21:08 +0200,true,,628814102d38f1d9eebeec62,7M8
 3033322,a,2022-05-22 00:45:00 +0200,QS1153,Malaga,SmartWings,2,"","",2022-05-21 00:46:09 +0200,2022-05-21 00:46:09 +0200,true,,628819ed2d38f1d9eebef5eb,73J
+3033325,a,2022-05-22 00:55:00 +0200,QS1113,Rhodes,SmartWings,2,"","",2022-05-21 00:56:08 +0200,2022-05-21 00:56:08 +0200,true,,62881c452d38f1d9eebef7c3,73H
