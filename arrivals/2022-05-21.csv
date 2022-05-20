@@ -91,3 +91,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3033307,a,2022-05-21 22:55:00 +0200,QS2041,Las Palmas,SmartWings,2,"","",2022-05-20 22:56:09 +0200,2022-05-20 22:56:09 +0200,true,,628800252d38f1d9eebedc08,7M8
 3033308,a,2022-05-21 23:15:00 +0200,LH1402,Frankfurt,Lufthansa,2,"","",2022-05-20 23:16:08 +0200,2022-05-20 23:16:08 +0200,true,,628804d52d38f1d9eebedfb0,321
 3033316,a,2022-05-21 23:55:00 +0200,QS2521,Marsa Allam,SmartWings,1,"","",2022-05-20 23:56:09 +0200,2022-05-20 23:56:09 +0200,true,,62880e352d38f1d9eebee5e2,73H
+3033320,a,2022-05-22 00:20:00 +0200,QS1201,Al Maktoum International Airport,SmartWings,1,"","",2022-05-21 00:21:08 +0200,2022-05-21 00:21:08 +0200,true,,628814102d38f1d9eebeec62,7M8
