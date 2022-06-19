@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3044439,d,2022-06-19 04:30:00 +0200,QS2666,Antalya,SmartWings,1,B8,"",2022-06-18 04:32:08 +0200,2022-06-18 10:35:08 +0200,true,,62ad38aa2d3836da63d17cec,73H
+3044439,d,2022-06-19 04:30:00 +0200,QS2666,Antalya,SmartWings,1,B8,Check-in,2022-06-18 04:32:08 +0200,2022-06-19 01:58:07 +0200,true,,62ad38aa2d3836da63d17cec,73H
 3044440,d,2022-06-19 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D2,"",2022-06-18 04:45:09 +0200,2022-06-18 11:10:08 +0200,true,,62ad3c2d2d3836da63d180ef,319
 3044442,d,2022-06-19 04:45:00 +0200,QS1190,Antalya,SmartWings,1,B7,"",2022-06-18 04:45:09 +0200,2022-06-18 10:35:08 +0200,true,,62ad3c2d2d3836da63d180f0,73H
 3044444,d,2022-06-19 04:50:00 +0200,QS1126,Kos,SmartWings,2,D1,"",2022-06-18 04:51:08 +0200,2022-06-18 11:08:09 +0200,true,,62ad3d592d3836da63d18225,320
