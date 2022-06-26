@@ -4,7 +4,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3047556,a,2022-06-26 08:15:00 +0200,HV5235,Eindhoven,Transavia.com,2,"","",2022-06-25 08:16:11 +0200,2022-06-25 08:16:11 +0200,true,,62b6a7e52d3836da63dbe6b5,73H
 3047557,a,2022-06-26 08:20:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-06-25 08:21:11 +0200,2022-06-25 08:21:11 +0200,true,,62b6a9112d3836da63dbe8c9,E90
 3047560,a,2022-06-26 08:30:00 +0200,TK1767,Istanbul/AIRPORT,Turkish Airlines,1,"","",2022-06-25 08:31:11 +0200,2022-06-25 08:31:11 +0200,true,,62b6ab692d3836da63dbee2e,32Q
-3047568,a,2022-06-26 08:40:00 +0200,LX1484,Zurich,Swiss International Air Lines,2,"","",2022-06-25 08:41:10 +0200,2022-06-25 08:41:10 +0200,true,,62b6adc12d3836da63dbefbe,295
+3047568,a,2022-06-26 08:40:00 +0200,LX1484,Zurich,Swiss International Air Lines,2,"",Delayed,2022-06-25 08:41:10 +0200,2022-06-26 05:56:10 +0200,true,,62b6adc12d3836da63dbefbe,295
 3047569,a,2022-06-26 08:40:00 +0200,QS1287,Tel Aviv/BEN GURION,SmartWings,1,"",Delayed,2022-06-25 08:41:10 +0200,2022-06-26 02:53:10 +0200,true,,62b6adc12d3836da63dbefbf,73J
 3047571,a,2022-06-26 08:45:00 +0200,DY1502,Oslo,Norwegian Air Shuttle,2,"","",2022-06-25 08:46:10 +0200,2022-06-25 08:46:10 +0200,true,,62b6aeed2d3836da63dbf095,73H
 3047578,a,2022-06-26 09:20:00 +0200,EZY1803,Manchester,Easyjet,1,"","",2022-06-25 09:21:11 +0200,2022-06-25 09:21:11 +0200,true,,62b6b7212d3836da63dbf871,320
