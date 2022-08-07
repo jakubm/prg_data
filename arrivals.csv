@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3065309,a,2022-08-07 03:50:00 +0200,QS2875,Enfidha,SmartWings,1,"",Expected 03:35,2022-08-06 03:51:08 +0200,2022-08-07 01:24:07 +0200,true,2022-08-07 03:35:00 +0200,62edc8ca2d387e9a24330a07,73H
+3065309,a,2022-08-07 03:50:00 +0200,QS2875,Enfidha,SmartWings,1,"",Arrived 03:25,2022-08-06 03:51:08 +0200,2022-08-07 03:28:07 +0200,true,2022-08-07 03:25:00 +0200,62edc8ca2d387e9a24330a07,73H
 3065348,a,2022-08-07 07:15:00 +0200,OK0461,Keflavik,Czech Airlines,2,"","",2022-08-06 07:16:09 +0200,2022-08-06 07:16:09 +0200,true,,62edf8d42d387e9a243337e1,73G
 3065356,a,2022-08-07 08:30:00 +0200,TK1767,Istanbul/IST,Turkish Airlines,1,"","",2022-08-06 08:31:08 +0200,2022-08-06 08:31:08 +0200,true,,62ee0a6a2d387e9a2433447b,32Q
 3065363,a,2022-08-07 08:40:00 +0200,LX1484,Zurich,Swiss International Air Lines,2,"","",2022-08-06 08:41:08 +0200,2022-08-06 08:41:08 +0200,true,,62ee0cc12d387e9a243345a6,221
