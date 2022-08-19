@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3070866,d,2022-08-20 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,C6,"",2022-08-19 04:06:09 +0200,2022-08-19 10:06:08 +0200,true,,62feefcd2d387e9a24460d98,73H
+3070866,d,2022-08-20 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,C6,Check-in,2022-08-19 04:06:09 +0200,2022-08-20 01:36:08 +0200,true,,62feefcd2d387e9a24460d98,73H
 3070869,d,2022-08-20 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,C3,"",2022-08-19 04:46:08 +0200,2022-08-19 10:07:09 +0200,true,,62fef92c2d387e9a2446162a,73H
 3070871,d,2022-08-20 04:45:00 +0200,QS1190,Antalya,SmartWings,1,B3,"",2022-08-19 04:46:08 +0200,2022-08-19 10:03:08 +0200,true,,62fef92c2d387e9a2446162b,7M8
 3070873,d,2022-08-20 04:50:00 +0200,QS1126,Kos,SmartWings,2,C10,"",2022-08-19 04:51:08 +0200,2022-08-19 10:07:09 +0200,true,,62fefa582d387e9a2446170c,73H
