@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3075987,d,2022-09-01 04:05:00 +0200,QS1108,Larnaca,SmartWings,1,A7,"",2022-08-31 04:06:08 +0200,2022-08-31 23:38:07 +0200,true,,630ec1cc2d38a21ceaea1657,7M8
-3075989,d,2022-09-01 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,D1,"",2022-08-31 04:06:08 +0200,2022-08-31 11:06:08 +0200,true,,630ec1cc2d38a21ceaea1658,73H
+3075989,d,2022-09-01 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,D1,Check-in,2022-08-31 04:06:08 +0200,2022-09-01 01:30:08 +0200,true,,630ec1cc2d38a21ceaea1658,73H
 3075991,d,2022-09-01 04:10:00 +0200,QS2510,Mersa Matruh,SmartWings,1,B8,"",2022-08-31 04:11:09 +0200,2022-08-31 22:08:07 +0200,true,,630ec2f82d38a21ceaea16ac,73H
 3075993,d,2022-09-01 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D2,"",2022-08-31 04:46:10 +0200,2022-08-31 11:07:11 +0200,true,,630ecb2d2d38a21ceaea2488,73H
 3075995,d,2022-09-01 04:45:00 +0200,QS1190,Antalya,SmartWings,1,B7,"",2022-08-31 04:46:10 +0200,2022-08-31 21:58:07 +0200,true,,630ecb2d2d38a21ceaea2489,73J
@@ -139,3 +139,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3076430,d,2022-09-02 00:05:00 +0200,QS2528,Marsa Alam,SmartWings,1,A7,"",2022-09-01 00:06:09 +0200,2022-09-01 00:06:09 +0200,true,,630fdb0d2d38a21ceaeb5d9c,7M8
 3076431,d,2022-09-02 00:05:00 +0200,QS2576,Hurghada,SmartWings,1,A4,"",2022-09-01 00:06:09 +0200,2022-09-01 00:06:09 +0200,true,,630fdb0d2d38a21ceaeb5d9d,7M8
 3076440,d,2022-09-02 01:10:00 +0200,QS1222,Marsa Alam,SmartWings,1,B8,"",2022-09-01 01:11:09 +0200,2022-09-01 01:11:09 +0200,true,,630fea4a2d38a21ceaeb6580,73H
+3076443,d,2022-09-02 01:30:00 +0200,QS2594,Marsa Alam,SmartWings,1,B7,"",2022-09-01 01:31:10 +0200,2022-09-01 01:31:10 +0200,true,,630feef92d38a21ceaeb66e1,73H
