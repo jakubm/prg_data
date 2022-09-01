@@ -145,3 +145,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3076894,a,2022-09-02 23:35:00 +0200,QS2811,Monastir,SmartWings,1,"","",2022-09-01 23:36:16 +0200,2022-09-01 23:36:16 +0200,true,,631125852d38a21ceaecbee6,73H
 3076898,a,2022-09-02 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2022-09-01 23:51:15 +0200,2022-09-01 23:51:15 +0200,true,,631129082d38a21ceaecc3f9,73G
 3076899,a,2022-09-02 23:55:00 +0200,QS2547,Marsa Alam,SmartWings,1,"","",2022-09-01 23:56:13 +0200,2022-09-01 23:56:13 +0200,true,,63112a342d38a21ceaecc3fd,73H
+3076903,a,2022-09-03 00:15:00 +0200,QS2955,Burgas,SmartWings,1,"","",2022-09-02 00:16:13 +0200,2022-09-02 00:16:13 +0200,true,,63112ee52d38a21ceaecc502,73H
