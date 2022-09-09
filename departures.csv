@@ -122,3 +122,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3080245,d,2022-09-10 23:45:00 +0200,QS1286,Tel Aviv/TLV,SmartWings,1,A2,"",2022-09-09 23:46:09 +0200,2022-09-09 23:46:09 +0200,true,,631bb3dd2d38a21ceaf7f5d3,73J
 3080251,d,2022-09-11 00:05:00 +0200,QS2586,Marsa Alam,SmartWings,1,B7,"",2022-09-10 00:06:08 +0200,2022-09-10 00:06:08 +0200,true,,631bb88c2d38a21ceaf7f93e,73H
 3080252,d,2022-09-11 00:20:00 +0200,QS2508,Hurghada,SmartWings,1,A7,"",2022-09-10 00:21:08 +0200,2022-09-10 00:21:08 +0200,true,,631bbc112d38a21ceaf7fbba,73H
+3080253,d,2022-09-11 00:45:00 +0200,QS2572,Marsa Alam,SmartWings,1,A4,"",2022-09-10 00:46:09 +0200,2022-09-10 00:46:09 +0200,true,,631bc1ed2d38a21ceaf7ff75,73H
