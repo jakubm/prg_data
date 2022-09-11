@@ -141,3 +141,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3081145,a,2022-09-12 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2022-09-11 23:51:11 +0200,2022-09-11 23:51:11 +0200,true,,631e58092d38a21ceafad19a,319
 3081146,a,2022-09-12 23:50:00 +0200,QS4315,Tirana,SmartWings,1,"","",2022-09-11 23:51:11 +0200,2022-09-11 23:51:11 +0200,true,,631e58092d38a21ceafad19b,73H
 3081149,a,2022-09-13 00:35:00 +0200,QS2239,Rhodes,SmartWings,2,"","",2022-09-12 00:36:12 +0200,2022-09-12 00:36:12 +0200,true,,631e62942d38a21ceafad9dc,73H
+3081150,a,2022-09-13 00:45:00 +0200,QS1153,Malaga,SmartWings,2,"","",2022-09-12 00:46:09 +0200,2022-09-12 00:46:09 +0200,true,,631e64ec2d38a21ceafada0c,73H
