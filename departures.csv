@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3081158,d,2022-09-13 04:45:00 +0200,QS1124,Samos,SmartWings,2,C14,"",2022-09-12 04:46:09 +0200,2022-09-12 09:25:10 +0200,true,,631e9d2c2d38a21ceafaefd7,7M8
+3081158,d,2022-09-13 04:45:00 +0200,QS1124,Samos,SmartWings,2,C14,Check-in,2022-09-12 04:46:09 +0200,2022-09-13 02:15:09 +0200,true,,631e9d2c2d38a21ceafaefd7,7M8
 3081160,d,2022-09-13 04:50:00 +0200,QS1126,Kos,SmartWings,2,C6,"",2022-09-12 04:51:09 +0200,2022-09-12 09:25:10 +0200,true,,631e9e582d38a21ceafaf10f,73H
 3081162,d,2022-09-13 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,C15,"",2022-09-12 04:56:10 +0200,2022-09-12 09:20:11 +0200,true,,631e9f852d38a21ceafaf143,73H
 3081164,d,2022-09-13 05:10:00 +0200,QS1114,Kerkyra/CORFU,SmartWings,2,C20,"",2022-09-12 05:11:08 +0200,2022-09-12 09:20:11 +0200,true,,631ea3092d38a21ceafaf23e,73H
