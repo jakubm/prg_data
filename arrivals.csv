@@ -105,3 +105,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3084397,a,2022-09-20 22:50:00 +0200,KL1359,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-09-19 22:51:15 +0200,2022-09-19 22:51:15 +0200,true,,6328d5f82d38a21ceb05e6ab,73H
 3084399,a,2022-09-20 23:05:00 +0200,QS2037,Tenerife/SUR,SmartWings,2,"","",2022-09-19 23:06:10 +0200,2022-09-19 23:06:10 +0200,true,,6328d97c2d38a21ceb05e6eb,73H
 3084404,a,2022-09-21 00:05:00 +0200,QS2867,Monastir,SmartWings,1,"","",2022-09-20 00:06:12 +0200,2022-09-20 00:06:12 +0200,true,,6328e78e2d38a21ceb05ef56,73H
+3084405,a,2022-09-21 00:35:00 +0200,FR2421,Turin,Ryanair,2,"","",2022-09-20 00:36:10 +0200,2022-09-20 00:36:10 +0200,true,,6328ee952d38a21ceb05f4fc,73H
