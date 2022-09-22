@@ -1,4 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+3085271,a,2022-09-22 04:35:00 +0200,QS1130A,Prague,SmartWings,2,"",Arrived 04:34,2022-09-22 04:31:08 +0200,2022-09-22 04:36:09 +0200,true,2022-09-22 04:34:00 +0200,632bc8b22d38a21ceb0888d9,73H
 3084820,a,2022-09-22 04:35:00 +0200,QS4108,Sal Island,SmartWings,1,"",Arrived 03:46,2022-09-21 04:36:12 +0200,2022-09-22 03:49:11 +0200,true,2022-09-22 03:46:00 +0200,632a78542d38a21ceb07408b,7M8
 3084867,a,2022-09-22 07:55:00 +0200,EW4239,Duesseldorf/DUS,Eurowings Ag,2,"","",2022-09-21 07:56:14 +0200,2022-09-21 07:56:14 +0200,true,,632aa7342d38a21ceb076836,319
 3084869,a,2022-09-22 08:20:00 +0200,D83580,Copenhagen/CPH,Norwegian Air Sweden,2,"","",2022-09-21 08:21:15 +0200,2022-09-21 08:21:15 +0200,true,,632aad112d38a21ceb077274,73H
