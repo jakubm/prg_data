@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3086094,a,2022-09-25 03:50:00 +0200,QS2875,Enfidha,SmartWings,1,"","",2022-09-24 03:51:13 +0200,2022-09-24 03:51:13 +0200,true,,632e624a2d38a21ceb0b7287,73G
+3086094,a,2022-09-25 03:50:00 +0200,QS2875,Enfidha,SmartWings,1,"",Expected 04:05,2022-09-24 03:51:13 +0200,2022-09-25 02:14:22 +0200,true,2022-09-25 04:05:00 +0200,632e624a2d38a21ceb0b7287,73G
 3086127,a,2022-09-25 08:05:00 +0200,W62694,Bari,Wizz Air,2,"","",2022-09-24 08:06:15 +0200,2022-09-24 08:06:15 +0200,true,,632e9e0d2d38a21ceb0ba4c2,32A
 3086128,a,2022-09-25 08:15:00 +0200,EJU2581,Milan/MALPENSA,Easyjet,2,"","",2022-09-24 08:16:12 +0200,2022-09-24 08:16:12 +0200,true,,632ea0652d38a21ceb0ba6d7,320
 3086129,a,2022-09-25 08:20:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-09-24 08:21:14 +0200,2022-09-24 08:21:14 +0200,true,,632ea1912d38a21ceb0ba77f,E75
@@ -136,3 +136,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3086504,a,2022-09-26 01:00:00 +0200,QS2941,Burgas,SmartWings,1,"","",2022-09-25 01:01:09 +0200,2022-09-25 01:01:09 +0200,true,,632f8bf02d38a21ceb0cba91,73H
 3086507,a,2022-09-26 01:10:00 +0200,QS1159,Almeria,SmartWings,2,"","",2022-09-25 01:12:19 +0200,2022-09-25 01:12:19 +0200,true,,632f8e492d38a21ceb0cbaf8,73H
 3086508,a,2022-09-26 01:50:00 +0200,QS2251,Heraklion,SmartWings,2,"","",2022-09-25 01:51:20 +0200,2022-09-25 01:51:20 +0200,true,,632f97a92d38a21ceb0cc103,73H
+3086510,a,2022-09-26 02:05:00 +0200,QS2629,Antalya,SmartWings,1,"","",2022-09-25 02:06:23 +0200,2022-09-25 02:06:23 +0200,true,,632f9b2e2d38a21ceb0cc113,73G
