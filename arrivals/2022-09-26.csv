@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3086511,a,2022-09-26 03:50:00 +0200,QS2535,Hurghada,SmartWings,1,"",Expected 04:15,2022-09-25 03:51:10 +0200,2022-09-26 00:11:09 +0200,true,2022-09-26 04:15:00 +0200,632fb3c82d38a21ceb0cc2be,73H
+3086511,a,2022-09-26 03:50:00 +0200,QS2535,Hurghada,SmartWings,1,"",Expected 04:05,2022-09-25 03:51:10 +0200,2022-09-26 03:38:10 +0200,true,2022-09-26 04:05:00 +0200,632fb3c82d38a21ceb0cc2be,73H
 3086516,a,2022-09-26 04:35:00 +0200,QS2539,Marsa Alam,SmartWings,1,"",Expected 05:35,2022-09-25 04:36:08 +0200,2022-09-26 01:16:12 +0200,true,2022-09-26 05:35:00 +0200,632fbe542d38a21ceb0cce48,73H
 3086552,a,2022-09-26 07:40:00 +0200,W65439,Venice/VCE,Wizz Air,2,"","",2022-09-25 07:41:12 +0200,2022-09-25 07:41:12 +0200,true,,632fe9b02d38a21ceb0ce9ff,321
 3086553,a,2022-09-26 08:05:00 +0200,W68303,Rome/FIUMICINO,Wizz Air,2,"","",2022-09-25 08:06:16 +0200,2022-09-25 08:06:16 +0200,true,,632fef8d2d38a21ceb0ced8a,321
