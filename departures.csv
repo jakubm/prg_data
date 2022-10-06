@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3090605,d,2022-10-07 04:10:00 +0200,QS4106,Boa Vista,SmartWings,1,B5,"",2022-10-06 04:11:07 +0200,2022-10-06 23:37:06 +0200,true,,633e38f82d3815b043de02af,7M8
+3090605,d,2022-10-07 04:10:00 +0200,QS4106,Boa Vista,SmartWings,1,B5,Check-in,2022-10-06 04:11:07 +0200,2022-10-07 01:41:06 +0200,true,,633e38f82d3815b043de02af,7M8
 3090606,d,2022-10-07 04:45:00 +0200,QS1190,Antalya,SmartWings,1,B8,"",2022-10-06 04:46:09 +0200,2022-10-06 16:22:07 +0200,true,,633e412c2d3815b043de0622,73J
 3090608,d,2022-10-07 06:00:00 +0200,EW4206,Palma De Mallorca,Eurowings Ag,2,D5,"",2022-10-06 06:01:08 +0200,2022-10-06 10:03:09 +0200,true,,633e52c02d3815b043de1607,32A
 3090610,d,2022-10-07 06:00:00 +0200,FR8220,Copenhagen/CPH,Ryanair,2,C19,"",2022-10-06 06:01:08 +0200,2022-10-06 10:22:08 +0200,true,,633e52c02d3815b043de1608,73H
