@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3095374,d,2022-10-21 04:10:00 +0200,QS4106,Boa Vista,SmartWings,1,B8,"",2022-10-20 04:11:07 +0200,2022-10-20 19:46:07 +0200,true,,6350adf82d3815b043ee835a,7M8
+3095374,d,2022-10-21 04:10:00 +0200,QS4106,Boa Vista,SmartWings,1,B8,Check-in,2022-10-20 04:11:07 +0200,2022-10-21 01:41:07 +0200,true,,6350adf82d3815b043ee835a,7M8
 3095375,d,2022-10-21 06:00:00 +0200,FR8220,Copenhagen/CPH,Ryanair,2,C18,"",2022-10-20 06:01:12 +0200,2022-10-20 10:08:09 +0200,true,,6350c7c12d3815b043eeaa85,73H
 3095376,d,2022-10-21 06:00:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C9,"",2022-10-20 06:01:12 +0200,2022-10-20 06:01:12 +0200,true,,6350c7c12d3815b043eeaa86,321
 3095385,d,2022-10-21 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2022-10-20 06:06:08 +0200,2022-10-20 06:06:08 +0200,true,,6350c8ec2d3815b043eeab63,73H
