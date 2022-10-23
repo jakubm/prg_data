@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3096055,d,2022-10-23 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,D6,"",2022-10-22 04:56:07 +0200,2022-10-22 10:14:07 +0200,true,,63535b842d3815b043f0e8cd,73G
+3096055,d,2022-10-23 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,D6,Check-in,2022-10-22 04:56:07 +0200,2022-10-23 02:26:07 +0200,true,,63535b842d3815b043f0e8cd,73G
 3096057,d,2022-10-23 06:00:00 +0200,EW4222,Heraklion,Eurowings Ag,2,D3,"",2022-10-22 06:01:09 +0200,2022-10-22 09:54:07 +0200,true,,63536ac02d3815b043f0fca2,319
 3096059,d,2022-10-23 06:00:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C9,"",2022-10-22 06:01:09 +0200,2022-10-22 06:01:09 +0200,true,,63536ac02d3815b043f0fca3,321
 3096068,d,2022-10-23 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2022-10-22 06:06:10 +0200,2022-10-22 06:06:10 +0200,true,,63536bec2d3815b043f0fdeb,73H
