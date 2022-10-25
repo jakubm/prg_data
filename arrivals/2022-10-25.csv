@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3096780,a,2022-10-25 08:20:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-10-24 08:21:10 +0200,2022-10-24 08:21:10 +0200,true,,63562e902d3815b043f362b9,E90
+3096780,a,2022-10-25 08:20:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 08:10,2022-10-24 08:21:10 +0200,2022-10-25 07:07:08 +0200,true,2022-10-25 08:10:00 +0200,63562e902d3815b043f362b9,E90
 3096783,a,2022-10-25 08:30:00 +0200,TK1767,Istanbul/IST,Turkish Airlines,1,"",Expected 08:30,2022-10-24 08:31:14 +0200,2022-10-25 06:28:08 +0200,true,2022-10-25 08:30:00 +0200,635630e82d3815b043f368ad,32Q
 3096784,a,2022-10-25 08:35:00 +0200,EW9772,Duesseldorf/DUS,Eurowings Ag,2,"","",2022-10-24 08:36:45 +0200,2022-10-24 08:36:45 +0200,true,,635632142d3815b043f36a49,32A
 3096791,a,2022-10-25 08:40:00 +0200,LX1484,Zurich,Swiss International Air Lines,2,"","",2022-10-24 08:41:11 +0200,2022-10-24 08:41:11 +0200,true,,635633402d3815b043f36cb1,221
