@@ -100,3 +100,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3097400,a,2022-10-26 22:55:00 +0200,QS2041,Las Palmas,SmartWings,2,"","",2022-10-25 22:56:10 +0200,2022-10-25 22:56:10 +0200,true,,63584d242d38f5f8fc8cccbd,73H
 3097401,a,2022-10-26 23:00:00 +0200,BA0858,London/HEATHROW,British Airways,1,"","",2022-10-25 23:01:09 +0200,2022-10-25 23:01:09 +0200,true,,63584e502d38f5f8fc8ccd32,320
 3097402,a,2022-10-26 23:15:00 +0200,LH1402,Frankfurt/FRA,Lufthansa,2,"","",2022-10-25 23:16:09 +0200,2022-10-25 23:16:09 +0200,true,,635851d42d38f5f8fc8cce8f,32N
+3097413,a,2022-10-27 00:20:00 +0200,QS1201,Dubai/DXB,SmartWings,1,"","",2022-10-26 00:21:10 +0200,2022-10-26 00:21:10 +0200,true,,635861102d38f5f8fc8cd292,7M8
