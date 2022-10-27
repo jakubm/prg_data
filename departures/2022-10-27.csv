@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3097422,d,2022-10-27 04:05:00 +0200,QS1108,Larnaca,SmartWings,1,A6,Check-in,2022-10-26 04:06:08 +0200,2022-10-27 01:35:08 +0200,true,,635895cc2d38f5f8fc8cdca3,7M8
+3097422,d,2022-10-27 04:05:00 +0200,QS1108,Larnaca,SmartWings,1,A6,Gate open,2022-10-26 04:06:08 +0200,2022-10-27 02:38:07 +0200,true,,635895cc2d38f5f8fc8cdca3,7M8
 3097424,d,2022-10-27 06:00:00 +0200,EW4224,Malaga,Eurowings Ag,2,D4,"",2022-10-26 06:01:07 +0200,2022-10-26 08:46:08 +0200,true,,6358b0c02d38f5f8fc8cf447,319
 3097426,d,2022-10-27 06:00:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C9,"",2022-10-26 06:01:07 +0200,2022-10-26 08:46:08 +0200,true,,6358b0c02d38f5f8fc8cf448,32N
 3097435,d,2022-10-27 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2022-10-26 06:06:09 +0200,2022-10-26 08:46:08 +0200,true,,6358b1ec2d38f5f8fc8cf57e,73H

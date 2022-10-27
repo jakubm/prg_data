@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3097421,a,2022-10-27 03:35:00 +0200,QS4108,Sal Island,SmartWings,1,"",Expected 03:05,2022-10-26 03:36:08 +0200,2022-10-26 21:13:08 +0200,true,2022-10-27 03:05:00 +0200,63588ec52d38f5f8fc8cdbca,7M8
+3097421,a,2022-10-27 03:35:00 +0200,QS4108,Sal Island,SmartWings,1,"",Expected 03:00,2022-10-26 03:36:08 +0200,2022-10-27 02:33:09 +0200,true,2022-10-27 03:00:00 +0200,63588ec52d38f5f8fc8cdbca,7M8
 3097454,a,2022-10-27 07:55:00 +0200,EW4239,Duesseldorf/DUS,Eurowings Ag,2,"","",2022-10-26 07:56:10 +0200,2022-10-26 07:56:10 +0200,true,,6358cbb42d38f5f8fc8d088e,32A
 3097456,a,2022-10-27 08:20:00 +0200,D83580,Copenhagen/CPH,Norwegian Air Sweden,2,"","",2022-10-26 08:21:10 +0200,2022-10-26 08:21:10 +0200,true,,6358d1902d38f5f8fc8d0e9f,73H
 3097457,a,2022-10-27 08:20:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-10-26 08:21:10 +0200,2022-10-26 08:21:10 +0200,true,,6358d1902d38f5f8fc8d0ea0,E75
