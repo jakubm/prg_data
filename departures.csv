@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3098155,d,2022-10-29 04:45:00 +0200,QS1190,Antalya,SmartWings,1,A6,"",2022-10-28 04:46:08 +0200,2022-10-28 10:29:08 +0200,true,,635b422c2d38f5f8fc8f3e10,73J
+3098155,d,2022-10-29 04:45:00 +0200,QS1190,Antalya,SmartWings,1,A6,Check-in,2022-10-28 04:46:08 +0200,2022-10-29 02:16:06 +0200,true,,635b422c2d38f5f8fc8f3e10,73J
 3098157,d,2022-10-29 06:00:00 +0200,EW4218,Larnaca,Eurowings Ag,1,B5,"",2022-10-28 06:01:09 +0200,2022-10-28 10:11:08 +0200,true,,635b53c02d38f5f8fc8f51c2,319
 3098159,d,2022-10-29 06:00:00 +0200,FR8300,Palma De Mallorca,Ryanair,2,C19,"",2022-10-28 06:01:09 +0200,2022-10-28 10:29:08 +0200,true,,635b53c02d38f5f8fc8f51c3,73H
 3098160,d,2022-10-29 06:00:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C9,"",2022-10-28 06:01:09 +0200,2022-10-28 06:01:09 +0200,true,,635b53c02d38f5f8fc8f51c4,321
