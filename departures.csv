@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3100419,d,2022-11-05 04:45:00 +0100,QS1190,Antalya,SmartWings,1,B7,"",2022-11-04 04:46:08 +0100,2022-11-04 07:57:08 +0100,true,,63648abc2d38f5f8fc97299d,73J
+3100419,d,2022-11-05 04:45:00 +0100,QS1190,Antalya,SmartWings,1,B7,Check-in,2022-11-04 04:46:08 +0100,2022-11-05 02:16:06 +0100,true,,63648abc2d38f5f8fc97299d,73J
 3100420,d,2022-11-05 06:00:00 +0100,EW4224,Malaga,Eurowings Ag,2,D5,"",2022-11-04 06:01:09 +0100,2022-11-04 08:24:08 +0100,true,,63649c502d38f5f8fc973541,319
 3100422,d,2022-11-05 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2022-11-04 06:01:09 +0100,2022-11-04 06:01:09 +0100,true,,63649c502d38f5f8fc973542,73H
 3100426,d,2022-11-05 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2022-11-04 06:31:08 +0100,2022-11-04 06:31:08 +0100,true,,6364a3582d38f5f8fc973bd3,319
