@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3101052,d,2022-11-07 06:00:00 +0100,FR7950,Copenhagen/CPH,Ryanair,2,C18,"",2022-11-06 06:01:08 +0100,2022-11-06 09:47:09 +0100,true,,63673f512d38f5f8fc997e03,73H
+3101052,d,2022-11-07 06:00:00 +0100,FR7950,Copenhagen/CPH,Ryanair,2,C18,Check-in,2022-11-06 06:01:08 +0100,2022-11-07 03:01:06 +0100,true,,63673f512d38f5f8fc997e03,73H
 3101053,d,2022-11-07 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2022-11-06 06:01:08 +0100,2022-11-06 09:47:09 +0100,true,,63673f512d38f5f8fc997e04,73H
 3101057,d,2022-11-07 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2022-11-06 06:31:08 +0100,2022-11-06 09:52:08 +0100,true,,6367465a2d38f5f8fc997f79,319
 3101061,d,2022-11-07 06:35:00 +0100,FR6912,Manchester,Ryanair,1,B10,"",2022-11-06 06:36:07 +0100,2022-11-06 08:56:08 +0100,true,,636747842d38f5f8fc997fd1,73H
