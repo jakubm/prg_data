@@ -71,3 +71,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3102847,a,2022-11-12 22:55:00 +0100,QS2521,Marsa Alam,SmartWings,1,"","",2022-11-11 22:56:08 +0100,2022-11-11 22:56:08 +0100,true,,636ec4b42d38f5f8fc9fd38d,7M8
 3102848,a,2022-11-12 23:20:00 +0100,QS1201,Dubai/DXB,SmartWings,1,"","",2022-11-11 23:21:07 +0100,2022-11-11 23:21:07 +0100,true,,636eca902d38f5f8fc9fd4b4,7M8
 3102852,a,2022-11-13 00:10:00 +0100,QS2563,Hurghada,SmartWings,1,"","",2022-11-12 00:11:08 +0100,2022-11-12 00:11:08 +0100,true,,636ed6482d38f5f8fc9fd795,73H
+3102854,a,2022-11-13 00:45:00 +0100,QS1153,Malaga,SmartWings,2,"","",2022-11-12 00:46:08 +0100,2022-11-12 00:46:08 +0100,true,,636ede7c2d38f5f8fc9fde3a,73G
