@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3104750,d,2022-11-19 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,D5,Check-in,2022-11-18 06:01:08 +0100,2022-11-19 03:46:06 +0100,true,,637711502d38f5f8fca690c4,73H
-3104754,d,2022-11-19 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,D3,"",2022-11-18 06:31:08 +0100,2022-11-18 22:33:06 +0100,true,,637718592d38f5f8fca694bc,320
+3104754,d,2022-11-19 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,D3,Check-in,2022-11-18 06:31:08 +0100,2022-11-19 04:30:07 +0100,true,,637718592d38f5f8fca694bc,320
 3104757,d,2022-11-19 06:35:00 +0100,FR6912,Manchester,Ryanair,1,B10,Check-in,2022-11-18 06:36:08 +0100,2022-11-19 03:36:06 +0100,true,,637719842d38f5f8fca6952f,73H
 3104758,d,2022-11-19 06:45:00 +0100,FR3558,Milan/BERGAMO,Ryanair,2,C19,Check-in,2022-11-18 06:46:09 +0100,2022-11-19 03:46:06 +0100,true,,63771bdf2d38f5f8fca69714,73H
 3104759,d,2022-11-19 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,D4,"",2022-11-18 06:51:07 +0100,2022-11-18 09:21:08 +0100,true,,63771d0a2d38f5f8fca6993e,319
