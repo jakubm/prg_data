@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3110247,a,2022-12-07 03:45:00 +0100,QS4104,Sal Island,SmartWings,1,"",Expected 03:30,2022-12-06 03:46:10 +0100,2022-12-06 21:22:07 +0100,true,2022-12-07 03:30:00 +0100,638eacac2d38b5b10a2a94ad,7M8
+3110247,a,2022-12-07 03:45:00 +0100,QS4104,Sal Island,SmartWings,1,"",Expected 03:20,2022-12-06 03:46:10 +0100,2022-12-07 02:53:06 +0100,true,2022-12-07 03:20:00 +0100,638eacac2d38b5b10a2a94ad,7M8
 3110248,a,2022-12-07 05:00:00 +0100,NO0239,Zanzibar,Neos,1,"",Expected 05:35,2022-12-06 05:01:07 +0100,2022-12-06 22:35:08 +0100,true,2022-12-07 05:35:00 +0100,638ebe4a2d38b5b10a2a9608,789
 3110283,a,2022-12-07 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-12-06 08:21:08 +0100,2022-12-06 08:21:08 +0100,true,,638eed202d38b5b10a2abe40,E75
 3110285,a,2022-12-07 08:40:00 +0100,LX1484,Zurich,Swiss International Air Lines,2,"","",2022-12-06 08:41:08 +0100,2022-12-06 08:41:08 +0100,true,,638ef1d02d38b5b10a2ac219,E90
