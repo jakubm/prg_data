@@ -75,8 +75,8 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3110497,d,2022-12-07 21:20:00 +0100,RK6912,Manchester,Ryanair Uk,1,B15,Gate closed,2022-12-06 21:21:07 +0100,2022-12-07 21:05:07 +0100,true,,638fa3f0bebccbcbdfb3b9fc,73H
 3110501,d,2022-12-07 21:25:00 +0100,EZY8998,London/GATWICK,Easyjet,1,B7,Gate closed,2022-12-06 21:26:09 +0100,2022-12-07 21:23:06 +0100,true,,638fa51cbebccbcbdfb3baba,32A
 3110503,d,2022-12-07 21:35:00 +0100,EZY1802,Manchester,Easyjet,1,B8,Last call,2022-12-06 21:36:08 +0100,2022-12-07 21:28:08 +0100,true,,638fa774bebccbcbdfb3bc11,32A
-3110504,d,2022-12-07 21:35:00 +0100,OV0804,Muscat,Salamair,1,A7,Gate closed,2022-12-06 21:36:08 +0100,2022-12-07 21:15:09 +0100,true,,638fa774bebccbcbdfb3bc12,32Q
-3110512,d,2022-12-07 21:55:00 +0100,W92601,London/LUTON,Wizz Air Uk,1,B10,Last call,2022-12-06 21:56:07 +0100,2022-12-07 21:16:06 +0100,true,,638fac24bebccbcbdfb3befc,32Q
+3110504,d,2022-12-07 21:35:00 +0100,OV0804,Muscat,Salamair,1,A7,Departed 21:29,2022-12-06 21:36:08 +0100,2022-12-07 21:38:07 +0100,true,2022-12-07 21:29:00 +0100,638fa774bebccbcbdfb3bc12,32Q
+3110512,d,2022-12-07 21:55:00 +0100,W92601,London/LUTON,Wizz Air Uk,1,B10,Gate closed,2022-12-06 21:56:07 +0100,2022-12-07 21:36:07 +0100,true,,638fac24bebccbcbdfb3befc,32Q
 3110513,d,2022-12-07 22:05:00 +0100,LY2524,Tel Aviv/TLV,El Al Israel Airlines,1,A2,Last call,2022-12-06 22:06:07 +0100,2022-12-07 21:30:07 +0100,true,,638fae7cbebccbcbdfb3bf58,73H
 3110524,d,2022-12-07 23:45:00 +0100,QS1286,Tel Aviv/TLV,SmartWings,1,B7,Check-in,2022-12-06 23:46:09 +0100,2022-12-07 21:15:09 +0100,true,,638fc5ecbebccbcbdfb3c2c8,73J
 3110529,d,2022-12-08 00:50:00 +0100,QS1240,Hurghada,SmartWings,1,A7,"",2022-12-07 00:51:08 +0100,2022-12-07 09:04:08 +0100,true,,638fd528bebccbcbdfb3c933,73G
