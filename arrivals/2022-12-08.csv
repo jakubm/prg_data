@@ -97,3 +97,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3110853,a,2022-12-08 23:20:00 +0100,QS1201,Dubai/DXB,SmartWings,1,"","",2022-12-07 23:21:08 +0100,2022-12-07 23:21:08 +0100,true,,63911190bebccbcbdfb4ba71,7M8
 3110857,a,2022-12-08 23:50:00 +0100,QS1165,Palma De Mallorca,SmartWings,2,"","",2022-12-07 23:51:09 +0100,2022-12-07 23:51:09 +0100,true,,63911898bebccbcbdfb4bb80,73G
 3110858,a,2022-12-09 00:45:00 +0100,QS1153,Malaga,SmartWings,2,"","",2022-12-08 00:46:09 +0100,2022-12-08 00:46:09 +0100,true,,6391257dbebccbcbdfb4bea1,73G
+3110859,a,2022-12-09 03:00:00 +0100,QS4147,Sal Island,SmartWings,1,"","",2022-12-08 03:01:09 +0100,2022-12-08 03:01:09 +0100,true,,63914521bebccbcbdfb4c0e4,7M8
