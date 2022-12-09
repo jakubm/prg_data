@@ -72,3 +72,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3111480,d,2022-12-10 22:10:00 +0100,FZ1782,Dubai/DXB,Flydubai,1,A6,"",2022-12-09 22:10:07 +0100,2022-12-09 22:10:07 +0100,true,,6393a428bebccbcbdfb709f3,7M8
 3111491,d,2022-12-10 23:45:00 +0100,QS1286,Tel Aviv/TLV,SmartWings,1,B7,"",2022-12-09 23:45:10 +0100,2022-12-09 23:45:10 +0100,true,,6393ba6cbebccbcbdfb70eb3,73J
 3111495,d,2022-12-11 00:30:00 +0100,QS2506,Marsa Alam,SmartWings,1,A6,"",2022-12-10 00:30:07 +0100,2022-12-10 00:30:07 +0100,true,,6393c4f8bebccbcbdfb71166,73H
+3111497,d,2022-12-11 00:50:00 +0100,QS1240,Hurghada,SmartWings,1,A7,"",2022-12-10 00:50:07 +0100,2022-12-10 00:50:07 +0100,true,,6393c9a7bebccbcbdfb714a9,73J
