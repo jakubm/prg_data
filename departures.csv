@@ -92,7 +92,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3111157,d,2022-12-09 18:10:00 +0100,EW4210,Copenhagen/CPH,Eurowings Ag,2,C7,Departed 18:11,2022-12-08 18:11:09 +0100,2022-12-09 18:24:06 +0100,true,2022-12-09 18:11:00 +0100,63921a68bebccbcbdfb5a90b,320
 3111159,d,2022-12-09 18:25:00 +0100,KL1358,Amsterdam,Klm Royal Dutch Airlines,2,C3,Departed 18:24,2022-12-08 18:26:08 +0100,2022-12-09 18:38:06 +0100,true,2022-12-09 18:24:00 +0100,63921decbebccbcbdfb5af6d,73H
 3111162,d,2022-12-09 18:40:00 +0100,LH1401,Frankfurt/FRA,Lufthansa,2,C9,Boarding,2022-12-08 18:41:07 +0100,2022-12-09 18:44:07 +0100,true,,63922170bebccbcbdfb5b23e,32N
-3111168,d,2022-12-09 18:55:00 +0100,BA0857,London/HEATHROW,British Airways,1,A9,Last call,2022-12-08 18:56:09 +0100,2022-12-09 18:48:06 +0100,true,,639224f4bebccbcbdfb5b436,32Q
+3111168,d,2022-12-09 18:55:00 +0100,BA0857,London/HEATHROW,British Airways,1,A9,Gate closed,2022-12-08 18:56:09 +0100,2022-12-09 18:58:06 +0100,true,,639224f4bebccbcbdfb5b436,32Q
 3111169,d,2022-12-09 18:55:00 +0100,LS0510,Newcastle,Jet2.com,1,B7,Gate closed,2022-12-08 18:56:09 +0100,2022-12-09 18:42:07 +0100,true,,639224f4bebccbcbdfb5b437,73H
 3111172,d,2022-12-09 19:15:00 +0100,LS0352,Belfast,Jet2.com,1,B8,Gate open,2022-12-08 19:16:09 +0100,2022-12-09 18:05:10 +0100,true,,639229a4bebccbcbdfb5b71f,73H
 3111174,d,2022-12-09 19:25:00 +0100,TK1770,Istanbul/IST,Turkish Airlines,1,A7,Last call,2022-12-08 19:26:08 +0100,2022-12-09 18:49:09 +0100,true,,63922bfcbebccbcbdfb5b8f2,332
