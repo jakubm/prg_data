@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3110859,a,2022-12-09 03:00:00 +0100,QS4147,Sal Island,SmartWings,1,"",Expected 03:15,2022-12-08 03:01:09 +0100,2022-12-09 02:47:07 +0100,true,2022-12-09 03:15:00 +0100,63914521bebccbcbdfb4c0e4,7M8
+3110859,a,2022-12-09 03:00:00 +0100,QS4147,Sal Island,SmartWings,1,"",Arrived 03:14,2022-12-08 03:01:09 +0100,2022-12-09 03:16:07 +0100,true,2022-12-09 03:14:00 +0100,63914521bebccbcbdfb4c0e4,7M8
 3110881,a,2022-12-09 07:35:00 +0100,W65619,Milan/MALPENSA,Wizz Air,2,"","",2022-12-08 07:36:10 +0100,2022-12-08 07:36:10 +0100,true,,63918594bebccbcbdfb4e74a,32Q
 3110883,a,2022-12-09 07:45:00 +0100,FR4144,Budapest,Ryanair,2,"","",2022-12-08 07:46:09 +0100,2022-12-08 07:46:09 +0100,true,,639187edbebccbcbdfb4e78c,73H
 3110894,a,2022-12-09 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-12-08 08:21:08 +0100,2022-12-08 08:21:08 +0100,true,,63919020bebccbcbdfb4eb8e,E75
