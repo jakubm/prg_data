@@ -5,7 +5,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3111250,d,2022-12-10 06:45:00 +0100,FR3558,Milan/BERGAMO,Ryanair,2,C19,Gate closed,2022-12-09 06:46:07 +0100,2022-12-10 06:26:07 +0100,true,,6392cb5cbebccbcbdfb5ef16,73H
 3111251,d,2022-12-10 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,D4,Boarding,2022-12-09 06:51:11 +0100,2022-12-10 06:22:06 +0100,true,,6392cc87bebccbcbdfb5f0d6,319
 3111254,d,2022-12-10 07:00:00 +0100,BA0853,London/HEATHROW,British Airways,1,A9,Gate open,2022-12-09 07:01:08 +0100,2022-12-10 05:48:08 +0100,true,,6392cee0bebccbcbdfb5f505,320
-3111255,d,2022-12-10 07:05:00 +0100,LH1689,Munich,Lufthansa,2,C10,Gate open,2022-12-09 07:06:07 +0100,2022-12-10 06:10:06 +0100,true,,6392d00cbebccbcbdfb5f6d1,319
+3111255,d,2022-12-10 07:05:00 +0100,LH1689,Munich,Lufthansa,2,C10,Boarding,2022-12-09 07:06:07 +0100,2022-12-10 06:42:06 +0100,true,,6392d00cbebccbcbdfb5f6d1,319
 3111261,d,2022-12-10 07:10:00 +0100,FR4389,Paris/BEAUVAIS,Ryanair,2,C18,Last call,2022-12-09 07:11:08 +0100,2022-12-10 06:34:06 +0100,true,,6392d137bebccbcbdfb5f807,73H
 3111262,d,2022-12-10 07:15:00 +0100,LO0530,Warsaw/WAW,Lot Polish Airlines,2,C11,Gate open,2022-12-09 07:16:07 +0100,2022-12-10 05:47:06 +0100,true,,6392d264bebccbcbdfb5f84f,E75
 3111263,d,2022-12-10 07:25:00 +0100,OS0712,Vienna,Austrian Airlines,2,C12,Gate open,2022-12-09 07:26:07 +0100,2022-12-10 06:37:07 +0100,true,,6392d4bcbebccbcbdfb5fc03,E95
@@ -13,7 +13,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3111280,d,2022-12-10 08:25:00 +0100,TO4391,Paris/ORLY,Transavia France,2,D5,Check-in,2022-12-09 08:26:08 +0100,2022-12-10 06:26:07 +0100,true,,6392e2ccbebccbcbdfb60483,73H
 3111284,d,2022-12-10 08:50:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C2,"",2022-12-09 08:51:08 +0100,2022-12-09 09:05:08 +0100,true,,6392e8a8bebccbcbdfb60ca0,E90
 3111290,d,2022-12-10 09:20:00 +0100,QS1200,Dubai/DXB,SmartWings,1,B7,"",2022-12-09 09:21:08 +0100,2022-12-09 09:21:08 +0100,true,,6392efb0bebccbcbdfb61402,7M8
-3111292,d,2022-12-10 09:40:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,"",2022-12-09 09:41:08 +0100,2022-12-09 09:41:08 +0100,true,,6392f460bebccbcbdfb61867,73H
+3111292,d,2022-12-10 09:40:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,Check-in,2022-12-09 09:41:08 +0100,2022-12-10 06:41:07 +0100,true,,6392f460bebccbcbdfb61867,73H
 3111293,d,2022-12-10 09:45:00 +0100,TK1768,Istanbul/IST,Turkish Airlines,1,A6,"",2022-12-09 09:46:07 +0100,2022-12-09 09:46:07 +0100,true,,6392f58cbebccbcbdfb619d7,321
 3111295,d,2022-12-10 09:50:00 +0100,LO0524,Warsaw/WAW,Lot Polish Airlines,2,C7,"",2022-12-09 09:51:08 +0100,2022-12-09 09:51:08 +0100,true,,6392f6b8bebccbcbdfb61c33,E90
 3111307,d,2022-12-10 10:05:00 +0100,LX1485,Zurich,Swiss International Air Lines,2,C11,"",2022-12-09 10:06:10 +0100,2022-12-09 10:06:10 +0100,true,,6392fa3cbebccbcbdfb624fe,223

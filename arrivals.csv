@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3111269,a,2022-12-10 07:45:00 +0100,TO4390,Paris/ORLY,Transavia France,2,"","",2022-12-09 07:46:11 +0100,2022-12-09 07:46:11 +0100,true,,6392d96cbebccbcbdfb6017b,73H
+3111269,a,2022-12-10 07:45:00 +0100,TO4390,Paris/ORLY,Transavia France,2,"",Expected 07:50,2022-12-09 07:46:11 +0100,2022-12-10 06:44:07 +0100,true,2022-12-10 07:50:00 +0100,6392d96cbebccbcbdfb6017b,73H
 3111278,a,2022-12-10 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-12-09 08:21:09 +0100,2022-12-09 08:21:09 +0100,true,,6392e1a0bebccbcbdfb6040c,E90
 3111281,a,2022-12-10 08:40:00 +0100,LX1484,Zurich,Swiss International Air Lines,2,"","",2022-12-09 08:41:09 +0100,2022-12-09 08:41:09 +0100,true,,6392e651bebccbcbdfb607d9,223
 3111282,a,2022-12-10 08:40:00 +0100,QS1287,Tel Aviv/TLV,SmartWings,1,"",Expected 08:15,2022-12-09 08:41:09 +0100,2022-12-10 05:04:06 +0100,true,2022-12-10 08:15:00 +0100,6392e651bebccbcbdfb607da,73J
