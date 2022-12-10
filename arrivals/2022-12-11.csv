@@ -112,3 +112,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3111860,a,2022-12-11 23:20:00 +0100,QS1201,Dubai/DXB,SmartWings,1,"","",2022-12-10 23:21:09 +0100,2022-12-10 23:21:09 +0100,true,,63950610bebccbcbdfb7f503,7M8
 3111864,a,2022-12-11 23:50:00 +0100,FR7774,Kosice,Ryanair,2,"","",2022-12-10 23:51:09 +0100,2022-12-10 23:51:09 +0100,true,,63950d18bebccbcbdfb7f612,73H
 3111865,a,2022-12-11 23:50:00 +0100,QS1165,Palma De Mallorca,SmartWings,2,"","",2022-12-10 23:51:09 +0100,2022-12-10 23:51:09 +0100,true,,63950d18bebccbcbdfb7f613,73G
+3111866,a,2022-12-12 00:00:00 +0100,FR2013,London/STANSTED,Ryanair,1,"","",2022-12-11 00:01:09 +0100,2022-12-11 00:01:09 +0100,true,,63950f70bebccbcbdfb7f758,73H
