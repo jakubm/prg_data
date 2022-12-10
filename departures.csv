@@ -1,10 +1,10 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3111242,d,2022-12-10 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Check-in,2022-12-09 06:01:08 +0100,2022-12-10 03:46:08 +0100,true,,6392c0d0bebccbcbdfb5e34c,73H
+3111242,d,2022-12-10 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate open,2022-12-09 06:01:08 +0100,2022-12-10 05:03:06 +0100,true,,6392c0d0bebccbcbdfb5e34c,73H
 3111246,d,2022-12-10 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Check-in,2022-12-09 06:31:07 +0100,2022-12-10 04:28:06 +0100,true,,6392c7d8bebccbcbdfb5e90a,321
 3111249,d,2022-12-10 06:35:00 +0100,FR6912,Manchester,Ryanair,1,B10,Check-in,2022-12-09 06:36:11 +0100,2022-12-10 03:36:06 +0100,true,,6392c904bebccbcbdfb5eb74,73H
 3111250,d,2022-12-10 06:45:00 +0100,FR3558,Milan/BERGAMO,Ryanair,2,C19,Check-in,2022-12-09 06:46:07 +0100,2022-12-10 03:46:08 +0100,true,,6392cb5cbebccbcbdfb5ef16,73H
 3111251,d,2022-12-10 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,D4,Check-in,2022-12-09 06:51:11 +0100,2022-12-10 04:45:06 +0100,true,,6392cc87bebccbcbdfb5f0d6,319
-3111254,d,2022-12-10 07:00:00 +0100,BA0853,London/HEATHROW,British Airways,1,A9,"",2022-12-09 07:01:08 +0100,2022-12-09 07:01:08 +0100,true,,6392cee0bebccbcbdfb5f505,320
+3111254,d,2022-12-10 07:00:00 +0100,BA0853,London/HEATHROW,British Airways,1,A9,Check-in,2022-12-09 07:01:08 +0100,2022-12-10 05:00:08 +0100,true,,6392cee0bebccbcbdfb5f505,320
 3111255,d,2022-12-10 07:05:00 +0100,LH1689,Munich,Lufthansa,2,C10,"",2022-12-09 07:06:07 +0100,2022-12-09 07:06:07 +0100,true,,6392d00cbebccbcbdfb5f6d1,319
 3111261,d,2022-12-10 07:10:00 +0100,FR4389,Paris/BEAUVAIS,Ryanair,2,C18,Check-in,2022-12-09 07:11:08 +0100,2022-12-10 04:11:05 +0100,true,,6392d137bebccbcbdfb5f807,73H
 3111262,d,2022-12-10 07:15:00 +0100,LO0530,Warsaw/WAW,Lot Polish Airlines,2,C11,"",2022-12-09 07:16:07 +0100,2022-12-09 07:16:07 +0100,true,,6392d264bebccbcbdfb5f84f,E75
