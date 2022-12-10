@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3111269,a,2022-12-10 07:45:00 +0100,TO4390,Paris/ORLY,Transavia France,2,"",Expected 07:50,2022-12-09 07:46:11 +0100,2022-12-10 06:44:07 +0100,true,2022-12-10 07:50:00 +0100,6392d96cbebccbcbdfb6017b,73H
+3111269,a,2022-12-10 07:45:00 +0100,TO4390,Paris/ORLY,Transavia France,2,"",Expected 07:55,2022-12-09 07:46:11 +0100,2022-12-10 07:23:07 +0100,true,2022-12-10 07:55:00 +0100,6392d96cbebccbcbdfb6017b,73H
 3111278,a,2022-12-10 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-12-09 08:21:09 +0100,2022-12-09 08:21:09 +0100,true,,6392e1a0bebccbcbdfb6040c,E90
 3111281,a,2022-12-10 08:40:00 +0100,LX1484,Zurich,Swiss International Air Lines,2,"","",2022-12-09 08:41:09 +0100,2022-12-09 08:41:09 +0100,true,,6392e651bebccbcbdfb607d9,223
 3111282,a,2022-12-10 08:40:00 +0100,QS1287,Tel Aviv/TLV,SmartWings,1,"",Expected 08:15,2022-12-09 08:41:09 +0100,2022-12-10 05:04:06 +0100,true,2022-12-10 08:15:00 +0100,6392e651bebccbcbdfb607da,73J
@@ -25,7 +25,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3111350,a,2022-12-10 12:05:00 +0100,DY1502,Oslo,Norwegian Air Shuttle,2,"","",2022-12-09 12:06:10 +0100,2022-12-09 12:06:10 +0100,true,,6393165cbebccbcbdfb65fd3,73H
 3111351,a,2022-12-10 12:10:00 +0100,LO0527,Warsaw/WAW,Lot Polish Airlines,2,"","",2022-12-09 12:11:08 +0100,2022-12-09 12:11:08 +0100,true,,63931788bebccbcbdfb66161,DH4
 3111353,a,2022-12-10 12:20:00 +0100,FR8233,Pisa,Ryanair,2,"","",2022-12-09 12:21:10 +0100,2022-12-09 12:21:10 +0100,true,,639319e0bebccbcbdfb6638b,73H
-3111363,a,2022-12-10 12:55:00 +0100,EK0139,Dubai/DXB,Emirates,1,"","",2022-12-09 12:56:09 +0100,2022-12-09 12:56:09 +0100,true,,63932214bebccbcbdfb670ba,77W
+3111363,a,2022-12-10 12:55:00 +0100,EK0139,Dubai/DXB,Emirates,1,"",Expected 13:10,2022-12-09 12:56:09 +0100,2022-12-10 07:20:08 +0100,true,2022-12-10 13:10:00 +0100,63932214bebccbcbdfb670ba,77W
 3111366,a,2022-12-10 13:05:00 +0100,LH1690,Munich,Lufthansa,2,"","",2022-12-09 13:06:13 +0100,2022-12-09 13:06:13 +0100,true,,6393246bbebccbcbdfb67294,319
 3111369,a,2022-12-10 13:20:00 +0100,PC0301,Istanbul/SAW,Pegasus Airlines,1,"","",2022-12-09 13:21:10 +0100,2022-12-09 13:21:10 +0100,true,,639327f0bebccbcbdfb67627,32N
 3111370,a,2022-12-10 13:35:00 +0100,BA0852,London/HEATHROW,British Airways,1,"","",2022-12-09 13:36:11 +0100,2022-12-09 13:36:11 +0100,true,,63932b74bebccbcbdfb67a62,320
