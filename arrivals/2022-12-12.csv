@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3111902,a,2022-12-12 07:55:00 +0100,EZS1217,Basel/MULHOUSE,Easyjet,2,"","",2022-12-11 07:56:10 +0100,2022-12-11 07:56:10 +0100,true,,63957ec4bebccbcbdfb82818,320
-3111904,a,2022-12-12 08:05:00 +0100,W65619,Milan/MALPENSA,Wizz Air,2,"","",2022-12-11 08:06:12 +0100,2022-12-11 08:06:12 +0100,true,,6395811cbebccbcbdfb82ac6,32Q
+3111902,a,2022-12-12 07:55:00 +0100,EZS1217,Basel/MULHOUSE,Easyjet,2,"",Expected 07:40,2022-12-11 07:56:10 +0100,2022-12-12 07:11:08 +0100,true,2022-12-12 07:40:00 +0100,63957ec4bebccbcbdfb82818,320
+3111904,a,2022-12-12 08:05:00 +0100,W65619,Milan/MALPENSA,Wizz Air,2,"",Expected 08:15,2022-12-11 08:06:12 +0100,2022-12-12 07:14:07 +0100,true,2022-12-12 08:15:00 +0100,6395811cbebccbcbdfb82ac6,32Q
 3111905,a,2022-12-12 08:15:00 +0100,HV5235,Eindhoven,Transavia.com,2,"","",2022-12-11 08:16:09 +0100,2022-12-11 08:16:09 +0100,true,,63958375bebccbcbdfb82c9f,73H
 3111906,a,2022-12-12 08:20:00 +0100,EW9772,Duesseldorf/DUS,Eurowings Ag,2,"","",2022-12-11 08:21:09 +0100,2022-12-11 08:21:09 +0100,true,,639584a0bebccbcbdfb82db3,32A
 3111907,a,2022-12-12 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 08:10,2022-12-11 08:21:09 +0100,2022-12-12 07:03:08 +0100,true,2022-12-12 08:10:00 +0100,639584a0bebccbcbdfb82db4,E7W
