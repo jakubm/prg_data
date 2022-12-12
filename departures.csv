@@ -11,8 +11,8 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3111887,d,2022-12-12 07:15:00 +0100,LO0530,Warsaw/WAW,Lot Polish Airlines,2,D2,Gate closed,2022-12-11 07:16:08 +0100,2022-12-12 07:16:06 +0100,true,,63957564bebccbcbdfb81cba,E75
 3111888,d,2022-12-12 07:25:00 +0100,OS0712,Vienna,Austrian Airlines,2,C12,Gate closed,2022-12-11 07:25:14 +0100,2022-12-12 07:19:06 +0100,true,,639577bcbebccbcbdfb81f2f,E95
 3111893,d,2022-12-12 07:35:00 +0100,FR7964,Naples,Ryanair,2,C19,Gate closed,2022-12-11 07:36:08 +0100,2022-12-12 07:17:07 +0100,true,,63957a14bebccbcbdfb82260,73H
-3111894,d,2022-12-12 07:50:00 +0100,LH1403,Frankfurt/FRA,Lufthansa,2,D6,Boarding,2022-12-11 07:51:08 +0100,2022-12-12 07:28:06 +0100,true,,63957d98bebccbcbdfb82420,321
-3111903,d,2022-12-12 08:00:00 +0100,QS4202,Muscat,SmartWings,1,A5,Gate open,2022-12-11 08:01:08 +0100,2022-12-12 07:02:07 +0100,true,,63957ff0bebccbcbdfb82a2f,7M8
+3111894,d,2022-12-12 07:50:00 +0100,LH1403,Frankfurt/FRA,Lufthansa,2,D6,Gate closed,2022-12-11 07:51:08 +0100,2022-12-12 07:41:06 +0100,true,,63957d98bebccbcbdfb82420,321
+3111903,d,2022-12-12 08:00:00 +0100,QS4202,Muscat,SmartWings,1,A5,Last call,2022-12-11 08:01:08 +0100,2022-12-12 07:42:08 +0100,true,,63957ff0bebccbcbdfb82a2f,7M8
 3111909,d,2022-12-12 08:25:00 +0100,EZS1218,Basel/MULHOUSE,Easyjet,2,C9,Gate open,2022-12-11 08:26:08 +0100,2022-12-12 07:16:06 +0100,true,,639585ccbebccbcbdfb82ed3,320
 3111910,d,2022-12-12 08:40:00 +0100,W65620,Milan/MALPENSA,Wizz Air,2,C18,Check-in,2022-12-11 08:41:10 +0100,2022-12-12 06:42:08 +0100,true,,63958950bebccbcbdfb8336f,32Q
 3111914,d,2022-12-12 08:50:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C2,Check-in,2022-12-11 08:51:08 +0100,2022-12-12 06:48:06 +0100,true,,63958ba8bebccbcbdfb834af,E7W
@@ -102,4 +102,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3112192,d,2022-12-12 21:55:00 +0100,VOE2039,Lyon/LYS,Volotea Airlines,2,C22,"",2022-12-11 21:56:09 +0100,2022-12-11 21:56:09 +0100,true,,639643a4bebccbcbdfb933f1,319
 3112193,d,2022-12-12 22:05:00 +0100,LY2524,Tel Aviv/TLV,El Al Israel Airlines,1,A2,"",2022-12-11 22:06:08 +0100,2022-12-11 22:06:08 +0100,true,,639645fcbebccbcbdfb93560,73J
 3112206,d,2022-12-12 23:45:00 +0100,QS1286,Tel Aviv/TLV,SmartWings,1,B7,"",2022-12-11 23:46:07 +0100,2022-12-11 23:46:07 +0100,true,,63965d6cbebccbcbdfb94091,73J
-3112210,d,2022-12-13 02:05:00 +0100,QS4352,Heraklion,SmartWings,2,"","",2022-12-12 02:06:07 +0100,2022-12-12 02:06:07 +0100,true,,63967e3cbebccbcbdfb94211,73J
+3112210,d,2022-12-13 02:05:00 +0100,QS4352,Heraklion,SmartWings,2,D6,"",2022-12-12 02:06:07 +0100,2022-12-12 07:39:11 +0100,true,,63967e3cbebccbcbdfb94211,73J
