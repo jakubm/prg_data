@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3111868,d,2022-12-12 06:00:00 +0100,FR7950,Copenhagen/CPH,Ryanair,2,C18,"",2022-12-11 06:01:07 +0100,2022-12-11 10:26:08 +0100,true,,639563d0bebccbcbdfb8107a,73H
+3111868,d,2022-12-12 06:00:00 +0100,FR7950,Copenhagen/CPH,Ryanair,2,C18,Check-in,2022-12-11 06:01:07 +0100,2022-12-12 03:05:07 +0100,true,,639563d0bebccbcbdfb8107a,73H
 3111869,d,2022-12-12 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,D4,"",2022-12-11 06:31:08 +0100,2022-12-11 06:31:08 +0100,true,,63956ad8bebccbcbdfb81387,321
 3111872,d,2022-12-12 06:35:00 +0100,FR6912,Manchester,Ryanair,1,B10,"",2022-12-11 06:35:10 +0100,2022-12-11 10:10:08 +0100,true,,63956c04bebccbcbdfb813d5,73H
 3111873,d,2022-12-12 06:40:00 +0100,QS2550,Taba,SmartWings,1,A8,"",2022-12-11 06:41:08 +0100,2022-12-11 10:10:08 +0100,true,,63956d30bebccbcbdfb814ff,73G
