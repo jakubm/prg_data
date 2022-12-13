@@ -82,3 +82,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3112759,a,2022-12-14 22:40:00 +0100,BA0858,London/HEATHROW,British Airways,1,"","",2022-12-13 22:41:09 +0100,2022-12-13 22:41:09 +0100,true,,6398f130bebccbcbdfbb5c09,320
 3112760,a,2022-12-14 23:20:00 +0100,QS1201,Dubai/DXB,SmartWings,1,"","",2022-12-13 23:21:07 +0100,2022-12-13 23:21:07 +0100,true,,6398fa90bebccbcbdfbb5ee9,7M8
 3112761,a,2022-12-14 23:20:00 +0100,QS2545,Marsa Alam,SmartWings,1,"","",2022-12-13 23:21:07 +0100,2022-12-13 23:21:07 +0100,true,,6398fa90bebccbcbdfbb5eea,73J
+3112765,a,2022-12-15 00:15:00 +0100,QS2040,Las Palmas,SmartWings,2,"","",2022-12-14 00:16:07 +0100,2022-12-14 00:16:07 +0100,true,,63990774bebccbcbdfbb6086,7M8
