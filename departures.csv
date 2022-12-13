@@ -21,7 +21,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3112276,d,2022-12-13 10:00:00 +0100,W68210,Catania,Wizz Air,2,C18,Gate closed,2022-12-12 10:01:08 +0100,2022-12-13 10:38:08 +0100,true,,6396ed90bebccbcbdfb99231,32Q
 3112278,d,2022-12-13 10:25:00 +0100,VY8653,Barcelona,Vueling,2,D3,Gate closed,2022-12-12 10:26:08 +0100,2022-12-13 10:25:06 +0100,true,,6396f36bbebccbcbdfb99a58,320
 3112287,d,2022-12-13 10:50:00 +0100,NO0238,Zanzibar,Neos,1,B3,Gate open,2022-12-12 10:51:08 +0100,2022-12-13 09:15:07 +0100,true,,6396f948bebccbcbdfb99d85,789
-3112291,d,2022-12-13 10:55:00 +0100,QS4104,Dakar/DSS,SmartWings,1,B7,Boarding,2022-12-12 10:56:07 +0100,2022-12-13 10:37:08 +0100,true,,6396fa74bebccbcbdfb99eb2,7M8
+3112291,d,2022-12-13 10:55:00 +0100,QS4104,Dakar/DSS,SmartWings,1,B7,Last call,2022-12-12 10:56:07 +0100,2022-12-13 10:41:07 +0100,true,,6396fa74bebccbcbdfb99eb2,7M8
 3112293,d,2022-12-13 11:00:00 +0100,BA0855,London/HEATHROW,British Airways,1,A9,Boarding,2022-12-12 11:01:08 +0100,2022-12-13 10:35:08 +0100,true,,6396fba0bebccbcbdfb99fb7,321
 3112294,d,2022-12-13 11:00:00 +0100,FR1014,London/STANSTED,Ryanair,1,B10,Boarding,2022-12-12 11:01:08 +0100,2022-12-13 10:26:06 +0100,true,,6396fba0bebccbcbdfb99fb8,73H
 3112306,d,2022-12-13 11:10:00 +0100,OS0706,Vienna,Austrian Airlines,2,C3,Gate open,2022-12-12 11:11:08 +0100,2022-12-13 10:18:07 +0100,true,,6396fdf8bebccbcbdfb9a42f,E95
