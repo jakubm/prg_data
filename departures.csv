@@ -63,7 +63,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3112426,d,2022-12-13 18:25:00 +0100,KL1358,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate closed,2022-12-12 18:26:07 +0100,2022-12-13 18:22:06 +0100,true,,639763ecbebccbcbdfba2aab,73H
 3112429,d,2022-12-13 18:30:00 +0100,BA0857,London/HEATHROW,British Airways,1,A9,Gate open,2022-12-12 18:31:08 +0100,2022-12-13 17:46:08 +0100,true,,63976518bebccbcbdfba2caf,32N
 3112430,d,2022-12-13 18:40:00 +0100,LH1401,Frankfurt/FRA,Lufthansa,2,C9,"",2022-12-12 18:41:08 +0100,2022-12-13 18:22:06 +0100,true,,63976770bebccbcbdfba336e,32N
-3112437,d,2022-12-13 19:00:00 +0100,TK1770,Istanbul/IST,Turkish Airlines,1,A6,Boarding,2022-12-12 19:01:07 +0100,2022-12-13 18:14:06 +0100,true,,63976c20bebccbcbdfba3d7f,32Q
+3112437,d,2022-12-13 19:00:00 +0100,TK1770,Istanbul/IST,Turkish Airlines,1,A6,Last call,2022-12-12 19:01:07 +0100,2022-12-13 18:37:07 +0100,true,,63976c20bebccbcbdfba3d7f,32Q
 3112440,d,2022-12-13 19:35:00 +0100,AY1224,Helsinki/HEL,Finnair,2,D4,Check-in,2022-12-12 19:36:07 +0100,2022-12-13 17:06:06 +0100,true,,63977454bebccbcbdfba4ced,E90
 3112442,d,2022-12-13 19:55:00 +0100,LO0526,Warsaw/WAW,Lot Polish Airlines,2,C7,Check-in,2022-12-12 19:56:08 +0100,2022-12-13 17:56:07 +0100,true,,63977904bebccbcbdfba5495,E90
 3112447,d,2022-12-13 20:25:00 +0100,LX1499,Zurich,Swiss International Air Lines,2,C12,Check-in,2022-12-12 20:26:07 +0100,2022-12-13 17:42:06 +0100,true,,6397800cbebccbcbdfba67cf,290
