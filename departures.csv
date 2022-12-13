@@ -16,7 +16,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3112267,d,2022-12-13 09:30:00 +0100,JU0611,Belgrade,Air Serbia,1,B14,Last call,2022-12-12 09:31:07 +0100,2022-12-13 09:42:06 +0100,true,,6396e688bebccbcbdfb98950,AT7
 3112269,d,2022-12-13 09:45:00 +0100,TK1768,Istanbul/IST,Turkish Airlines,1,A6,Last call,2022-12-12 09:46:08 +0100,2022-12-13 09:10:06 +0100,true,,6396ea0cbebccbcbdfb99043,73J
 3112271,d,2022-12-13 09:50:00 +0100,LO0524,Warsaw/WAW,Lot Polish Airlines,2,C7,Gate closed,2022-12-12 09:51:08 +0100,2022-12-13 09:43:06 +0100,true,,6396eb38bebccbcbdfb9912d,E95
-3112272,d,2022-12-13 09:55:00 +0100,LX1485,Zurich,Swiss International Air Lines,2,C11,Last call,2022-12-12 09:56:07 +0100,2022-12-13 09:43:06 +0100,true,,6396ec64bebccbcbdfb991a3,320
+3112272,d,2022-12-13 09:55:00 +0100,LX1485,Zurich,Swiss International Air Lines,2,C11,Gate closed,2022-12-12 09:56:07 +0100,2022-12-13 09:55:07 +0100,true,,6396ec64bebccbcbdfb991a3,320
 3112275,d,2022-12-13 09:55:00 +0100,W68304,Rome/FIUMICINO,Wizz Air,2,C19,Gate closed,2022-12-12 09:56:07 +0100,2022-12-13 09:39:06 +0100,true,,6396ec64bebccbcbdfb991a4,32Q
 3112276,d,2022-12-13 10:00:00 +0100,W68210,Catania,Wizz Air,2,C18,Gate open,2022-12-12 10:01:08 +0100,2022-12-13 09:50:08 +0100,true,,6396ed90bebccbcbdfb99231,32Q
 3112278,d,2022-12-13 10:25:00 +0100,VY8653,Barcelona,Vueling,2,D3,Gate open,2022-12-12 10:26:08 +0100,2022-12-13 09:15:07 +0100,true,,6396f36bbebccbcbdfb99a58,320
@@ -30,7 +30,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3112317,d,2022-12-13 11:45:00 +0100,EJU2582,Milan/MALPENSA,Easyjet,2,D6,Check-in,2022-12-12 11:46:07 +0100,2022-12-13 09:46:06 +0100,true,,6397062cbebccbcbdfb9af90,32A
 3112318,d,2022-12-13 11:45:00 +0100,FR1530,Venice/TREVISO,Ryanair,2,C18,Check-in,2022-12-12 11:46:07 +0100,2022-12-13 08:52:07 +0100,true,,6397062cbebccbcbdfb9af91,73H
 3112319,d,2022-12-13 11:50:00 +0100,LH1395,Frankfurt/FRA,Lufthansa,2,C9,Check-in,2022-12-12 11:51:07 +0100,2022-12-13 09:49:08 +0100,true,,63970758bebccbcbdfb9b233,32Q
-3112324,d,2022-12-13 11:55:00 +0100,FB0302,Sofia,Bulgaria Air,1,B14,"",2022-12-12 11:56:07 +0100,2022-12-12 11:56:07 +0100,true,,63970883bebccbcbdfb9b4e4,319
+3112324,d,2022-12-13 11:55:00 +0100,FB0302,Sofia,Bulgaria Air,1,B14,Check-in,2022-12-12 11:56:07 +0100,2022-12-13 09:56:06 +0100,true,,63970883bebccbcbdfb9b4e4,32A
 3112326,d,2022-12-13 12:20:00 +0100,QR0292,Doha/DOH,Qatar Airways,1,B1,Check-in,2022-12-12 12:21:08 +0100,2022-12-13 09:20:06 +0100,true,,63970e60bebccbcbdfb9bde7,32A
 3112327,d,2022-12-13 12:25:00 +0100,AF1383,Paris/CDG,Air France,2,C2,"",2022-12-12 12:26:10 +0100,2022-12-12 12:26:10 +0100,true,,63970f8bbebccbcbdfb9befb,223
 3112333,d,2022-12-13 12:30:00 +0100,DY1503,Oslo,Norwegian Air Shuttle,2,D5,"",2022-12-12 12:31:11 +0100,2022-12-12 12:31:11 +0100,true,,639710b8bebccbcbdfb9bfac,73H
