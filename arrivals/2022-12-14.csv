@@ -49,7 +49,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3112682,a,2022-12-14 17:15:00 +0100,LO0521,Warsaw/WAW,Lot Polish Airlines,2,"",Expected 17:30,2022-12-13 17:16:09 +0100,2022-12-14 16:26:10 +0100,true,2022-12-14 17:30:00 +0100,6398a504bebccbcbdfbb271f,E75
 3112683,a,2022-12-14 17:35:00 +0100,FR7957,Charleroi,Ryanair,2,"","",2022-12-13 17:36:10 +0100,2022-12-13 17:36:10 +0100,true,,6398a9b4bebccbcbdfbb2935,73H
 3112684,a,2022-12-14 17:40:00 +0100,BA0856,London/HEATHROW,British Airways,1,"",Delayed,2022-12-13 17:41:10 +0100,2022-12-14 16:20:09 +0100,true,,6398aae0bebccbcbdfbb2af2,320
-3112685,a,2022-12-14 17:40:00 +0100,KL1357,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-12-13 17:41:10 +0100,2022-12-13 17:41:10 +0100,true,,6398aae0bebccbcbdfbb2af3,73H
+3112685,a,2022-12-14 17:40:00 +0100,KL1357,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 17:40,2022-12-13 17:41:10 +0100,2022-12-14 16:38:07 +0100,true,2022-12-14 17:40:00 +0100,6398aae0bebccbcbdfbb2af3,73H
 3112688,a,2022-12-14 17:50:00 +0100,6H0767,Tel Aviv/TLV,Israir Airlines,1,"",Expected 18:10,2022-12-13 17:51:09 +0100,2022-12-14 14:30:08 +0100,true,2022-12-14 18:10:00 +0100,6398ad38bebccbcbdfbb2efb,73H
 3112691,a,2022-12-14 17:55:00 +0100,LH1400,Frankfurt/FRA,Lufthansa,2,"",Cancelled,2022-12-13 17:56:09 +0100,2022-12-14 15:57:07 +0100,true,,6398ae64bebccbcbdfbb3084,32N
 3112699,a,2022-12-14 18:10:00 +0100,TK1769,Istanbul/IST,Turkish Airlines,1,"",Expected 18:05,2022-12-13 18:11:09 +0100,2022-12-14 15:52:08 +0100,true,2022-12-14 18:05:00 +0100,6398b1e8bebccbcbdfbb34e5,32B
