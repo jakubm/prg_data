@@ -15,7 +15,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3112553,a,2022-12-14 10:35:00 +0100,LY2521,Tel Aviv/TLV,El Al Israel Airlines,1,"","",2022-12-13 10:36:09 +0100,2022-12-13 10:36:09 +0100,true,,63984744bebccbcbdfbabee0,73H
 3112554,a,2022-12-14 10:50:00 +0100,SN2809,Brussels,Brussels Airlines,2,"","",2022-12-13 10:51:08 +0100,2022-12-13 10:51:08 +0100,true,,63984ac8bebccbcbdfbac0eb,320
 3112557,a,2022-12-14 10:55:00 +0100,AY1221,Helsinki/HEL,Finnair,2,"","",2022-12-13 10:56:07 +0100,2022-12-13 10:56:07 +0100,true,,63984bf4bebccbcbdfbac22a,E90
-3112559,a,2022-12-14 11:00:00 +0100,QR0291,Doha/DOH,Qatar Airways,1,"","",2022-12-13 11:01:08 +0100,2022-12-13 11:01:08 +0100,true,,63984d20bebccbcbdfbac34e,320
+3112559,a,2022-12-14 11:00:00 +0100,QR0291,Doha/DOH,Qatar Airways,1,"",Expected 11:00,2022-12-13 11:01:08 +0100,2022-12-14 05:02:10 +0100,true,2022-12-14 11:00:00 +0100,63984d20bebccbcbdfbac34e,32A
 3112560,a,2022-12-14 11:05:00 +0100,EI0642,Dublin,Aer Lingus,1,"","",2022-12-13 11:06:10 +0100,2022-12-13 11:06:10 +0100,true,,63984e4cbebccbcbdfbac5fb,320
 3112561,a,2022-12-14 11:05:00 +0100,LH1394,Frankfurt/FRA,Lufthansa,2,"","",2022-12-13 11:06:10 +0100,2022-12-13 11:06:10 +0100,true,,63984e4cbebccbcbdfbac5fc,321
 3112573,a,2022-12-14 11:10:00 +0100,EJU2581,Milan/MALPENSA,Easyjet,2,"","",2022-12-13 11:11:08 +0100,2022-12-13 11:11:08 +0100,true,,63984f78bebccbcbdfbac635,320
