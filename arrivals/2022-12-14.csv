@@ -5,7 +5,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3112522,a,2022-12-14 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-12-13 08:21:08 +0100,2022-12-13 08:21:08 +0100,true,,639827a0bebccbcbdfbaa186,E75
 3112525,a,2022-12-14 08:40:00 +0100,LX1484,Zurich,Swiss International Air Lines,2,"","",2022-12-13 08:41:11 +0100,2022-12-13 08:41:11 +0100,true,,63982c50bebccbcbdfbaa689,E90
 3112526,a,2022-12-14 08:40:00 +0100,QS1287,Tel Aviv/TLV,SmartWings,1,"",Expected 10:00,2022-12-13 08:41:11 +0100,2022-12-14 06:09:07 +0100,true,2022-12-14 10:00:00 +0100,63982c50bebccbcbdfbaa68a,73J
-3112531,a,2022-12-14 08:55:00 +0100,TK1767,Istanbul/IST,Turkish Airlines,1,"","",2022-12-13 08:56:08 +0100,2022-12-13 08:56:08 +0100,true,,63982fd4bebccbcbdfbaa8e2,321
+3112531,a,2022-12-14 08:55:00 +0100,TK1767,Istanbul/IST,Turkish Airlines,1,"",Expected 08:30,2022-12-13 08:56:08 +0100,2022-12-14 06:24:07 +0100,true,2022-12-14 08:30:00 +0100,63982fd4bebccbcbdfbaa8e2,321
 3112532,a,2022-12-14 09:00:00 +0100,EZY8993,London/GATWICK,Easyjet,1,"","",2022-12-13 09:01:09 +0100,2022-12-13 09:01:09 +0100,true,,63983100bebccbcbdfbaa954,320
 3112533,a,2022-12-14 09:05:00 +0100,LO0523,Warsaw/WAW,Lot Polish Airlines,2,"","",2022-12-13 09:06:08 +0100,2022-12-13 09:06:08 +0100,true,,6398322cbebccbcbdfbaaa48,E70
 3112539,a,2022-12-14 09:45:00 +0100,VY8652,Barcelona,Vueling,2,"","",2022-12-13 09:46:08 +0100,2022-12-13 09:46:08 +0100,true,,63983b8cbebccbcbdfbab49b,320
