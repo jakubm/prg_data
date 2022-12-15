@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3112808,a,2022-12-15 08:00:00 +0100,9U0519,Chisinau,Air Moldova,1,"",Expected 07:50,2022-12-14 08:01:09 +0100,2022-12-15 06:01:08 +0100,true,2022-12-15 07:50:00 +0100,63997470bebccbcbdfbb89f4,319
+3112808,a,2022-12-15 08:00:00 +0100,9U0519,Chisinau,Air Moldova,1,"",Expected 07:35,2022-12-14 08:01:09 +0100,2022-12-15 06:54:07 +0100,true,2022-12-15 07:35:00 +0100,63997470bebccbcbdfbb89f4,319
 3112809,a,2022-12-15 08:05:00 +0100,W62694,Bari,Wizz Air,2,"",Expected 07:30,2022-12-14 08:06:10 +0100,2022-12-15 06:14:09 +0100,true,2022-12-15 07:30:00 +0100,6399759cbebccbcbdfbb8a55,32N
 3112810,a,2022-12-15 08:05:00 +0100,W65619,Milan/MALPENSA,Wizz Air,2,"","",2022-12-14 08:06:10 +0100,2022-12-14 08:06:10 +0100,true,,6399759cbebccbcbdfbb8a56,321
 3112811,a,2022-12-15 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-12-14 08:21:08 +0100,2022-12-14 08:21:08 +0100,true,,63997920bebccbcbdfbb8af0,E75
