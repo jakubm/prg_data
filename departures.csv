@@ -71,7 +71,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3113310,d,2022-12-16 15:30:00 +0100,EK0140,Dubai/DXB,Emirates,1,B8,Gate closed,2022-12-15 15:31:09 +0100,2022-12-16 15:15:07 +0100,true,,639b2f68bebccbcbdfbcfb59,77W
 3113313,d,2022-12-16 15:30:00 +0100,W68304,Rome/FIUMICINO,Wizz Air,2,C18,"",2022-12-15 15:31:09 +0100,2022-12-16 14:52:06 +0100,true,,639b2f68bebccbcbdfbcfb5a,32Q
 3113314,d,2022-12-16 15:35:00 +0100,EZS1322,Geneva,Easyjet,2,D6,Last call,2022-12-15 15:36:08 +0100,2022-12-16 15:24:06 +0100,true,,639b3094bebccbcbdfbcfbce,32N
-3113316,d,2022-12-16 15:45:00 +0100,IB3149,Madrid/MAD,Iberia,2,D4,Last call,2022-12-15 15:46:07 +0100,2022-12-16 15:28:06 +0100,true,,639b32ecbebccbcbdfbcfd1a,320
+3113316,d,2022-12-16 15:45:00 +0100,IB3149,Madrid/MAD,Iberia,2,D4,Gate closed,2022-12-15 15:46:07 +0100,2022-12-16 15:35:09 +0100,true,,639b32ecbebccbcbdfbcfd1a,320
 3113328,d,2022-12-16 16:30:00 +0100,FR7956,Charleroi,Ryanair,2,C19,Check-in,2022-12-15 16:31:09 +0100,2022-12-16 13:33:07 +0100,true,,639b3d78bebccbcbdfbd0dd6,73H
 3113330,d,2022-12-16 16:35:00 +0100,FR1014,London/STANSTED,Ryanair,1,B16,Check-in,2022-12-15 16:36:08 +0100,2022-12-16 13:47:07 +0100,true,,639b3ea3bebccbcbdfbd11d7,73H
 3113331,d,2022-12-16 16:40:00 +0100,OS0710,Vienna,Austrian Airlines,2,C6,Check-in,2022-12-15 16:41:09 +0100,2022-12-16 15:29:07 +0100,true,,639b3fd0bebccbcbdfbd13bc,E95
@@ -84,7 +84,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3113357,d,2022-12-16 17:20:00 +0100,QS1152,Malaga,SmartWings,2,D2,Check-in,2022-12-15 17:21:07 +0100,2022-12-16 14:50:08 +0100,true,,639b492fbebccbcbdfbd1a5a,73G
 3113359,d,2022-12-16 17:20:00 +0100,W66422,Kutaisi,Wizz Air,1,B10,Check-in,2022-12-15 17:21:07 +0100,2022-12-16 15:21:09 +0100,true,,639b492fbebccbcbdfbd1a5b,32A
 3113361,d,2022-12-16 17:30:00 +0100,FR5650,Edinburgh,Ryanair,1,B15,Check-in,2022-12-15 17:31:07 +0100,2022-12-16 14:30:08 +0100,true,,639b4b88bebccbcbdfbd1a7a,73H
-3113363,d,2022-12-16 17:40:00 +0100,EJU2584,Milan/MALPENSA,Easyjet,2,D6,"",2022-12-15 17:41:08 +0100,2022-12-15 17:41:08 +0100,true,,639b4de0bebccbcbdfbd1b33,319
+3113363,d,2022-12-16 17:40:00 +0100,EJU2584,Milan/MALPENSA,Easyjet,2,D6,Check-in,2022-12-15 17:41:08 +0100,2022-12-16 15:41:09 +0100,true,,639b4de0bebccbcbdfbd1b33,319
 3113367,d,2022-12-16 17:50:00 +0100,EZY8996,London/GATWICK,Easyjet,1,A3,"",2022-12-15 17:51:08 +0100,2022-12-15 17:51:08 +0100,true,,639b5037bebccbcbdfbd1cad,319
 3113368,d,2022-12-16 17:55:00 +0100,AF1083,Paris/CDG,Air France,2,C7,"",2022-12-15 17:56:09 +0100,2022-12-15 17:56:09 +0100,true,,639b5164bebccbcbdfbd1e0a,32A
 3113376,d,2022-12-16 18:00:00 +0100,LO0522,Warsaw/WAW,Lot Polish Airlines,2,D3,"",2022-12-15 18:01:08 +0100,2022-12-15 18:01:08 +0100,true,,639b5290bebccbcbdfbd1eb6,E75
