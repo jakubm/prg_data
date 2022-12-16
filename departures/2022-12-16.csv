@@ -4,7 +4,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3113092,d,2022-12-16 06:50:00 +0100,FR5214,Dublin,Ryanair,1,B10,Gate closed,2022-12-15 06:51:08 +0100,2022-12-16 06:31:06 +0100,true,,639ab587bebccbcbdfbc6b27,73H
 3113093,d,2022-12-16 07:05:00 +0100,LH1689,Munich,Lufthansa,2,C10,Cancelled,2022-12-15 07:06:07 +0100,2022-12-15 14:39:07 +0100,true,,639ab90cbebccbcbdfbc6e11,319
 3113099,d,2022-12-16 07:15:00 +0100,BA0853,London/HEATHROW,British Airways,1,A7,Boarding,2022-12-15 07:16:08 +0100,2022-12-16 06:41:06 +0100,true,,639abb64bebccbcbdfbc6f05,320
-3113100,d,2022-12-16 07:15:00 +0100,LO0530,Warsaw/WAW,Lot Polish Airlines,2,D5,Gate open,2022-12-15 07:16:08 +0100,2022-12-16 05:59:06 +0100,true,,639abb64bebccbcbdfbc6f06,E75
+3113100,d,2022-12-16 07:15:00 +0100,LO0530,Warsaw/WAW,Lot Polish Airlines,2,D5,Boarding,2022-12-15 07:16:08 +0100,2022-12-16 06:51:07 +0100,true,,639abb64bebccbcbdfbc6f06,E75
 3113101,d,2022-12-16 07:25:00 +0100,OS0712,Vienna,Austrian Airlines,2,C12,Gate open,2022-12-15 07:26:10 +0100,2022-12-16 06:38:10 +0100,true,,639abdbbbebccbcbdfbc6f0f,E95
 3113106,d,2022-12-16 07:40:00 +0100,FR3529,Milan/BERGAMO,Ryanair,2,C18,Gate open,2022-12-15 07:41:08 +0100,2022-12-16 06:28:08 +0100,true,,639ac13fbebccbcbdfbc6fb9,73H
 3113108,d,2022-12-16 07:50:00 +0100,LH1403,Frankfurt/FRA,Lufthansa,2,C11,Cancelled,2022-12-15 07:51:08 +0100,2022-12-15 22:54:10 +0100,true,,639ac398bebccbcbdfbc708a,321
@@ -12,12 +12,12 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3113124,d,2022-12-16 08:40:00 +0100,VOE2207,Nantes,Volotea Airlines,2,C19,Check-in,2022-12-15 08:41:08 +0100,2022-12-16 06:43:07 +0100,true,,639acf50bebccbcbdfbc7afa,319
 3113125,d,2022-12-16 08:40:00 +0100,W65620,Milan/MALPENSA,Wizz Air,2,C17,Check-in,2022-12-15 08:41:08 +0100,2022-12-16 06:42:06 +0100,true,,639acf50bebccbcbdfbc7afb,32Q
 3113131,d,2022-12-16 08:50:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C7,"",2022-12-15 08:51:11 +0100,2022-12-15 10:20:08 +0100,true,,639ad1a8bebccbcbdfbc7b75,E75
-3113130,d,2022-12-16 08:50:00 +0100,VOE2039,Lyon/LYS,Volotea Airlines,2,C16,"",2022-12-15 08:51:11 +0100,2022-12-15 10:20:08 +0100,true,,639ad1a8bebccbcbdfbc7b74,319
+3113130,d,2022-12-16 08:50:00 +0100,VOE2039,Lyon/LYS,Volotea Airlines,2,C16,Check-in,2022-12-15 08:51:11 +0100,2022-12-16 06:51:07 +0100,true,,639ad1a8bebccbcbdfbc7b74,319
 3113135,d,2022-12-16 09:00:00 +0100,EJU7910,Amsterdam,Easyjet,2,D6,"",2022-12-15 09:01:10 +0100,2022-12-15 10:20:08 +0100,true,,639ad3ffbebccbcbdfbc82d7,32N
-3113138,d,2022-12-16 09:15:00 +0100,QS4106,Boa Vista,SmartWings,1,A3,"",2022-12-15 09:16:07 +0100,2022-12-15 09:47:08 +0100,true,,639ad784bebccbcbdfbc88e3,7M8
-3113139,d,2022-12-16 09:20:00 +0100,QS1200,Dubai/DXB,SmartWings,1,A4,"",2022-12-15 09:21:08 +0100,2022-12-15 10:20:08 +0100,true,,639ad8afbebccbcbdfbc899f,7M8
+3113138,d,2022-12-16 09:15:00 +0100,QS4106,Boa Vista,SmartWings,1,A3,Check-in,2022-12-15 09:16:07 +0100,2022-12-16 06:45:08 +0100,true,,639ad784bebccbcbdfbc88e3,7M8
+3113139,d,2022-12-16 09:20:00 +0100,QS1200,Dubai/DXB,SmartWings,1,A4,Check-in,2022-12-15 09:21:08 +0100,2022-12-16 06:50:08 +0100,true,,639ad8afbebccbcbdfbc899f,7M8
 3113142,d,2022-12-16 09:25:00 +0100,VY6949,Paris/ORLY,Vueling,2,D4,"",2022-12-15 09:26:08 +0100,2022-12-15 10:23:08 +0100,true,,639ad9dcbebccbcbdfbc8b7d,321
-3113144,d,2022-12-16 09:45:00 +0100,FR6730,Madrid/MAD,Ryanair,2,C18,"",2022-12-15 09:46:08 +0100,2022-12-15 10:21:09 +0100,true,,639ade8cbebccbcbdfbc913c,73H
+3113144,d,2022-12-16 09:45:00 +0100,FR6730,Madrid/MAD,Ryanair,2,C18,Check-in,2022-12-15 09:46:08 +0100,2022-12-16 06:46:06 +0100,true,,639ade8cbebccbcbdfbc913c,73H
 3113145,d,2022-12-16 09:45:00 +0100,TK1768,Istanbul/IST,Turkish Airlines,1,A6,"",2022-12-15 09:46:08 +0100,2022-12-15 10:20:08 +0100,true,,639ade8cbebccbcbdfbc913d,321
 3113150,d,2022-12-16 09:50:00 +0100,LO0524,Warsaw/WAW,Lot Polish Airlines,2,D2,"",2022-12-15 09:51:08 +0100,2022-12-15 10:20:08 +0100,true,,639adfb7bebccbcbdfbc9243,E75
 3113160,d,2022-12-16 09:55:00 +0100,LX1485,Zurich,Swiss International Air Lines,2,C11,"",2022-12-15 09:56:08 +0100,2022-12-15 10:21:09 +0100,true,,639ae0e4bebccbcbdfbc93aa,223
