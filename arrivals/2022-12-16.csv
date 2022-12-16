@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3113087,a,2022-12-16 03:00:00 +0100,QS4147,Sal Island,SmartWings,1,"",Arrived 03:19,2022-12-15 03:01:09 +0100,2022-12-16 03:21:09 +0100,true,2022-12-16 03:19:00 +0100,639a7fa0bebccbcbdfbc53a2,7M8
-3113107,a,2022-12-16 07:45:00 +0100,FR4144,Budapest,Ryanair,2,"",Expected 07:25,2022-12-15 07:46:09 +0100,2022-12-16 06:48:08 +0100,true,2022-12-16 07:25:00 +0100,639ac26cbebccbcbdfbc6ffa,73H
+3113107,a,2022-12-16 07:45:00 +0100,FR4144,Budapest,Ryanair,2,"",Expected 07:30,2022-12-15 07:46:09 +0100,2022-12-16 07:09:07 +0100,true,2022-12-16 07:30:00 +0100,639ac26cbebccbcbdfbc6ffa,73H
 3113116,a,2022-12-16 08:05:00 +0100,VOE2038,Lyon/LYS,Volotea Airlines,2,"",Expected 07:40,2022-12-15 08:06:09 +0100,2022-12-16 06:32:08 +0100,true,2022-12-16 07:40:00 +0100,639ac71bbebccbcbdfbc73e1,319
 3113117,a,2022-12-16 08:05:00 +0100,VOE2206,Nantes,Volotea Airlines,2,"",Expected 08:15,2022-12-15 08:06:09 +0100,2022-12-16 06:44:08 +0100,true,2022-12-16 08:15:00 +0100,639ac71bbebccbcbdfbc73e2,319
 3113118,a,2022-12-16 08:05:00 +0100,W65619,Milan/MALPENSA,Wizz Air,2,"",Delayed,2022-12-15 08:06:09 +0100,2022-12-16 06:24:08 +0100,true,,639ac71bbebccbcbdfbc73e3,32Q
