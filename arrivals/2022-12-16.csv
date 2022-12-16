@@ -115,3 +115,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3113441,a,2022-12-16 23:20:00 +0100,FR3555,Milan/BERGAMO,Ryanair,2,"","",2022-12-15 23:21:09 +0100,2022-12-15 23:21:09 +0100,true,,639b9d90bebccbcbdfbd6716,73H
 3113442,a,2022-12-16 23:20:00 +0100,QS1201,Dubai/DXB,SmartWings,1,"","",2022-12-15 23:21:09 +0100,2022-12-15 23:21:09 +0100,true,,639b9d90bebccbcbdfbd6717,7M8
 3113446,a,2022-12-17 00:45:00 +0100,QS1153,Malaga,SmartWings,2,"","",2022-12-16 00:46:11 +0100,2022-12-16 00:46:11 +0100,true,,639bb17c2d38227218ccb954,73G
+3113450,a,2022-12-17 01:30:00 +0100,QS4106,Sal Island,SmartWings,1,"","",2022-12-16 01:31:08 +0100,2022-12-16 01:31:08 +0100,true,,639bbc082d38227218ccba09,7M8
