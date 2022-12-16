@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3113087,a,2022-12-16 03:00:00 +0100,QS4147,Sal Island,SmartWings,1,"",Arrived 03:19,2022-12-15 03:01:09 +0100,2022-12-16 03:21:09 +0100,true,2022-12-16 03:19:00 +0100,639a7fa0bebccbcbdfbc53a2,7M8
 3113107,a,2022-12-16 07:45:00 +0100,FR4144,Budapest,Ryanair,2,"","",2022-12-15 07:46:09 +0100,2022-12-15 07:46:09 +0100,true,,639ac26cbebccbcbdfbc6ffa,73H
-3113116,a,2022-12-16 08:05:00 +0100,VOE2038,Lyon/LYS,Volotea Airlines,2,"",Expected 07:45,2022-12-15 08:06:09 +0100,2022-12-16 06:28:09 +0100,true,2022-12-16 07:45:00 +0100,639ac71bbebccbcbdfbc73e1,319
+3113116,a,2022-12-16 08:05:00 +0100,VOE2038,Lyon/LYS,Volotea Airlines,2,"",Expected 07:40,2022-12-15 08:06:09 +0100,2022-12-16 06:32:08 +0100,true,2022-12-16 07:40:00 +0100,639ac71bbebccbcbdfbc73e1,319
 3113117,a,2022-12-16 08:05:00 +0100,VOE2206,Nantes,Volotea Airlines,2,"","",2022-12-15 08:06:09 +0100,2022-12-15 08:06:09 +0100,true,,639ac71bbebccbcbdfbc73e2,319
 3113118,a,2022-12-16 08:05:00 +0100,W65619,Milan/MALPENSA,Wizz Air,2,"",Delayed,2022-12-15 08:06:09 +0100,2022-12-16 06:24:08 +0100,true,,639ac71bbebccbcbdfbc73e3,32Q
 3113120,a,2022-12-16 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2022-12-15 08:21:09 +0100,2022-12-15 08:21:09 +0100,true,,639acaa1bebccbcbdfbc7862,E75
@@ -10,7 +10,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3113126,a,2022-12-16 08:40:00 +0100,LX1484,Zurich,Swiss International Air Lines,2,"","",2022-12-15 08:41:09 +0100,2022-12-15 08:41:09 +0100,true,,639acf50bebccbcbdfbc7af7,223
 3113127,a,2022-12-16 08:40:00 +0100,QS1287,Tel Aviv/TLV,SmartWings,1,"",Expected 08:40,2022-12-15 08:41:09 +0100,2022-12-16 05:02:07 +0100,true,2022-12-16 08:40:00 +0100,639acf50bebccbcbdfbc7af8,73J
 3113129,a,2022-12-16 08:40:00 +0100,VY6948,Paris/ORLY,Vueling,2,"","",2022-12-15 08:41:09 +0100,2022-12-15 08:41:09 +0100,true,,639acf50bebccbcbdfbc7af9,321
-3113134,a,2022-12-16 08:55:00 +0100,TK1767,Istanbul/IST,Turkish Airlines,1,"","",2022-12-15 08:56:11 +0100,2022-12-15 08:56:11 +0100,true,,639ad2d3bebccbcbdfbc7dcb,321
+3113134,a,2022-12-16 08:55:00 +0100,TK1767,Istanbul/IST,Turkish Airlines,1,"",Expected 08:40,2022-12-15 08:56:11 +0100,2022-12-16 06:34:07 +0100,true,2022-12-16 08:40:00 +0100,639ad2d3bebccbcbdfbc7dcb,321
 3113136,a,2022-12-16 09:05:00 +0100,LO0523,Warsaw/WAW,Lot Polish Airlines,2,"","",2022-12-15 09:06:09 +0100,2022-12-15 09:06:09 +0100,true,,639ad52dbebccbcbdfbc85a4,E75
 3113137,a,2022-12-16 09:10:00 +0100,LY2521,Tel Aviv/TLV,El Al Israel Airlines,1,"",Expected 09:00,2022-12-15 09:11:09 +0100,2022-12-16 05:25:10 +0100,true,2022-12-16 09:00:00 +0100,639ad657bebccbcbdfbc870c,73H
 3113141,a,2022-12-16 09:20:00 +0100,FR6725,Madrid/MAD,Ryanair,2,"","",2022-12-15 09:21:09 +0100,2022-12-15 09:21:09 +0100,true,,639ad8afbebccbcbdfbc899e,73H
@@ -44,7 +44,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3113237,a,2022-12-16 12:20:00 +0100,VOE2094,Toulouse,Volotea Airlines,2,"","",2022-12-15 12:21:10 +0100,2022-12-15 12:21:10 +0100,true,,639b02e2bebccbcbdfbcca94,319
 3113251,a,2022-12-16 12:30:00 +0100,BA0852,London/HEATHROW,British Airways,1,"","",2022-12-15 12:31:12 +0100,2022-12-15 12:31:12 +0100,true,,639b0539bebccbcbdfbcd062,320
 3113255,a,2022-12-16 12:40:00 +0100,EJU7905,Amsterdam,Easyjet,2,"","",2022-12-15 12:41:10 +0100,2022-12-15 12:41:10 +0100,true,,639b0790bebccbcbdfbcd4e2,319
-3113259,a,2022-12-16 12:55:00 +0100,EK0139,Dubai/DXB,Emirates,1,"","",2022-12-15 12:56:10 +0100,2022-12-15 12:56:10 +0100,true,,639b0b15bebccbcbdfbcd734,77W
+3113259,a,2022-12-16 12:55:00 +0100,EK0139,Dubai/DXB,Emirates,1,"",Expected 12:30,2022-12-15 12:56:10 +0100,2022-12-16 06:32:08 +0100,true,2022-12-16 12:30:00 +0100,639b0b15bebccbcbdfbcd734,77W
 3113261,a,2022-12-16 13:05:00 +0100,LH1690,Munich,Lufthansa,2,"","",2022-12-15 13:06:10 +0100,2022-12-15 13:06:10 +0100,true,,639b0d6cbebccbcbdfbcd7d2,319
 3113266,a,2022-12-16 13:20:00 +0100,PC0301,Istanbul/SAW,Pegasus Airlines,1,"","",2022-12-15 13:21:09 +0100,2022-12-15 13:21:09 +0100,true,,639b10f0bebccbcbdfbcd97f,32N
 3113267,a,2022-12-16 13:40:00 +0100,BT0481,Riga,Air Baltic,2,"","",2022-12-15 13:41:09 +0100,2022-12-15 13:41:09 +0100,true,,639b15a0bebccbcbdfbcdc73,223
