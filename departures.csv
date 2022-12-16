@@ -5,8 +5,8 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3113093,d,2022-12-16 07:05:00 +0100,LH1689,Munich,Lufthansa,2,C10,Cancelled,2022-12-15 07:06:07 +0100,2022-12-15 14:39:07 +0100,true,,639ab90cbebccbcbdfbc6e11,319
 3113099,d,2022-12-16 07:15:00 +0100,BA0853,London/HEATHROW,British Airways,1,A7,Gate closed,2022-12-15 07:16:08 +0100,2022-12-16 07:06:07 +0100,true,,639abb64bebccbcbdfbc6f05,320
 3113100,d,2022-12-16 07:15:00 +0100,LO0530,Warsaw/WAW,Lot Polish Airlines,2,D5,Gate closed,2022-12-15 07:16:08 +0100,2022-12-16 06:59:06 +0100,true,,639abb64bebccbcbdfbc6f06,E75
-3113101,d,2022-12-16 07:25:00 +0100,OS0712,Vienna,Austrian Airlines,2,C12,Last call,2022-12-15 07:26:10 +0100,2022-12-16 07:00:07 +0100,true,,639abdbbbebccbcbdfbc6f0f,E95
-3113106,d,2022-12-16 07:40:00 +0100,FR3529,Milan/BERGAMO,Ryanair,2,C18,Boarding,2022-12-15 07:41:08 +0100,2022-12-16 06:57:07 +0100,true,,639ac13fbebccbcbdfbc6fb9,73H
+3113101,d,2022-12-16 07:25:00 +0100,OS0712,Vienna,Austrian Airlines,2,C12,Gate closed,2022-12-15 07:26:10 +0100,2022-12-16 07:15:07 +0100,true,,639abdbbbebccbcbdfbc6f0f,E95
+3113106,d,2022-12-16 07:40:00 +0100,FR3529,Milan/BERGAMO,Ryanair,2,C18,Gate closed,2022-12-15 07:41:08 +0100,2022-12-16 07:21:06 +0100,true,,639ac13fbebccbcbdfbc6fb9,73H
 3113108,d,2022-12-16 07:50:00 +0100,LH1403,Frankfurt/FRA,Lufthansa,2,C11,Cancelled,2022-12-15 07:51:08 +0100,2022-12-15 22:54:10 +0100,true,,639ac398bebccbcbdfbc708a,321
 3113119,d,2022-12-16 08:10:00 +0100,FR4143,Budapest,Ryanair,2,C22,Gate open,2022-12-15 08:11:09 +0100,2022-12-16 06:57:07 +0100,true,,639ac848bebccbcbdfbc747d,73H
 3113124,d,2022-12-16 08:40:00 +0100,VOE2207,Nantes,Volotea Airlines,2,D5,Check-in,2022-12-15 08:41:08 +0100,2022-12-16 06:55:06 +0100,true,,639acf50bebccbcbdfbc7afa,319
@@ -21,15 +21,15 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3113145,d,2022-12-16 09:45:00 +0100,TK1768,Istanbul/IST,Turkish Airlines,1,A6,"",2022-12-15 09:46:08 +0100,2022-12-15 10:20:08 +0100,true,,639ade8cbebccbcbdfbc913d,321
 3113150,d,2022-12-16 09:50:00 +0100,LO0524,Warsaw/WAW,Lot Polish Airlines,2,D2,"",2022-12-15 09:51:08 +0100,2022-12-15 10:20:08 +0100,true,,639adfb7bebccbcbdfbc9243,E75
 3113160,d,2022-12-16 09:55:00 +0100,LX1485,Zurich,Swiss International Air Lines,2,C11,"",2022-12-15 09:56:08 +0100,2022-12-15 10:21:09 +0100,true,,639ae0e4bebccbcbdfbc93aa,223
-3113163,d,2022-12-16 10:00:00 +0100,J20110,Baku,Azerbaijan Airlines,1,A7,"",2022-12-15 10:01:08 +0100,2022-12-15 10:21:09 +0100,true,,639ae210bebccbcbdfbc96b6,320
-3113165,d,2022-12-16 10:15:00 +0100,LY2522,Tel Aviv/TLV,El Al Israel Airlines,1,A2,"",2022-12-15 10:16:08 +0100,2022-12-15 10:22:08 +0100,true,,639ae594bebccbcbdfbc9b26,73H
+3113163,d,2022-12-16 10:00:00 +0100,J20110,Baku,Azerbaijan Airlines,1,A7,Check-in,2022-12-15 10:01:08 +0100,2022-12-16 07:12:06 +0100,true,,639ae210bebccbcbdfbc96b6,320
+3113165,d,2022-12-16 10:15:00 +0100,LY2522,Tel Aviv/TLV,El Al Israel Airlines,1,A2,Check-in,2022-12-15 10:16:08 +0100,2022-12-16 07:16:09 +0100,true,,639ae594bebccbcbdfbc9b26,73H
 3113166,d,2022-12-16 10:25:00 +0100,VY8653,Barcelona,Vueling,2,D4,"",2022-12-15 10:26:08 +0100,2022-12-15 10:26:08 +0100,true,,639ae7ecbebccbcbdfbc9c94,320
 3113168,d,2022-12-16 10:30:00 +0100,FR2977,London/STANSTED,Ryanair,1,B10,"",2022-12-15 10:31:08 +0100,2022-12-15 10:31:08 +0100,true,,639ae918bebccbcbdfbc9d1a,73H
 3113169,d,2022-12-16 10:30:00 +0100,LH1393,Frankfurt/FRA,Lufthansa,2,C10,"",2022-12-15 10:31:08 +0100,2022-12-15 10:31:08 +0100,true,,639ae918bebccbcbdfbc9d1b,319
 3113175,d,2022-12-16 10:30:00 +0100,LS1278,Birmingham,Jet2.com,1,A3,"",2022-12-15 10:31:08 +0100,2022-12-15 10:31:08 +0100,true,,639ae918bebccbcbdfbc9d1c,73H
 3113194,d,2022-12-16 11:10:00 +0100,OS0706,Vienna,Austrian Airlines,2,C7,"",2022-12-15 11:11:08 +0100,2022-12-15 20:12:08 +0100,true,,639af278bebccbcbdfbca746,E95
 3113201,d,2022-12-16 11:25:00 +0100,FR7964,Naples,Ryanair,2,C19,"",2022-12-15 11:26:07 +0100,2022-12-15 11:26:07 +0100,true,,639af5fdbebccbcbdfbcae92,73H
-3113202,d,2022-12-16 11:35:00 +0100,EW4220,Birmingham,Eurowings Ag,1,B7,"",2022-12-15 11:36:08 +0100,2022-12-15 15:28:08 +0100,true,,639af854bebccbcbdfbcb455,319
+3113202,d,2022-12-16 11:35:00 +0100,EW4220,Birmingham,Eurowings Ag,1,A8,"",2022-12-15 11:36:08 +0100,2022-12-16 07:17:07 +0100,true,,639af854bebccbcbdfbcb455,320
 3113204,d,2022-12-16 11:35:00 +0100,SK0768,Copenhagen/CPH,Sas Scandinavian Airlines System,2,C23,"",2022-12-15 11:36:09 +0100,2022-12-15 11:36:09 +0100,true,,639af854bebccbcbdfbcb456,CR9
 3113205,d,2022-12-16 11:40:00 +0100,AY1222,Helsinki/HEL,Finnair,2,D4,"",2022-12-15 11:41:09 +0100,2022-12-15 11:41:09 +0100,true,,639af980bebccbcbdfbcb670,320
 3113212,d,2022-12-16 11:45:00 +0100,EI0643,Dublin,Aer Lingus,1,A9,"",2022-12-15 11:46:08 +0100,2022-12-15 11:46:08 +0100,true,,639afaacbebccbcbdfbcb938,320
