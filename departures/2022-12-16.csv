@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3113088,d,2022-12-16 06:10:00 +0100,FR2236,Bordeaux,Ryanair,2,C18,Check-in,2022-12-15 06:11:08 +0100,2022-12-16 03:10:07 +0100,true,,639aac28bebccbcbdfbc6475,73H
+3113088,d,2022-12-16 06:10:00 +0100,FR2236,Bordeaux,Ryanair,2,C18,Gate open,2022-12-15 06:11:08 +0100,2022-12-16 04:53:06 +0100,true,,639aac28bebccbcbdfbc6475,73H
 3113089,d,2022-12-16 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,D6,Check-in,2022-12-15 06:31:07 +0100,2022-12-16 04:30:07 +0100,true,,639ab0d8bebccbcbdfbc67de,320
 3113092,d,2022-12-16 06:50:00 +0100,FR5214,Dublin,Ryanair,1,B10,Check-in,2022-12-15 06:51:08 +0100,2022-12-16 03:51:06 +0100,true,,639ab587bebccbcbdfbc6b27,73H
 3113093,d,2022-12-16 07:05:00 +0100,LH1689,Munich,Lufthansa,2,C10,Cancelled,2022-12-15 07:06:07 +0100,2022-12-15 14:39:07 +0100,true,,639ab90cbebccbcbdfbc6e11,319
