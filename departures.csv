@@ -8,7 +8,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3113101,d,2022-12-16 07:25:00 +0100,OS0712,Vienna,Austrian Airlines,2,C12,"",2022-12-15 07:26:10 +0100,2022-12-15 07:26:10 +0100,true,,639abdbbbebccbcbdfbc6f0f,E95
 3113106,d,2022-12-16 07:40:00 +0100,FR3529,Milan/BERGAMO,Ryanair,2,C18,Check-in,2022-12-15 07:41:08 +0100,2022-12-16 04:40:07 +0100,true,,639ac13fbebccbcbdfbc6fb9,73H
 3113108,d,2022-12-16 07:50:00 +0100,LH1403,Frankfurt/FRA,Lufthansa,2,C11,Cancelled,2022-12-15 07:51:08 +0100,2022-12-15 22:54:10 +0100,true,,639ac398bebccbcbdfbc708a,321
-3113119,d,2022-12-16 08:10:00 +0100,FR4143,Budapest,Ryanair,2,C22,"",2022-12-15 08:11:09 +0100,2022-12-15 10:20:08 +0100,true,,639ac848bebccbcbdfbc747d,73H
+3113119,d,2022-12-16 08:10:00 +0100,FR4143,Budapest,Ryanair,2,C22,Check-in,2022-12-15 08:11:09 +0100,2022-12-16 05:12:09 +0100,true,,639ac848bebccbcbdfbc747d,73H
 3113124,d,2022-12-16 08:40:00 +0100,VOE2207,Nantes,Volotea Airlines,2,C19,"",2022-12-15 08:41:08 +0100,2022-12-15 10:22:08 +0100,true,,639acf50bebccbcbdfbc7afa,319
 3113125,d,2022-12-16 08:40:00 +0100,W65620,Milan/MALPENSA,Wizz Air,2,C17,"",2022-12-15 08:41:08 +0100,2022-12-15 10:20:08 +0100,true,,639acf50bebccbcbdfbc7afb,32Q
 3113131,d,2022-12-16 08:50:00 +0100,KL1352,Amsterdam,Klm Royal Dutch Airlines,2,C7,"",2022-12-15 08:51:11 +0100,2022-12-15 10:20:08 +0100,true,,639ad1a8bebccbcbdfbc7b75,E75
