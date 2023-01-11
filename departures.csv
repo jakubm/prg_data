@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3121096,d,2023-01-11 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,Gate closed,2023-01-10 06:01:08 +0100,2023-01-11 05:46:07 +0100,true,,63bcf0d02d38d549343fb5e2,73H
-3121100,d,2023-01-11 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Boarding,2023-01-10 06:31:10 +0100,2023-01-11 05:48:08 +0100,true,,63bcf7d82d38d549343fbd81,320
+3121100,d,2023-01-11 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Last call,2023-01-10 06:31:10 +0100,2023-01-11 06:02:05 +0100,true,,63bcf7d82d38d549343fbd81,320
 3121104,d,2023-01-11 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,D3,Gate open,2023-01-10 06:51:07 +0100,2023-01-11 05:54:08 +0100,true,,63bcfc882d38d549343fc12b,319
 3121107,d,2023-01-11 07:00:00 +0100,BA0853,London/HEATHROW,British Airways,1,A9,Gate open,2023-01-10 07:01:07 +0100,2023-01-11 05:32:06 +0100,true,,63bcfee12d38d549343fc486,32N
 3121108,d,2023-01-11 07:15:00 +0100,LO0530,Warsaw/WAW,Lot Polish Airlines,2,C11,Gate open,2023-01-10 07:16:07 +0100,2023-01-11 05:52:08 +0100,true,,63bd02652d38d549343fc90a,E70
