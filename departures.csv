@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3128746,d,2023-02-08 05:55:00 +0100,QS4144,Salalah Airport,SmartWings,1,B8,"",2023-02-07 05:56:10 +0100,2023-02-07 09:02:10 +0100,true,,63e1d9a42d389d6e36b660c4,7M8
+3128746,d,2023-02-08 05:55:00 +0100,QS4144,Salalah Airport,SmartWings,1,A7,"",2023-02-07 05:56:10 +0100,2023-02-08 00:43:07 +0100,true,,63e1d9a42d389d6e36b660c4,7M8
 3128747,d,2023-02-08 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2023-02-07 06:01:10 +0100,2023-02-07 06:01:10 +0100,true,,63e1dad02d389d6e36b661a4,73W
 3128751,d,2023-02-08 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2023-02-07 06:31:10 +0100,2023-02-07 06:31:10 +0100,true,,63e1e1d82d389d6e36b66a17,319
 3128755,d,2023-02-08 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,D3,"",2023-02-07 06:51:09 +0100,2023-02-07 06:51:09 +0100,true,,63e1e6892d389d6e36b6719d,319
