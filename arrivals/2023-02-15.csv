@@ -77,3 +77,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3131059,a,2023-02-15 22:40:00 +0100,AF1582,Paris/CDG,Air France,2,"","",2023-02-14 22:40:14 +0100,2023-02-14 22:40:14 +0100,true,,63ebffb02d389d6e36be0c77,319
 3131060,a,2023-02-15 22:40:00 +0100,BA0858,London/HEATHROW,British Airways,1,"","",2023-02-14 22:40:14 +0100,2023-02-14 22:40:14 +0100,true,,63ebffb02d389d6e36be0c78,320
 3131061,a,2023-02-15 23:20:00 +0100,QS1201,Dubai/DXB,SmartWings,1,"","",2023-02-14 23:20:11 +0100,2023-02-14 23:20:11 +0100,true,,63ec09102d389d6e36be0c99,7M8
+3131065,a,2023-02-16 00:15:00 +0100,QS2040,Las Palmas,SmartWings,2,"","",2023-02-15 00:15:12 +0100,2023-02-15 00:15:12 +0100,true,,63ec15f42d389d6e36be0da5,73J
