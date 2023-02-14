@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3130547,d,2023-02-14 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate closed,2023-02-13 06:01:11 +0100,2023-02-14 05:43:09 +0100,true,,63e9c3d02d389d6e36bc2f09,73H
-3130551,d,2023-02-14 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Gate open,2023-02-13 06:31:11 +0100,2023-02-14 05:28:07 +0100,true,,63e9cad92d389d6e36bc3b67,319
+3130551,d,2023-02-14 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Boarding,2023-02-13 06:31:11 +0100,2023-02-14 05:53:10 +0100,true,,63e9cad92d389d6e36bc3b67,319
 3130554,d,2023-02-14 06:50:00 +0100,EW4210,Copenhagen/CPH,Eurowings Ag,2,D4,Check-in,2023-02-13 06:51:11 +0100,2023-02-14 04:51:09 +0100,true,,63e9cf882d389d6e36bc4321,320
 3130556,d,2023-02-14 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,D3,Check-in,2023-02-13 06:51:11 +0100,2023-02-14 04:51:09 +0100,true,,63e9cf882d389d6e36bc4322,319
 3130559,d,2023-02-14 06:55:00 +0100,BA0853,London/HEATHROW,British Airways,1,A9,Gate open,2023-02-13 06:56:11 +0100,2023-02-14 05:37:10 +0100,true,,63e9d0b42d389d6e36bc45cf,32N
