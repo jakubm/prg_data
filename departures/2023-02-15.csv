@@ -76,3 +76,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3131051,d,2023-02-15 22:05:00 +0100,LY2524,Tel Aviv/TLV,El Al Israel Airlines,1,A2,"",2023-02-14 22:05:10 +0100,2023-02-14 22:05:10 +0100,true,,63ebf77c2d389d6e36be0adf,73J
 3131062,d,2023-02-15 23:45:00 +0100,QS1286,Tel Aviv/TLV,SmartWings,1,B3,"",2023-02-14 23:46:08 +0100,2023-02-14 23:46:08 +0100,true,,63ec0eec2d389d6e36be0ce9,73H
 3131067,d,2023-02-16 00:50:00 +0100,QS1240,Hurghada,SmartWings,1,B7,"",2023-02-15 00:50:09 +0100,2023-02-15 00:50:09 +0100,true,,63ec1e282d389d6e36be1530,73J
+3131068,d,2023-02-16 01:10:00 +0100,QS1222,Marsa Alam,SmartWings,1,"","",2023-02-15 01:10:09 +0100,2023-02-15 01:10:09 +0100,true,,63ec22d82d389d6e36be1577,7M8
