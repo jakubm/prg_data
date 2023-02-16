@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3131366,d,2023-02-16 03:00:00 +0100,RK6912,Manchester,Ryanair Uk,1,B10,Gate closed,2023-02-15 22:25:09 +0100,2023-02-16 03:11:08 +0100,true,,63ed4d3e2d389d6e36befd2a,73H
+3131366,d,2023-02-16 03:00:00 +0100,RK6912,Manchester,Ryanair Uk,1,B10,Departed 03:46,2023-02-15 22:25:09 +0100,2023-02-16 04:07:08 +0100,true,2023-02-16 03:46:00 +0100,63ed4d3e2d389d6e36befd2a,73H
 3131070,d,2023-02-16 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2023-02-15 06:00:10 +0100,2023-02-16 03:46:07 +0100,true,,63ec66d02d389d6e36be228c,73W
 3131074,d,2023-02-16 06:05:00 +0100,FR2014,London/STANSTED,Ryanair,1,B10,Check-in,2023-02-15 06:05:13 +0100,2023-02-16 03:28:08 +0100,true,,63ec67fc2d389d6e36be234d,73H
 3131075,d,2023-02-16 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2023-02-15 06:30:11 +0100,2023-02-15 09:59:11 +0100,true,,63ec6dd82d389d6e36be2798,319
