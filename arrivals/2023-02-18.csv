@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3131727,a,2023-02-18 07:45:00 +0100,TO4390,Paris/ORLY,Transavia France,2,"",Arrived 07:31,2023-02-17 07:46:12 +0100,2023-02-18 07:33:13 +0100,true,2023-02-18 07:31:00 +0100,63ef226c2d389d6e36c03882,73H
-3131736,a,2023-02-18 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Expected 07:55,2023-02-17 08:21:12 +0100,2023-02-18 07:48:14 +0100,true,2023-02-18 07:55:00 +0100,63ef2aa02d389d6e36c03dcc,E90
+3131736,a,2023-02-18 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"",Arrived 07:55,2023-02-17 08:21:12 +0100,2023-02-18 07:57:11 +0100,true,2023-02-18 07:55:00 +0100,63ef2aa02d389d6e36c03dcc,E90
 3131739,a,2023-02-18 08:40:00 +0100,LX1484,Zurich,Swiss International Air Lines,2,"",Expected 08:30,2023-02-17 08:41:12 +0100,2023-02-18 07:42:11 +0100,true,2023-02-18 08:30:00 +0100,63ef2f502d389d6e36c04373,E90
 3131743,a,2023-02-18 08:55:00 +0100,TK1767,Istanbul/IST,Turkish Airlines,1,"",Expected 08:45,2023-02-17 08:56:11 +0100,2023-02-18 06:38:11 +0100,true,2023-02-18 08:45:00 +0100,63ef32d42d389d6e36c0471f,32Q
 3131744,a,2023-02-18 09:05:00 +0100,LO0523,Warsaw/WAW,Lot Polish Airlines,2,"","",2023-02-17 09:06:13 +0100,2023-02-17 09:06:13 +0100,true,,63ef352c2d389d6e36c04a45,E70
