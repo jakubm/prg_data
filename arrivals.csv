@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3132342,a,2023-02-20 06:30:00 +0100,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 07:35,2023-02-19 06:31:15 +0100,2023-02-20 06:03:12 +0100,true,2023-02-20 07:35:00 +0100,63f1b3d82d389d6e36c24804,320
+3132342,a,2023-02-20 06:30:00 +0100,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 07:40,2023-02-19 06:31:15 +0100,2023-02-20 07:10:12 +0100,true,2023-02-20 07:40:00 +0100,63f1b3d82d389d6e36c24804,320
 3132373,a,2023-02-20 08:15:00 +0100,HV5235,Eindhoven,Transavia.com,2,"","",2023-02-19 08:16:12 +0100,2023-02-19 08:16:12 +0100,true,,63f1cc742d389d6e36c25c16,73H
 3132374,a,2023-02-20 08:20:00 +0100,EW9772,Duesseldorf/DUS,Eurowings Ag,2,"","",2023-02-19 08:21:13 +0100,2023-02-19 08:21:13 +0100,true,,63f1cda02d389d6e36c25c2e,320
 3132375,a,2023-02-20 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2023-02-19 08:21:13 +0100,2023-02-19 08:21:13 +0100,true,,63f1cda02d389d6e36c25c2f,E90
