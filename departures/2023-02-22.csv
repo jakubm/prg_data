@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3132962,d,2023-02-22 05:55:00 +0100,QS4144,Salalah Airport,SmartWings,1,A6,Check-in,2023-02-21 05:56:10 +0100,2023-02-22 03:27:08 +0100,true,,63f44ea42d389d6e36c4cc34,7M8
-3132963,d,2023-02-22 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2023-02-21 06:01:10 +0100,2023-02-21 06:01:10 +0100,true,,63f44fd02d389d6e36c4cd40,73H
+3132963,d,2023-02-22 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2023-02-21 06:01:10 +0100,2023-02-22 03:47:06 +0100,true,,63f44fd02d389d6e36c4cd40,73H
 3132967,d,2023-02-22 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2023-02-21 06:31:10 +0100,2023-02-21 06:31:10 +0100,true,,63f456d82d389d6e36c4d773,319
 3132971,d,2023-02-22 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,D3,"",2023-02-21 06:51:10 +0100,2023-02-21 06:51:10 +0100,true,,63f45b882d389d6e36c4dfca,319
 3132974,d,2023-02-22 07:00:00 +0100,BA0853,London/HEATHROW,British Airways,1,A9,"",2023-02-21 07:01:10 +0100,2023-02-21 07:01:10 +0100,true,,63f45de02d389d6e36c4e2ca,320
