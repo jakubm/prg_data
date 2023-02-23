@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3133271,a,2023-02-23 08:00:00 +0100,9U0519,Chisinau,Air Moldova,1,"","",2023-02-22 08:01:12 +0100,2023-02-22 08:01:12 +0100,true,,63f5bd712d389d6e36c5d3f3,320
+3133271,a,2023-02-23 08:00:00 +0100,9U0519,Chisinau,Air Moldova,1,"",Expected 07:55,2023-02-22 08:01:12 +0100,2023-02-23 06:18:08 +0100,true,2023-02-23 07:55:00 +0100,63f5bd712d389d6e36c5d3f3,320
 3133272,a,2023-02-23 08:05:00 +0100,W65619,Milan/MALPENSA,Wizz Air,2,"","",2023-02-22 08:06:11 +0100,2023-02-22 08:06:11 +0100,true,,63f5be9c2d389d6e36c5d4c0,32Q
 3133273,a,2023-02-23 08:20:00 +0100,EW9772,Duesseldorf/DUS,Eurowings Ag,2,"","",2023-02-22 08:21:11 +0100,2023-02-22 08:21:11 +0100,true,,63f5c2202d389d6e36c5d687,32A
 3133274,a,2023-02-23 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2023-02-22 08:21:11 +0100,2023-02-22 08:21:11 +0100,true,,63f5c2202d389d6e36c5d688,E90
