@@ -101,3 +101,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3134893,a,2023-02-27 23:05:00 +0100,QS2037,Tenerife/SUR,SmartWings,2,"","",2023-02-26 23:05:11 +0100,2023-02-26 23:05:11 +0100,true,,63fbd78c2d389d6e36cb3a90,73J
 3134894,a,2023-02-27 23:20:00 +0100,QS1201,Dubai/DXB,SmartWings,1,"","",2023-02-26 23:20:11 +0100,2023-02-26 23:20:11 +0100,true,,63fbdb102d389d6e36cb3b02,7M8
 3134895,a,2023-02-27 23:25:00 +0100,QS4207,Ras Al Khaimah,SmartWings,1,"","",2023-02-26 23:26:09 +0100,2023-02-26 23:26:09 +0100,true,,63fbdc3c2d389d6e36cb3b06,7M8
+3134899,a,2023-02-28 00:45:00 +0100,QS1153,Malaga,SmartWings,2,"","",2023-02-27 00:45:11 +0100,2023-02-27 00:45:11 +0100,true,,63fbeefc2d389d6e36cb3eab,73G
