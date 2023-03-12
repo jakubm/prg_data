@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3138796,d,2023-03-12 05:55:00 +0100,QS4210,Salalah Airport,SmartWings,1,B7,"",2023-03-11 05:56:08 +0100,2023-03-11 10:09:08 +0100,true,,640c09a42d382ec2592e7005,7M8
+3138796,d,2023-03-12 05:55:00 +0100,QS4210,Salalah Airport,SmartWings,1,B7,Check-in,2023-03-11 05:56:08 +0100,2023-03-12 03:24:08 +0100,true,,640c09a42d382ec2592e7005,7M8
 3138797,d,2023-03-12 06:00:00 +0100,FR7956,Charleroi,Ryanair,2,C22,Check-in,2023-03-11 06:01:09 +0100,2023-03-12 03:00:08 +0100,true,,640c0ad22d382ec2592e7177,73H
 3138798,d,2023-03-12 06:00:00 +0100,FR7958,Amman,Ryanair,1,B10,Check-in,2023-03-11 06:01:09 +0100,2023-03-12 03:01:08 +0100,true,,640c0ad32d382ec2592e7178,73H
 3138799,d,2023-03-12 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2023-03-11 06:01:09 +0100,2023-03-11 06:01:09 +0100,true,,640c0ad32d382ec2592e7179,73H
