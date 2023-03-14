@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3139543,d,2023-03-14 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2023-03-13 06:01:11 +0100,2023-03-13 06:01:11 +0100,true,,640eadd22d382ec25930c196,73H
+3139543,d,2023-03-14 06:00:00 +0100,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2023-03-13 06:01:11 +0100,2023-03-14 03:48:06 +0100,true,,640eadd22d382ec25930c196,73H
 3139547,d,2023-03-14 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,"",2023-03-13 06:31:11 +0100,2023-03-13 06:31:11 +0100,true,,640eb4da2d382ec25930cf00,320
 3139550,d,2023-03-14 06:50:00 +0100,EW4210,Copenhagen/CPH,Eurowings Ag,2,C22,"",2023-03-13 06:51:09 +0100,2023-03-13 09:58:10 +0100,true,,640eb9882d382ec25930ddbb,320
 3139552,d,2023-03-14 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,D3,"",2023-03-13 06:51:09 +0100,2023-03-13 06:51:09 +0100,true,,640eb9882d382ec25930ddbc,319
