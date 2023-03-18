@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3140866,a,2023-03-18 06:50:00 +0100,QS3223,Marsa Alam,SmartWings,1,"",Expected 06:40,2023-03-17 06:51:10 +0100,2023-03-18 02:07:11 +0100,true,2023-03-18 06:40:00 +0100,6413ff882d382ec2593529ea,73H
+3140866,a,2023-03-18 06:50:00 +0100,QS3223,Marsa Alam,SmartWings,1,"",Expected 06:25,2023-03-17 06:51:10 +0100,2023-03-18 05:48:09 +0100,true,2023-03-18 06:25:00 +0100,6413ff882d382ec2593529ea,73H
 3140883,a,2023-03-18 07:45:00 +0100,TO4390,Paris/ORLY,Transavia France,2,"","",2023-03-17 07:46:13 +0100,2023-03-17 07:46:13 +0100,true,,64140c6c2d382ec2593536b5,73H
 3140892,a,2023-03-18 08:20:00 +0100,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2023-03-17 08:21:11 +0100,2023-03-17 08:21:11 +0100,true,,641414a02d382ec259353ae1,E90
 3140895,a,2023-03-18 08:40:00 +0100,LX1484,Zurich,Swiss International Air Lines,2,"","",2023-03-17 08:41:12 +0100,2023-03-17 08:41:12 +0100,true,,641419502d382ec2593544f1,290
