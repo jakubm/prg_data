@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3142801,d,2023-03-24 06:10:00 +0100,FR2236,Bordeaux,Ryanair,2,C18,Gate closed,2023-03-23 06:11:08 +0100,2023-03-24 05:55:08 +0100,true,,641bdf282d382ec2593c8dfa,73H
-3142802,d,2023-03-24 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Boarding,2023-03-23 06:31:09 +0100,2023-03-24 05:57:08 +0100,true,,641be3dc2d382ec2593c953f,319
+3142802,d,2023-03-24 06:30:00 +0100,AF1583,Paris/CDG,Air France,2,C2,Last call,2023-03-23 06:31:09 +0100,2023-03-24 06:01:08 +0100,true,,641be3dc2d382ec2593c953f,319
 3142806,d,2023-03-24 06:50:00 +0100,FR5214,Dublin,Ryanair,1,B10,Boarding,2023-03-23 06:51:08 +0100,2023-03-24 05:51:07 +0100,true,,641be8892d382ec2593c9cad,73H
 3142807,d,2023-03-24 06:50:00 +0100,SN2816,Brussels,Brussels Airlines,2,D3,Gate open,2023-03-23 06:51:08 +0100,2023-03-24 05:54:07 +0100,true,,641be8892d382ec2593c9cae,319
 3142810,d,2023-03-24 07:05:00 +0100,LH1689,Munich,Lufthansa,2,C3,Check-in,2023-03-23 07:06:10 +0100,2023-03-24 05:06:08 +0100,true,,641bec0c2d382ec2593c9f70,321
