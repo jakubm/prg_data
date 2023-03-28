@@ -117,3 +117,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3144932,a,2023-03-29 23:15:00 +0200,LH1402,Frankfurt/FRA,Lufthansa,2,"","",2023-03-28 23:16:11 +0200,2023-03-28 23:16:11 +0200,true,,642358d4bebc5ff3fe236552,321
 3144937,a,2023-03-29 23:30:00 +0200,BA0858,London/HEATHROW,British Airways,1,"","",2023-03-28 23:31:10 +0200,2023-03-28 23:31:10 +0200,true,,64235c58bebc5ff3fe23664f,320
 3144938,a,2023-03-29 23:30:00 +0200,EW4215,Barcelona,Eurowings Ag,2,"","",2023-03-28 23:31:10 +0200,2023-03-28 23:31:10 +0200,true,,64235c58bebc5ff3fe236650,320
+3144942,a,2023-03-30 00:15:00 +0200,QS2040,Las Palmas,SmartWings,2,"","",2023-03-29 00:16:11 +0200,2023-03-29 00:16:11 +0200,true,,642366e4bebc5ff3fe2366ad,73J
