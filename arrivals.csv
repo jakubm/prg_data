@@ -113,3 +113,5 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3145340,a,2023-03-30 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2023-03-29 23:51:10 +0200,2023-03-29 23:51:10 +0200,true,,6424b288bebc5ff3fe24baf7,73G
 3145341,a,2023-03-31 00:00:00 +0200,FR6838,Manchester,Ryanair,1,"","",2023-03-30 00:01:11 +0200,2023-03-30 00:01:11 +0200,true,,6424b4e0bebc5ff3fe24bbe4,73H
 3145342,a,2023-03-31 00:20:00 +0200,QS1201,Dubai/DXB,SmartWings,1,"","",2023-03-30 00:21:10 +0200,2023-03-30 00:21:10 +0200,true,,6424b990bebc5ff3fe24bdab,7M8
+3145344,a,2023-03-31 00:45:00 +0200,QS1055,Valencia,SmartWings,2,"","",2023-03-30 00:46:10 +0200,2023-03-30 00:46:10 +0200,true,,6424bf6cbebc5ff3fe24c153,73G
+3145343,a,2023-03-31 00:45:00 +0200,QS1153,Malaga,SmartWings,2,"","",2023-03-30 00:46:10 +0200,2023-03-30 00:46:10 +0200,true,,6424bf6cbebc5ff3fe24c152,73J
