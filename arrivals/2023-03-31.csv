@@ -132,3 +132,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3145783,a,2023-03-31 23:20:00 +0200,BA0858,London/HEATHROW,British Airways,1,"","",2023-03-30 23:21:11 +0200,2023-03-30 23:21:11 +0200,true,,6425fd00bebc5ff3fe261b51,320
 3145787,a,2023-03-31 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2023-03-30 23:51:11 +0200,2023-03-30 23:51:11 +0200,true,,64260408bebc5ff3fe261c35,73H
 3145789,a,2023-04-01 00:20:00 +0200,QS1201,Dubai/DXB,SmartWings,1,"","",2023-03-31 00:31:12 +0200,2023-03-31 00:31:12 +0200,true,,64260d6abebc5ff3fe261f42,73H
+3145791,a,2023-04-01 00:45:00 +0200,QS1153,Malaga,SmartWings,2,"","",2023-03-31 00:46:10 +0200,2023-03-31 00:46:10 +0200,true,,642610edbebc5ff3fe261fd2,73G
