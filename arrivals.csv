@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3145345,a,2023-03-31 04:00:00 +0200,QS4147,Sal Island,SmartWings,1,"",Expected 04:15,2023-03-30 04:01:10 +0200,2023-03-30 22:13:09 +0200,true,2023-03-31 04:15:00 +0200,6424ed22bebc5ff3fe24c5a2,7M8
+3145345,a,2023-03-31 04:00:00 +0200,QS4147,Sal Island,SmartWings,1,"",Expected 04:10,2023-03-30 04:01:10 +0200,2023-03-31 00:31:11 +0200,true,2023-03-31 04:10:00 +0200,6424ed22bebc5ff3fe24c5a2,7M8
 3145369,a,2023-03-31 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"","",2023-03-30 06:56:10 +0200,2023-03-30 06:56:10 +0200,true,,64251624bebc5ff3fe24de40,320
 3145372,a,2023-03-31 07:15:00 +0200,FR3528,Milan/BERGAMO,Ryanair,2,"","",2023-03-30 07:16:10 +0200,2023-03-30 07:16:10 +0200,true,,64251ad5bebc5ff3fe24e1d9,7M8
 3145377,a,2023-03-31 07:35:00 +0200,FR4091,Budapest,Ryanair,2,"","",2023-03-30 07:36:11 +0200,2023-03-30 07:36:11 +0200,true,,64251f85bebc5ff3fe24e533,73H
@@ -131,3 +131,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3145777,a,2023-03-31 23:10:00 +0200,LH1402,Frankfurt/FRA,Lufthansa,2,"","",2023-03-30 23:11:10 +0200,2023-03-30 23:11:10 +0200,true,,6425faa8bebc5ff3fe261af9,321
 3145783,a,2023-03-31 23:20:00 +0200,BA0858,London/HEATHROW,British Airways,1,"","",2023-03-30 23:21:11 +0200,2023-03-30 23:21:11 +0200,true,,6425fd00bebc5ff3fe261b51,320
 3145787,a,2023-03-31 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2023-03-30 23:51:11 +0200,2023-03-30 23:51:11 +0200,true,,64260408bebc5ff3fe261c35,73H
+3145789,a,2023-04-01 00:20:00 +0200,QS1201,Dubai/DXB,SmartWings,1,"","",2023-03-31 00:31:12 +0200,2023-03-31 00:31:12 +0200,true,,64260d6abebc5ff3fe261f42,73H
