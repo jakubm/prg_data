@@ -130,3 +130,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3147006,d,2023-04-04 00:50:00 +0200,QS1240,Hurghada,SmartWings,1,A7,"",2023-04-03 00:51:09 +0200,2023-04-03 00:51:09 +0200,true,,642a0698bebc5ff3fe2a8331,73J
 3147009,d,2023-04-04 01:05:00 +0200,QS2504,Marsa Alam,SmartWings,1,A6,"",2023-04-03 01:05:10 +0200,2023-04-03 01:05:10 +0200,true,,642a0a1cbebc5ff3fe2a84ad,7M8
 3147010,d,2023-04-04 01:10:00 +0200,QS1222,Marsa Alam,SmartWings,1,A4,"",2023-04-03 01:10:10 +0200,2023-04-03 01:10:10 +0200,true,,642a0b48bebc5ff3fe2a84b9,73H
+3147012,d,2023-04-04 01:50:00 +0200,QS2502,Hurghada,SmartWings,1,A3,"",2023-04-03 01:50:10 +0200,2023-04-03 01:50:10 +0200,true,,642a14a8bebc5ff3fe2a8608,73H
