@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3146616,a,2023-04-03 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 06:40,2023-04-02 06:55:12 +0200,2023-04-03 03:00:10 +0200,true,2023-04-03 06:40:00 +0200,64290aa4bebc5ff3fe292411,32A
+3146616,a,2023-04-03 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 06:45,2023-04-02 06:55:12 +0200,2023-04-03 03:39:12 +0200,true,2023-04-03 06:45:00 +0200,64290aa4bebc5ff3fe292411,32A
 3146623,a,2023-04-03 07:25:00 +0200,EW0772,Cologne,Eurowings Ag,2,"","",2023-04-02 07:25:13 +0200,2023-04-02 07:25:13 +0200,true,,642911acbebc5ff3fe292bc2,32A
 3146628,a,2023-04-03 07:45:00 +0200,W65439,Venice/VCE,Wizz Air,2,"","",2023-04-02 07:46:13 +0200,2023-04-02 07:46:13 +0200,true,,6429165ebebc5ff3fe292f95,32Q
 3146629,a,2023-04-03 07:45:00 +0200,W65619,Milan/MALPENSA,Wizz Air,2,"","",2023-04-02 07:46:13 +0200,2023-04-02 07:46:13 +0200,true,,6429165ebebc5ff3fe292f96,32Q
