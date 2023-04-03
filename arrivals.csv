@@ -108,3 +108,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3147384,a,2023-04-04 22:45:00 +0200,BA0858,London/HEATHROW,British Airways,1,"","",2023-04-03 22:46:11 +0200,2023-04-03 22:46:11 +0200,true,,642b3accbebc5ff3fe2be643,320
 3147385,a,2023-04-04 23:05:00 +0200,QS2037,Tenerife/SUR,SmartWings,2,"","",2023-04-03 23:06:12 +0200,2023-04-03 23:06:12 +0200,true,,642b3f7cbebc5ff3fe2be84b,73H
 3147386,a,2023-04-04 23:15:00 +0200,LH1402,Frankfurt/FRA,Lufthansa,2,"","",2023-04-03 23:16:11 +0200,2023-04-03 23:16:11 +0200,true,,642b41d4bebc5ff3fe2beb32,321
+3147395,a,2023-04-05 00:20:00 +0200,QS1201,Dubai/DXB,SmartWings,1,"","",2023-04-04 00:21:09 +0200,2023-04-04 00:21:09 +0200,true,,642b5110bebc5ff3fe2bf0d6,7M8
