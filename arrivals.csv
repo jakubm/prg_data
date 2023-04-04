@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3147039,a,2023-04-04 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"",Expected 06:50,2023-04-03 07:20:13 +0200,2023-04-04 06:08:13 +0200,true,2023-04-04 06:50:00 +0200,642a61ffbebc5ff3fe2ab0e5,73H
+3147039,a,2023-04-04 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"",Expected 06:50,2023-04-03 07:20:13 +0200,2023-04-04 06:49:09 +0200,true,2023-04-04 06:50:00 +0200,642a61ffbebc5ff3fe2ab0e5,73H
 3147043,a,2023-04-04 07:30:00 +0200,W65439,Venice/VCE,Wizz Air,2,"",Expected 06:55,2023-04-03 07:31:10 +0200,2023-04-04 06:26:09 +0200,true,2023-04-04 06:55:00 +0200,642a6457bebc5ff3fe2ab1e9,32Q
 3147045,a,2023-04-04 08:00:00 +0200,9U0519,Chisinau,Air Moldova,1,"",Cancelled,2023-04-03 08:01:11 +0200,2023-04-03 11:55:12 +0200,true,,642a6b60bebc5ff3fe2ab872,73G
 3147044,a,2023-04-04 08:00:00 +0200,W68423,Naples,Wizz Air,2,"",Expected 07:45,2023-04-03 08:01:11 +0200,2023-04-04 06:14:09 +0200,true,2023-04-04 07:45:00 +0200,642a6b60bebc5ff3fe2ab871,32Q
