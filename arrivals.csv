@@ -120,3 +120,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3147802,a,2023-04-05 22:30:00 +0200,KL1359,Amsterdam,Klm Royal Dutch Airlines,2,"","",2023-04-04 22:31:11 +0200,2023-04-04 22:31:11 +0200,true,,642c88c8bebc5ff3fe2d2dd6,73H
 3147805,a,2023-04-05 23:30:00 +0200,BA0858,London/HEATHROW,British Airways,1,"","",2023-04-04 23:31:10 +0200,2023-04-04 23:31:10 +0200,true,,642c96d8bebc5ff3fe2d2ff8,320
 3147806,a,2023-04-05 23:30:00 +0200,EW4215,Barcelona,Eurowings Ag,2,"","",2023-04-04 23:31:10 +0200,2023-04-04 23:31:10 +0200,true,,642c96d8bebc5ff3fe2d2ff9,32A
+3147810,a,2023-04-06 00:15:00 +0200,QS2040,Las Palmas,SmartWings,2,"","",2023-04-05 00:16:12 +0200,2023-04-05 00:16:12 +0200,true,,642ca164bebc5ff3fe2d311b,73H
