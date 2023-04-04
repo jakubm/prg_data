@@ -52,7 +52,7 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3147208,a,2023-04-04 13:35:00 +0200,KL1355,Amsterdam,Klm Royal Dutch Airlines,2,"","",2023-04-03 13:36:13 +0200,2023-04-03 13:36:13 +0200,true,,642ab9e3bebc5ff3fe2b3922,73H
 3147212,a,2023-04-04 13:40:00 +0200,FR3528,Milan/BERGAMO,Ryanair,2,"","",2023-04-03 13:41:11 +0200,2023-04-03 13:41:11 +0200,true,,642abb10bebc5ff3fe2b3a5c,73H
 3147213,a,2023-04-04 13:45:00 +0200,BT0481,Riga,Air Baltic,2,"","",2023-04-03 13:46:11 +0200,2023-04-03 13:46:11 +0200,true,,642abc3cbebc5ff3fe2b3c5d,CR9
-3147215,a,2023-04-04 13:45:00 +0200,TK1771,Istanbul/IST,Turkish Airlines,1,"","",2023-04-03 13:46:11 +0200,2023-04-03 13:46:11 +0200,true,,642abc3cbebc5ff3fe2b3c5e,321
+3147215,a,2023-04-04 13:45:00 +0200,TK1771,Istanbul/IST,Turkish Airlines,1,"",Expected 13:30,2023-04-03 13:46:11 +0200,2023-04-04 11:34:09 +0200,true,2023-04-04 13:30:00 +0200,642abc3cbebc5ff3fe2b3c5e,32B
 3147217,a,2023-04-04 14:00:00 +0200,W68303,Rome/FIUMICINO,Wizz Air,2,"","",2023-04-03 14:01:11 +0200,2023-04-03 14:01:11 +0200,true,,642abfc2bebc5ff3fe2b452f,32Q
 3147226,a,2023-04-04 14:05:00 +0200,LX1486,Zurich,Swiss International Air Lines,2,"","",2023-04-03 14:06:11 +0200,2023-04-03 14:06:11 +0200,true,,642ac0ecbebc5ff3fe2b4773,223
 3147227,a,2023-04-04 14:15:00 +0200,FR8259,Zadar,Ryanair,2,"","",2023-04-03 14:16:11 +0200,2023-04-03 14:16:11 +0200,true,,642ac345bebc5ff3fe2b4b9d,73H
