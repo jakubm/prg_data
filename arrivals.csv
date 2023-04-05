@@ -1,7 +1,7 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3147402,a,2023-04-05 04:45:00 +0200,QS4104,Sal Island,SmartWings,1,"",Arrived 04:27,2023-04-04 04:46:10 +0200,2023-04-05 04:30:10 +0200,true,2023-04-05 04:27:00 +0200,642b8f2cbebc5ff3fe2bfdb1,7M8
 3147406,a,2023-04-05 06:00:00 +0200,LO6298,Zanzibar,Lot Polish Airlines,1,"",Arrived 05:54,2023-04-04 06:01:10 +0200,2023-04-05 05:56:08 +0200,true,2023-04-05 05:54:00 +0200,642ba0c2bebc5ff3fe2c146f,789
-3147431,a,2023-04-05 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 06:35,2023-04-04 06:56:11 +0200,2023-04-05 05:57:09 +0200,true,2023-04-05 06:35:00 +0200,642bada4bebc5ff3fe2c1f89,32A
+3147431,a,2023-04-05 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 06:40,2023-04-04 06:56:11 +0200,2023-04-05 06:23:11 +0200,true,2023-04-05 06:40:00 +0200,642bada4bebc5ff3fe2c1f89,32A
 3147437,a,2023-04-05 07:45:00 +0200,W65619,Milan/MALPENSA,Wizz Air,2,"","",2023-04-04 07:46:10 +0200,2023-04-04 07:46:10 +0200,true,,642bb95dbebc5ff3fe2c260a,32Q
 3147438,a,2023-04-05 08:00:00 +0200,FR2235,Bordeaux,Ryanair,2,"",Expected 08:15,2023-04-04 08:01:11 +0200,2023-04-05 06:13:09 +0200,true,2023-04-05 08:15:00 +0200,642bbce1bebc5ff3fe2c293b,73H
 3147439,a,2023-04-05 08:10:00 +0200,KL1351,Amsterdam,Klm Royal Dutch Airlines,2,"","",2023-04-04 08:11:11 +0200,2023-04-04 08:11:11 +0200,true,,642bbf39bebc5ff3fe2c2bcf,E90
