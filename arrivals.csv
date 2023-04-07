@@ -138,3 +138,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3148697,a,2023-04-08 00:20:00 +0200,QS1201,Dubai/DXB,SmartWings,1,"","",2023-04-07 00:21:10 +0200,2023-04-07 00:21:10 +0200,true,,642f4590bebc5ff3fe3031f6,7M8
 3148700,a,2023-04-08 00:45:00 +0200,QS1055,Valencia,SmartWings,2,"","",2023-04-07 00:46:10 +0200,2023-04-07 00:46:10 +0200,true,,642f4b6cbebc5ff3fe30356a,73G
 3148701,a,2023-04-08 00:45:00 +0200,QS1153,Malaga,SmartWings,2,"","",2023-04-07 00:46:10 +0200,2023-04-07 00:46:10 +0200,true,,642f4b6cbebc5ff3fe30356b,73H
+3148707,a,2023-04-08 02:30:00 +0200,QS4106,Sal Island,SmartWings,1,"","",2023-04-07 02:31:11 +0200,2023-04-07 02:31:11 +0200,true,,642f6408bebc5ff3fe3039f6,7M8
