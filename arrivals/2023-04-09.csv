@@ -132,3 +132,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3149511,a,2023-04-09 23:55:00 +0200,QS2539,Marsa Alam,SmartWings,1,"","",2023-04-08 23:56:10 +0200,2023-04-08 23:56:10 +0200,true,,6431e2b4bebc5ff3fe32cc98,73H
 3149512,a,2023-04-10 00:10:00 +0200,QS1153,Malaga,SmartWings,2,"","",2023-04-09 00:11:10 +0200,2023-04-09 00:11:10 +0200,true,,6431e638bebc5ff3fe32cda6,73J
 3149513,a,2023-04-10 00:45:00 +0200,QS1055,Valencia,SmartWings,2,"","",2023-04-09 00:46:09 +0200,2023-04-09 00:46:09 +0200,true,,6431ee6dbebc5ff3fe32d21d,73G
+3149518,a,2023-04-10 01:40:00 +0200,QS1201A,Dubai/DXB,SmartWings,1,"","",2023-04-09 01:41:10 +0200,2023-04-09 01:41:10 +0200,true,,6431fb50bebc5ff3fe32d803,7M8
