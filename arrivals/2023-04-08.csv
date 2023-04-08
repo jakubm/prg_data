@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3148737,a,2023-04-08 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"","",2023-04-07 07:21:10 +0200,2023-04-07 07:21:10 +0200,true,,642fa800bebc5ff3fe3061d2,73H
+3148737,a,2023-04-08 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"",Expected 06:50,2023-04-07 07:21:10 +0200,2023-04-08 04:07:10 +0200,true,2023-04-08 06:50:00 +0200,642fa800bebc5ff3fe3061d2,73H
 3148741,a,2023-04-08 08:00:00 +0200,EW9772,Duesseldorf/DUS,Eurowings Ag,2,"","",2023-04-07 08:01:12 +0200,2023-04-07 08:01:12 +0200,true,,642fb160bebc5ff3fe306d29,32N
 3148742,a,2023-04-08 08:00:00 +0200,W68423,Naples,Wizz Air,2,"","",2023-04-07 08:01:12 +0200,2023-04-07 08:01:12 +0200,true,,642fb160bebc5ff3fe306d2a,321
 3148743,a,2023-04-08 08:05:00 +0200,W65619,Milan/MALPENSA,Wizz Air,2,"","",2023-04-07 08:06:12 +0200,2023-04-07 08:06:12 +0200,true,,642fb28cbebc5ff3fe306e69,321
