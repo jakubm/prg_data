@@ -126,3 +126,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3149494,d,2023-04-09 22:15:00 +0200,LY2524,Tel Aviv/TLV,El Al Israel Airlines,1,A2,"",2023-04-08 22:16:08 +0200,2023-04-08 22:16:08 +0200,true,,6431cb44bebc5ff3fe32c8f1,73H
 3149495,d,2023-04-09 22:20:00 +0200,W63280,Bucharest/OTP,Wizz Air,1,B10,"",2023-04-08 22:21:09 +0200,2023-04-08 22:21:09 +0200,true,,6431cc70bebc5ff3fe32c909,32A
 3149506,d,2023-04-09 23:45:00 +0200,QS1286,Tel Aviv/TLV,SmartWings,1,B2,"",2023-04-08 23:46:08 +0200,2023-04-08 23:46:08 +0200,true,,6431e05dbebc5ff3fe32cc75,73J
+3149514,d,2023-04-10 00:50:00 +0200,QS1240,Hurghada,SmartWings,1,B7,"",2023-04-09 00:51:08 +0200,2023-04-09 00:51:08 +0200,true,,6431ef98bebc5ff3fe32d2fe,7M8
