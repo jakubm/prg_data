@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3149088,a,2023-04-09 03:10:00 +0200,QS1201,Dubai/DXB,SmartWings,1,"",Expected 02:55,2023-04-08 03:11:09 +0200,2023-04-08 20:44:09 +0200,true,2023-04-09 02:55:00 +0200,6430bee8bebc5ff3fe31ba05,7M8
+3149088,a,2023-04-09 03:10:00 +0200,QS1201,Dubai/DXB,SmartWings,1,"",Expected 03:00,2023-04-08 03:11:09 +0200,2023-04-09 02:21:09 +0200,true,2023-04-09 03:00:00 +0200,6430bee8bebc5ff3fe31ba05,7M8
 3149101,a,2023-04-09 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"","",2023-04-08 07:21:11 +0200,2023-04-08 07:21:11 +0200,true,,6430f980bebc5ff3fe31db11,73H
 3149107,a,2023-04-09 07:45:00 +0200,W65619,Milan/MALPENSA,Wizz Air,2,"","",2023-04-08 07:46:10 +0200,2023-04-08 07:46:10 +0200,true,,6430ff5cbebc5ff3fe31df1f,32Q
 3149108,a,2023-04-09 08:00:00 +0200,9U0519,Chisinau,Air Moldova,1,"","",2023-04-08 08:01:11 +0200,2023-04-08 08:01:11 +0200,true,,643102e0bebc5ff3fe31e16c,733
