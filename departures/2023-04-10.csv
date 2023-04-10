@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3149519,d,2023-04-10 06:05:00 +0200,FR7952,Copenhagen/CPH,Ryanair,2,D6,Check-in,2023-04-09 06:06:09 +0200,2023-04-10 03:08:07 +0200,true,,6432396cbebc5ff3fe32e8f7,73H
+3149519,d,2023-04-10 06:05:00 +0200,FR7952,Copenhagen/CPH,Ryanair,2,D6,Gate open,2023-04-09 06:06:09 +0200,2023-04-10 04:43:07 +0200,true,,6432396cbebc5ff3fe32e8f7,73H
 3149520,d,2023-04-10 06:05:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C3,Check-in,2023-04-09 06:06:09 +0200,2023-04-10 04:05:08 +0200,true,,6432396cbebc5ff3fe32e8f8,321
 3149528,d,2023-04-10 06:20:00 +0200,FR7773,Kosice,Ryanair,2,C22,Check-in,2023-04-09 06:21:09 +0200,2023-04-10 03:21:07 +0200,true,,64323cf0bebc5ff3fe32ec28,73H
 3149529,d,2023-04-10 06:25:00 +0200,EW4210,Copenhagen/CPH,Eurowings Ag,2,D2,Check-in,2023-04-09 06:26:09 +0200,2023-04-10 04:26:07 +0200,true,,64323e1cbebc5ff3fe32eca6,32A
