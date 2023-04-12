@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3150352,d,2023-04-12 04:50:00 +0200,EW4218,Larnaca,Eurowings Ag,1,B15,Check-in,2023-04-11 04:51:09 +0200,2023-04-12 02:51:07 +0200,true,,6434cad8bebc5ff3fe35caa7,319
+3150352,d,2023-04-12 04:50:00 +0200,EW4218,Larnaca,Eurowings Ag,1,B15,Gate open,2023-04-11 04:51:09 +0200,2023-04-12 05:21:07 +0200,true,,6434cad8bebc5ff3fe35caa7,319
 3150354,d,2023-04-12 06:00:00 +0200,QS4144,Salalah Airport,SmartWings,1,A6,Gate open,2023-04-11 06:01:08 +0200,2023-04-12 04:29:07 +0200,true,,6434db40bebc5ff3fe35d8fd,7M8
 3150356,d,2023-04-12 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2023-04-11 06:06:09 +0200,2023-04-12 05:04:07 +0200,true,,6434dc6cbebc5ff3fe35d999,73H
 3150360,d,2023-04-12 06:05:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C6,Gate open,2023-04-11 06:06:09 +0200,2023-04-12 05:04:07 +0200,true,,6434dc6cbebc5ff3fe35d99a,32N
