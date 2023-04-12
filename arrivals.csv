@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3150351,a,2023-04-12 04:45:00 +0200,QS4104,Sal Island,SmartWings,1,"",Expected 05:40,2023-04-11 04:46:11 +0200,2023-04-12 05:12:10 +0200,true,2023-04-12 05:40:00 +0200,6434c9adbebc5ff3fe35ca99,7M8
+3150351,a,2023-04-12 04:45:00 +0200,QS4104,Sal Island,SmartWings,1,"",Arrived 05:43,2023-04-11 04:46:11 +0200,2023-04-12 05:45:09 +0200,true,2023-04-12 05:43:00 +0200,6434c9adbebc5ff3fe35ca99,7M8
 3150355,a,2023-04-12 06:00:00 +0200,LO6298,Zanzibar,Lot Polish Airlines,1,"",Expected 06:50,2023-04-11 06:01:10 +0200,2023-04-12 05:21:09 +0200,true,2023-04-12 06:50:00 +0200,6434db40bebc5ff3fe35d8fc,789
 3150380,a,2023-04-12 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 07:00,2023-04-11 06:56:11 +0200,2023-04-12 02:46:10 +0200,true,2023-04-12 07:00:00 +0200,6434e824bebc5ff3fe35e3cf,32A
 3150386,a,2023-04-12 07:45:00 +0200,W65619,Milan/MALPENSA,Wizz Air,2,"","",2023-04-11 07:46:11 +0200,2023-04-11 07:46:11 +0200,true,,6434f3ddbebc5ff3fe35e8ef,32Q
