@@ -1,8 +1,8 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3150352,d,2023-04-12 04:50:00 +0200,EW4218,Larnaca,Eurowings Ag,1,B15,Check-in,2023-04-11 04:51:09 +0200,2023-04-12 02:51:07 +0200,true,,6434cad8bebc5ff3fe35caa7,319
 3150354,d,2023-04-12 06:00:00 +0200,QS4144,Salalah Airport,SmartWings,1,A6,Check-in,2023-04-11 06:01:08 +0200,2023-04-12 03:25:08 +0200,true,,6434db40bebc5ff3fe35d8fd,7M8
-3150356,d,2023-04-12 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2023-04-11 06:06:09 +0200,2023-04-11 06:06:09 +0200,true,,6434dc6cbebc5ff3fe35d999,73H
-3150360,d,2023-04-12 06:05:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C6,"",2023-04-11 06:06:09 +0200,2023-04-11 06:06:09 +0200,true,,6434dc6cbebc5ff3fe35d99a,32N
+3150356,d,2023-04-12 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2023-04-11 06:06:09 +0200,2023-04-12 03:46:07 +0200,true,,6434dc6cbebc5ff3fe35d999,73H
+3150360,d,2023-04-12 06:05:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C6,Check-in,2023-04-11 06:06:09 +0200,2023-04-12 04:05:10 +0200,true,,6434dc6cbebc5ff3fe35d99a,32N
 3150368,d,2023-04-12 06:10:00 +0200,FR2014,London/STANSTED,Ryanair,1,B10,Check-in,2023-04-11 06:11:09 +0200,2023-04-12 03:11:07 +0200,true,,6434dd98bebc5ff3fe35dac4,73H
 3150369,d,2023-04-12 06:10:00 +0200,FR5260,Rimini,Ryanair,2,D4,Check-in,2023-04-11 06:11:09 +0200,2023-04-12 03:11:07 +0200,true,,6434dd98bebc5ff3fe35dac5,73H
 3150370,d,2023-04-12 06:10:00 +0200,FR6152,Goteborg,Ryanair,2,D3,Check-in,2023-04-11 06:11:09 +0200,2023-04-12 03:10:08 +0200,true,,6434dd98bebc5ff3fe35dac6,73H
