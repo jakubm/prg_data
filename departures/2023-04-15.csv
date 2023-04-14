@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3151627,d,2023-04-15 05:00:00 +0200,EW4218,Larnaca,Eurowings Ag,1,B8,"",2023-04-14 05:00:11 +0200,2023-04-14 18:48:09 +0200,true,,6438c1afbebc5ff3fe39e41a,319
+3151627,d,2023-04-15 05:00:00 +0200,EW4218,Larnaca,Eurowings Ag,1,A6,"",2023-04-14 05:00:11 +0200,2023-04-15 01:24:07 +0200,true,,6438c1afbebc5ff3fe39e41a,319
 3151629,d,2023-04-15 06:05:00 +0200,FR3040,Barcelona,Ryanair,2,C17,"",2023-04-14 06:05:11 +0200,2023-04-14 07:55:11 +0200,true,,6438d0ebbebc5ff3fe39f77a,73H
 3151630,d,2023-04-15 06:05:00 +0200,FR7952,Copenhagen/CPH,Ryanair,2,D6,"",2023-04-14 06:06:11 +0200,2023-04-14 21:01:09 +0200,true,,6438d0ebbebc5ff3fe39f77b,73H
 3151631,d,2023-04-15 06:05:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,D3,"",2023-04-14 06:06:11 +0200,2023-04-14 21:35:10 +0200,true,,6438d0ebbebc5ff3fe39f77c,321
