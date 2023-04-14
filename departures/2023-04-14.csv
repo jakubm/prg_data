@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3151172,d,2023-04-14 06:00:00 +0200,FR1828,Paris/BEAUVAIS,Ryanair,2,C18,Check-in,2023-04-13 06:01:09 +0200,2023-04-14 03:01:07 +0200,true,,64377e41bebc5ff3fe387d3b,73H
+3151172,d,2023-04-14 06:00:00 +0200,FR1828,Paris/BEAUVAIS,Ryanair,2,C18,Gate open,2023-04-13 06:01:09 +0200,2023-04-14 04:26:07 +0200,true,,64377e41bebc5ff3fe387d3b,73H
 3151173,d,2023-04-14 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2023-04-13 06:06:09 +0200,2023-04-14 03:46:07 +0200,true,,64377f6cbebc5ff3fe387dda,73H
 3151177,d,2023-04-14 06:10:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C6,Check-in,2023-04-13 06:11:08 +0200,2023-04-14 04:08:07 +0200,true,,64378098bebc5ff3fe387f93,319
 3151185,d,2023-04-14 06:20:00 +0200,FR2767,Madrid/MAD,Ryanair,2,C22,Check-in,2023-04-13 06:21:08 +0200,2023-04-14 03:19:07 +0200,true,,643782f0bebc5ff3fe388220,73H
