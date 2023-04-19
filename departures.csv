@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3153263,d,2023-04-19 04:50:00 +0200,EW4218,Larnaca,Eurowings Ag,1,B8,Gate open,2023-04-18 04:51:09 +0200,2023-04-19 03:55:08 +0200,true,,643e05582d38bdb625709b68,319
+3153263,d,2023-04-19 04:50:00 +0200,EW4218,Larnaca,Eurowings Ag,1,B8,Boarding,2023-04-18 04:51:09 +0200,2023-04-19 04:39:07 +0200,true,,643e05582d38bdb625709b68,319
 3153265,d,2023-04-19 06:00:00 +0200,QS2542,Hurghada,SmartWings,1,B7,Gate open,2023-04-18 06:01:09 +0200,2023-04-19 04:25:08 +0200,true,,643e15c02d38bdb62570acbc,73J
 3153267,d,2023-04-19 06:00:00 +0200,QS2568,Marsa Alam,SmartWings,1,A7,Gate open,2023-04-18 06:01:09 +0200,2023-04-19 04:25:08 +0200,true,,643e15c02d38bdb62570acbe,73H
 3153266,d,2023-04-19 06:00:00 +0200,QS4144,Salalah Airport,SmartWings,1,A6,Gate open,2023-04-18 06:01:09 +0200,2023-04-19 04:25:08 +0200,true,,643e15c02d38bdb62570acbd,7M8
