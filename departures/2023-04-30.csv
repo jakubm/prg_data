@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3157804,d,2023-04-30 05:00:00 +0200,EW4228,Alicante,Eurowings Ag,2,D1,Gate closed,2023-04-29 06:26:12 +0200,2023-04-30 04:48:08 +0200,true,,644c88332d38ca65343a4175,319
+3157804,d,2023-04-30 05:00:00 +0200,EW4228,Alicante,Eurowings Ag,2,D1,Departed 04:56,2023-04-29 06:26:12 +0200,2023-04-30 05:08:08 +0200,true,2023-04-30 04:56:00 +0200,644c88332d38ca65343a4175,319
 3157806,d,2023-04-30 06:00:00 +0200,QS4210,Salalah Airport,SmartWings,1,A3,Gate open,2023-04-29 06:26:12 +0200,2023-04-30 04:32:07 +0200,true,,644c96442d38ca65343a5533,7M8
 3157807,d,2023-04-30 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Gate open,2023-04-29 06:26:12 +0200,2023-04-30 05:05:08 +0200,true,,644c976c2d38ca65343a5698,73H
 3157811,d,2023-04-30 06:20:00 +0200,FR7773,Kosice,Ryanair,2,C17,Gate open,2023-04-29 06:26:12 +0200,2023-04-30 05:02:08 +0200,true,,644c9af02d38ca65343a5a75,73H
