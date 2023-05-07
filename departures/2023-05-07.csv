@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3160712,d,2023-05-07 04:10:00 +0200,QS2624,Antalya,SmartWings,1,B8,Check-in,2023-05-06 04:10:10 +0200,2023-05-07 01:41:08 +0200,true,,6455b6f92d38ca653443d037,73G
+3160712,d,2023-05-07 04:10:00 +0200,QS2624,Antalya,SmartWings,1,B8,Gate open,2023-05-06 04:10:10 +0200,2023-05-07 02:45:07 +0200,true,,6455b6f92d38ca653443d037,73G
 3160713,d,2023-05-07 05:00:00 +0200,EW4228,Alicante,Eurowings Ag,2,D1,"",2023-05-06 05:00:10 +0200,2023-05-06 10:14:09 +0200,true,,6455c2b22d38ca653443d412,319
 3160715,d,2023-05-07 06:00:00 +0200,QS4210,Salalah Airport,SmartWings,1,B7,"",2023-05-06 06:00:11 +0200,2023-05-06 10:42:09 +0200,true,,6455d0c02d38ca653443e8cf,7M8
 3160716,d,2023-05-07 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,"",2023-05-06 06:05:09 +0200,2023-05-06 06:05:09 +0200,true,,6455d1ec2d38ca653443ea02,73H
