@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3164110,d,2023-05-15 06:05:00 +0200,FR7952,Copenhagen/CPH,Ryanair,2,D6,"",2023-05-14 06:06:10 +0200,2023-05-14 11:05:11 +0200,true,,64605ded2d38ca65344f2783,73H
+3164110,d,2023-05-15 06:05:00 +0200,FR7952,Copenhagen/CPH,Ryanair,2,D6,Check-in,2023-05-14 06:06:10 +0200,2023-05-15 03:07:11 +0200,true,,64605ded2d38ca65344f2783,73H
 3164111,d,2023-05-15 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C3,"",2023-05-14 06:06:10 +0200,2023-05-14 11:06:11 +0200,true,,64605ded2d38ca65344f2784,73H
 3164115,d,2023-05-15 06:05:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C9,"",2023-05-14 06:06:10 +0200,2023-05-14 06:06:10 +0200,true,,64605ded2d38ca65344f2785,321
 3164123,d,2023-05-15 06:20:00 +0200,FR7773,Kosice,Ryanair,2,C19,"",2023-05-14 06:21:11 +0200,2023-05-14 11:05:11 +0200,true,,646061712d38ca65344f2a01,73H
