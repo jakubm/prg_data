@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3164929,d,2023-05-17 04:45:00 +0200,QS2610,Antalya,SmartWings,1,A4,Last call,2023-05-16 04:46:10 +0200,2023-05-17 04:36:07 +0200,true,,6462ee2b2d38ca6534523203,73G
+3164929,d,2023-05-17 04:45:00 +0200,QS2610,Antalya,SmartWings,1,A4,Gate closed,2023-05-16 04:46:10 +0200,2023-05-17 04:42:08 +0200,true,,6462ee2b2d38ca6534523203,73G
 3164930,d,2023-05-17 04:50:00 +0200,EW4218,Larnaca,Eurowings Ag,1,A3,Boarding,2023-05-16 04:51:10 +0200,2023-05-17 04:32:08 +0200,true,,6462ef582d38ca6534523258,32A
 3164932,d,2023-05-17 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2023-05-16 06:06:10 +0200,2023-05-17 03:47:07 +0200,true,,646300eb2d38ca65345249a3,73H
 3164936,d,2023-05-17 06:05:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C9,Check-in,2023-05-16 06:06:10 +0200,2023-05-17 04:06:08 +0200,true,,646300eb2d38ca65345249a4,320
