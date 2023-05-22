@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3167121,d,2023-05-22 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,D4,Last call,2023-05-21 04:57:08 +0200,2023-05-22 04:34:07 +0200,true,,6469881a2d38ca65345959ed,320
+3167121,d,2023-05-22 04:55:00 +0200,QS1102,Heraklion,SmartWings,2,D4,Gate closed,2023-05-21 04:57:08 +0200,2023-05-22 04:44:07 +0200,true,,6469881a2d38ca65345959ed,320
 3167123,d,2023-05-22 06:05:00 +0200,FR7952,Copenhagen/CPH,Ryanair,2,C17,Check-in,2023-05-21 06:05:10 +0200,2023-05-22 03:06:07 +0200,true,,6469986c2d38ca6534596923,73H
 3167124,d,2023-05-22 06:05:00 +0200,KL1350,Amsterdam,Klm Royal Dutch Airlines,2,C4,Check-in,2023-05-21 06:05:10 +0200,2023-05-22 03:46:07 +0200,true,,6469986c2d38ca6534596924,73H
 3167128,d,2023-05-22 06:05:00 +0200,LH1403,Frankfurt/FRA,Lufthansa,2,C9,Check-in,2023-05-21 06:05:10 +0200,2023-05-22 04:07:07 +0200,true,,6469986c2d38ca6534596925,321
