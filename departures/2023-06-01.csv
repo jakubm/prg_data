@@ -1,4 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
+3171963,d,2023-06-01 03:00:00 +0200,OK6602,Budapest,Czech Airlines,2,"","",2023-06-01 02:53:10 +0200,2023-06-01 02:53:10 +0200,true,,6477eb922d38a8d745b16228,73H
 3171468,d,2023-06-01 04:05:00 +0200,QS1108,Larnaca,SmartWings,1,B3,Check-in,2023-05-31 04:06:09 +0200,2023-06-01 02:21:08 +0200,true,,6476ab4d2d38a8d745afc614,7M8
 3171470,d,2023-06-01 04:45:00 +0200,QS1124,Samos,SmartWings,2,C10,Check-in,2023-05-31 04:46:10 +0200,2023-06-01 02:17:07 +0200,true,,6476b4ac2d38a8d745afd26a,73H
 3171474,d,2023-06-01 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D1,Check-in,2023-05-31 04:46:10 +0200,2023-06-01 02:13:08 +0200,true,,6476b4ad2d38a8d745afd26c,320
