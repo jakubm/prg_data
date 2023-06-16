@@ -176,3 +176,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3179445,a,2023-06-17 01:45:00 +0200,QS2225,Kos,SmartWings,2,"","",2023-06-16 01:46:11 +0200,2023-06-16 01:46:11 +0200,true,,648ba27e2d38a8d745cbcd8c,73H
 3179448,a,2023-06-17 02:25:00 +0200,OK6107,Antalya,Czech Airlines,1,"","",2023-06-16 02:26:11 +0200,2023-06-16 02:26:11 +0200,true,,648babdc2d38a8d745cbcec6,73H
 3179447,a,2023-06-17 02:25:00 +0200,QS2869,Djerba,SmartWings,1,"","",2023-06-16 02:26:11 +0200,2023-06-16 02:26:11 +0200,true,,648babdc2d38a8d745cbcec5,7S8
+3179449,a,2023-06-17 02:40:00 +0200,QS4107,Boa Vista,SmartWings,1,"","",2023-06-16 02:41:11 +0200,2023-06-16 02:41:11 +0200,true,,648baf602d38a8d745cbcf31,7M8
