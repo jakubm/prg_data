@@ -146,3 +146,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3181937,a,2023-06-21 23:40:00 +0200,QS1117,Kerkyra/CORFU,SmartWings,2,"","",2023-06-20 23:41:12 +0200,2023-06-20 23:41:12 +0200,true,,64921cb02d38a8d745d4ebce,7S8
 3181941,a,2023-06-21 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2023-06-20 23:51:13 +0200,2023-06-20 23:51:13 +0200,true,,64921f082d38a8d745d4ebde,320
 3181942,a,2023-06-21 23:50:00 +0200,QS2003,Palma De Mallorca,SmartWings,2,"","",2023-06-20 23:51:13 +0200,2023-06-20 23:51:13 +0200,true,,64921f082d38a8d745d4ebdf,7M8
+3181944,a,2023-06-22 00:25:00 +0200,QS2643,Antalya,SmartWings,1,"","",2023-06-21 00:26:12 +0200,2023-06-21 00:26:12 +0200,true,,6492273c2d38a8d745d4ef06,73H
