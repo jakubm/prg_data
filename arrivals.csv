@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3184067,a,2023-06-26 06:10:00 +0200,BUC1345,Burgas,European Air Charter,1,"","",2023-06-25 06:11:13 +0200,2023-06-25 06:11:13 +0200,true,,6497be182d38a8d745dc784c,M82
+3184067,a,2023-06-26 06:10:00 +0200,BUC1345,Burgas,European Air Charter,1,"",Expected 05:50,2023-06-25 06:11:13 +0200,2023-06-26 04:04:11 +0200,true,2023-06-26 05:50:00 +0200,6497be182d38a8d745dc784c,M82
 3184082,a,2023-06-26 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 06:45,2023-06-25 06:56:14 +0200,2023-06-26 02:39:10 +0200,true,2023-06-26 06:45:00 +0200,6497c8a42d38a8d745dc8322,32A
 3184088,a,2023-06-26 07:10:00 +0200,FB5435,Burgas,Bulgaria Air,1,"","",2023-06-25 07:11:12 +0200,2023-06-25 07:11:12 +0200,true,,6497cc282d38a8d745dc86fb,733
 3184090,a,2023-06-26 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"","",2023-06-25 07:21:12 +0200,2023-06-25 07:21:12 +0200,true,,6497ce802d38a8d745dc87dd,73H
