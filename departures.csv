@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3187158,d,2023-07-02 04:05:00 +0200,QS2862,Djerba,SmartWings,1,A8,Check-in,2023-07-01 04:06:11 +0200,2023-07-02 01:32:08 +0200,true,,649f89cb2d380ad37c5ccb3e,73G
-3187159,d,2023-07-02 04:05:00 +0200,QS2898,Burgas,SmartWings,1,A4,"",2023-07-01 04:06:11 +0200,2023-07-01 11:58:09 +0200,true,,649f89cb2d380ad37c5ccb3f,73H
+3187159,d,2023-07-02 04:05:00 +0200,QS2898,Burgas,SmartWings,1,A4,Check-in,2023-07-01 04:06:11 +0200,2023-07-02 01:35:09 +0200,true,,649f89cb2d380ad37c5ccb3f,73H
 3187160,d,2023-07-02 04:05:00 +0200,QS4314,Antalya,SmartWings,1,B3,Check-in,2023-07-01 04:06:11 +0200,2023-07-02 01:01:08 +0200,true,,649f89cb2d380ad37c5ccb40,73G
 3187161,d,2023-07-02 04:10:00 +0200,QS2248,Heraklion,SmartWings,2,C9,Check-in,2023-07-01 04:11:11 +0200,2023-07-02 01:01:08 +0200,true,,649f8af82d380ad37c5ccb7b,73H
 3187162,d,2023-07-02 04:10:00 +0200,QS2624,Antalya,SmartWings,1,A6,Check-in,2023-07-01 04:11:11 +0200,2023-07-02 01:02:07 +0200,true,,649f8af82d380ad37c5ccb7c,73H
