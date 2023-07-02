@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3187727,a,2023-07-03 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"","",2023-07-02 06:56:11 +0200,2023-07-02 06:56:11 +0200,true,,64a103242d380ad37c5eb90f,320
+3187727,a,2023-07-03 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 06:40,2023-07-02 06:56:11 +0200,2023-07-03 00:59:09 +0200,true,2023-07-03 06:40:00 +0200,64a103242d380ad37c5eb90f,32A
 3187732,a,2023-07-03 07:10:00 +0200,FB5435,Burgas,Bulgaria Air,1,"","",2023-07-02 07:11:10 +0200,2023-07-02 07:11:10 +0200,true,,64a106ac2d380ad37c5ebd61,733
 3187733,a,2023-07-03 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"","",2023-07-02 07:21:11 +0200,2023-07-02 07:21:11 +0200,true,,64a109002d380ad37c5ebdd2,73H
 3187737,a,2023-07-03 07:45:00 +0200,DV0483,Astana,Scat Airlines,1,"","",2023-07-02 07:46:12 +0200,2023-07-02 07:46:12 +0200,true,,64a10ede2d380ad37c5ec3f9,738
