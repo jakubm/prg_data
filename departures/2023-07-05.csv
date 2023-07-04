@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3188695,d,2023-07-05 04:05:00 +0200,QS1108,Larnaca,SmartWings,1,B4,"",2023-07-04 04:07:10 +0200,2023-07-04 23:13:11 +0200,true,,64a37e6a2d380ad37c627ee9,73H
+3188695,d,2023-07-05 04:05:00 +0200,QS1108,Larnaca,SmartWings,1,B4,Check-in,2023-07-04 04:07:10 +0200,2023-07-05 01:38:09 +0200,true,,64a37e6a2d380ad37c627ee9,73H
 3188697,d,2023-07-05 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,D5,Check-in,2023-07-04 04:07:10 +0200,2023-07-05 01:01:09 +0200,true,,64a37e6a2d380ad37c627eea,73H
 3188699,d,2023-07-05 04:10:00 +0200,QS2212,Rhodes,SmartWings,2,D6,Check-in,2023-07-04 04:11:12 +0200,2023-07-05 01:11:09 +0200,true,,64a37f792d380ad37c6280aa,73H
 3188700,d,2023-07-05 04:30:00 +0200,QS2608,Antalya,SmartWings,1,B3,"",2023-07-04 04:31:12 +0200,2023-07-04 06:59:12 +0200,true,,64a384282d380ad37c628522,73H
