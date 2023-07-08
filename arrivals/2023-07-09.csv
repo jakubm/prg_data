@@ -163,3 +163,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3191277,a,2023-07-09 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2023-07-08 23:51:10 +0200,2023-07-08 23:51:10 +0200,true,,64a9da082d380ad37c6ba7c1,320
 3191278,a,2023-07-09 23:55:00 +0200,QS2703,Olbia,SmartWings,2,"","",2023-07-08 23:56:09 +0200,2023-07-08 23:56:09 +0200,true,,64a9db342d380ad37c6ba8a6,73H
 3191279,a,2023-07-09 23:55:00 +0200,QS2941,Burgas,SmartWings,1,"","",2023-07-08 23:56:09 +0200,2023-07-08 23:56:09 +0200,true,,64a9db342d380ad37c6ba8a7,7S8
+3191282,a,2023-07-10 00:20:00 +0200,QS2135,Palma De Mallorca,SmartWings,2,"","",2023-07-09 00:21:10 +0200,2023-07-09 00:21:10 +0200,true,,64a9e1102d380ad37c6bacb7,73H
