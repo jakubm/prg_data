@@ -167,3 +167,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3191273,d,2023-07-09 23:45:00 +0200,QS1286,Tel Aviv/TLV,SmartWings,1,B8,"",2023-07-08 23:46:09 +0200,2023-07-08 23:46:09 +0200,true,,64a9d8dc2d380ad37c6ba6d4,73H
 3191281,d,2023-07-10 00:05:00 +0200,QS2534,Hurghada,SmartWings,1,B7,"",2023-07-09 00:06:09 +0200,2023-07-09 00:06:09 +0200,true,,64a9dd8c2d380ad37c6baa45,7M8
 3191280,d,2023-07-10 00:05:00 +0200,QS3232,Marsa Alam,SmartWings,1,B3,"",2023-07-09 00:06:09 +0200,2023-07-09 00:06:09 +0200,true,,64a9dd8c2d380ad37c6baa44,7M8
+3191283,d,2023-07-10 00:35:00 +0200,QS2582,Sharm El Sheikh,SmartWings,1,B4,"",2023-07-09 00:36:08 +0200,2023-07-09 00:36:08 +0200,true,,64a9e4942d380ad37c6baed9,73H
