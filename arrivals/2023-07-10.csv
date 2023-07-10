@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3191342,a,2023-07-10 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 06:30,2023-07-09 06:56:11 +0200,2023-07-10 02:19:12 +0200,true,2023-07-10 06:30:00 +0200,64aa3da42d380ad37c6be43a,32A
+3191342,a,2023-07-10 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 06:35,2023-07-09 06:56:11 +0200,2023-07-10 02:39:11 +0200,true,2023-07-10 06:35:00 +0200,64aa3da42d380ad37c6be43a,32A
 3191347,a,2023-07-10 07:10:00 +0200,FB5435,Burgas,Bulgaria Air,1,"","",2023-07-09 07:11:11 +0200,2023-07-09 07:11:11 +0200,true,,64aa41282d380ad37c6be6b6,733
 3191348,a,2023-07-10 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"","",2023-07-09 07:21:10 +0200,2023-07-09 07:21:10 +0200,true,,64aa43802d380ad37c6be874,73H
 3191352,a,2023-07-10 07:45:00 +0200,DV0483,Astana,Scat Airlines,1,"","",2023-07-09 07:46:10 +0200,2023-07-09 07:46:10 +0200,true,,64aa495d2d380ad37c6becb7,738
@@ -165,3 +165,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3191822,a,2023-07-11 01:25:00 +0200,QS2841,Enfidha,SmartWings,1,"","",2023-07-10 01:25:14 +0200,2023-07-10 01:25:14 +0200,true,,64ab41cb2d380ad37c6da1e3,73H
 3191823,a,2023-07-11 01:30:00 +0200,QS3807,Bodrum/BJV,SmartWings,1,"","",2023-07-10 01:30:16 +0200,2023-07-10 01:30:16 +0200,true,,64ab42f82d380ad37c6da3b5,7S8
 3191824,a,2023-07-11 01:30:00 +0200,QS4113,Ras Al Khaimah,SmartWings,1,"","",2023-07-10 01:30:16 +0200,2023-07-10 01:30:16 +0200,true,,64ab42f82d380ad37c6da3b6,7M8
+3191826,a,2023-07-11 02:35:00 +0200,QS2633,Antalya,SmartWings,1,"","",2023-07-10 02:36:13 +0200,2023-07-10 02:36:13 +0200,true,,64ab52642d380ad37c6daac2,73H
