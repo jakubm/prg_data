@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3191827,a,2023-07-11 03:20:00 +0200,QS2239,Rhodes,SmartWings,2,"","",2023-07-10 03:20:14 +0200,2023-07-10 03:20:14 +0200,true,,64ab5cc12d380ad37c6dab9f,73H
+3191827,a,2023-07-11 03:20:00 +0200,QS2239,Rhodes,SmartWings,2,"",Expected 03:15,2023-07-10 03:20:14 +0200,2023-07-11 00:35:10 +0200,true,2023-07-11 03:15:00 +0200,64ab5cc12d380ad37c6dab9f,73H
 3191872,a,2023-07-11 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"","",2023-07-10 07:20:13 +0200,2023-07-10 07:20:13 +0200,true,,64ab95002d380ad37c6de8f2,73H
 3191876,a,2023-07-11 07:30:00 +0200,AY1227,Helsinki/HEL,Finnair,2,"","",2023-07-10 07:30:15 +0200,2023-07-10 07:30:15 +0200,true,,64ab975a2d380ad37c6de911,E90
 3191877,a,2023-07-11 07:40:00 +0200,QS2293,Zakynthos,SmartWings,2,"","",2023-07-10 07:40:14 +0200,2023-07-10 07:40:14 +0200,true,,64ab99b02d380ad37c6deb33,7M8
@@ -139,3 +139,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3192282,a,2023-07-11 23:40:00 +0200,QS2049,Reus,SmartWings,2,"","",2023-07-10 23:41:12 +0200,2023-07-10 23:41:12 +0200,true,,64ac7ab02d380ad37c6f620c,320
 3192286,a,2023-07-11 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2023-07-10 23:51:11 +0200,2023-07-10 23:51:11 +0200,true,,64ac7d092d380ad37c6f62f4,320
 3192288,a,2023-07-12 00:25:00 +0200,FR2013,London/STANSTED,Ryanair,1,"","",2023-07-11 00:26:12 +0200,2023-07-11 00:26:12 +0200,true,,64ac853c2d380ad37c6f6865,73H
+3192289,a,2023-07-12 00:30:00 +0200,QS2237,Heraklion,SmartWings,2,"","",2023-07-11 00:31:12 +0200,2023-07-11 00:31:12 +0200,true,,64ac86682d380ad37c6f68fd,73H
