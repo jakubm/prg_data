@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3192350,a,2023-07-12 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"","",2023-07-11 06:56:10 +0200,2023-07-11 06:56:10 +0200,true,,64ace0a42d380ad37c6fafc2,320
+3192350,a,2023-07-12 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 06:50,2023-07-11 06:56:10 +0200,2023-07-12 01:34:10 +0200,true,2023-07-12 06:50:00 +0200,64ace0a42d380ad37c6fafc2,32A
 3192352,a,2023-07-12 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"","",2023-07-11 07:21:11 +0200,2023-07-11 07:21:11 +0200,true,,64ace6812d380ad37c6fb222,73H
 3192356,a,2023-07-12 07:30:00 +0200,AY1227,Helsinki/HEL,Finnair,2,"","",2023-07-11 07:31:11 +0200,2023-07-11 07:31:11 +0200,true,,64ace8d92d380ad37c6fb3c4,E90
 3192357,a,2023-07-12 07:40:00 +0200,BJ7326,Monastir,Nouvelair,1,"","",2023-07-11 07:41:11 +0200,2023-07-11 07:41:11 +0200,true,,64aceb312d380ad37c6fb617,320
@@ -159,3 +159,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3192814,a,2023-07-13 00:55:00 +0200,QS2613,Antalya,SmartWings,1,"","",2023-07-12 00:56:11 +0200,2023-07-12 00:56:11 +0200,true,,64adddc42d380ad37c711236,7M8
 3192816,a,2023-07-13 01:05:00 +0200,QS2011,Palma De Mallorca,SmartWings,2,"","",2023-07-12 01:06:13 +0200,2023-07-12 01:06:13 +0200,true,,64ade01c2d380ad37c711339,73H
 3192819,a,2023-07-13 01:20:00 +0200,QS2253,Kos,SmartWings,2,"","",2023-07-12 01:21:13 +0200,2023-07-12 01:21:13 +0200,true,,64ade3a02d380ad37c711503,7S8
+3192820,a,2023-07-13 01:35:00 +0200,QS2787,Monastir,SmartWings,1,"","",2023-07-12 01:36:11 +0200,2023-07-12 01:36:11 +0200,true,,64ade7242d380ad37c7115b3,7M8
