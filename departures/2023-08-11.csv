@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3207841,d,2023-08-11 04:05:00 +0200,QS1100,Karpathos,SmartWings,2,D3,"",2023-08-10 04:06:12 +0200,2023-08-10 04:06:12 +0200,true,,64d445cc2d38844ea6a17cde,73H
+3207841,d,2023-08-11 04:05:00 +0200,QS1100,Karpathos,SmartWings,2,D3,Check-in,2023-08-10 04:06:12 +0200,2023-08-11 01:36:11 +0200,true,,64d445cc2d38844ea6a17cde,73H
 3207843,d,2023-08-11 04:05:00 +0200,QS1108,Larnaca,SmartWings,1,B7,Check-in,2023-08-10 04:06:12 +0200,2023-08-11 01:35:09 +0200,true,,64d445cc2d38844ea6a17cdf,73H
 3207845,d,2023-08-11 04:15:00 +0200,QS2658,Antalya,SmartWings,1,A7,"",2023-08-10 04:16:10 +0200,2023-08-10 04:16:10 +0200,true,,64d448242d38844ea6a17f89,73H
 3207846,d,2023-08-11 04:45:00 +0200,QS1124,Samos,SmartWings,2,C10,"",2023-08-10 04:46:11 +0200,2023-08-10 04:46:11 +0200,true,,64d44f392d38844ea6a18ea9,73H
