@@ -144,3 +144,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3210436,a,2023-08-15 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2023-08-14 23:51:14 +0200,2023-08-14 23:51:14 +0200,true,,64daa1882d38844ea6aa9911,320
 3210438,a,2023-08-16 00:25:00 +0200,FR2013,London/STANSTED,Ryanair,1,"","",2023-08-15 00:26:13 +0200,2023-08-15 00:26:13 +0200,true,,64daa9bc2d38844ea6aaa047,73H
 3210439,a,2023-08-16 00:30:00 +0200,QS2237,Heraklion,SmartWings,2,"","",2023-08-15 00:31:13 +0200,2023-08-15 00:31:13 +0200,true,,64daaae82d38844ea6aaa137,73H
+3210440,a,2023-08-16 00:45:00 +0200,QS1153,Malaga,SmartWings,2,"","",2023-08-15 00:46:14 +0200,2023-08-15 00:46:14 +0200,true,,64daae6c2d38844ea6aaa292,73G
