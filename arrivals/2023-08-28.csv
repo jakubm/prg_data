@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3216859,a,2023-08-28 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"","",2023-08-27 06:56:13 +0200,2023-08-27 06:56:13 +0200,true,,64ead7242d38844ea6c1192e,320
+3216859,a,2023-08-28 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"",Expected 06:25,2023-08-27 06:56:13 +0200,2023-08-28 01:17:12 +0200,true,2023-08-28 06:25:00 +0200,64ead7242d38844ea6c1192e,32A
 3216863,a,2023-08-28 07:10:00 +0200,FB5435,Burgas,Bulgaria Air,1,"","",2023-08-27 07:11:12 +0200,2023-08-27 07:11:12 +0200,true,,64eadaa82d38844ea6c11d91,733
 3216865,a,2023-08-28 07:20:00 +0200,XQ0320,Antalya,Sunexpress,1,"","",2023-08-27 07:21:12 +0200,2023-08-27 07:21:12 +0200,true,,64eadd002d38844ea6c11ee9,73H
 3216869,a,2023-08-28 07:45:00 +0200,W45439,Venice/VCE,Wizz Air Malta,2,"","",2023-08-27 07:46:14 +0200,2023-08-27 07:46:14 +0200,true,,64eae2dc2d38844ea6c1243b,321
