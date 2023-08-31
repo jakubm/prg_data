@@ -1,5 +1,5 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
-3218908,a,2023-09-01 03:10:00 +0200,QS2243,Heraklion,SmartWings,2,"","",2023-08-31 03:11:11 +0200,2023-08-31 03:11:11 +0200,true,,64efe8682d38ee729f4aaa57,73H
+3218908,a,2023-09-01 03:10:00 +0200,QS2243,Heraklion,SmartWings,2,"",Expected 02:55,2023-08-31 03:11:11 +0200,2023-09-01 00:10:10 +0200,true,2023-09-01 02:55:00 +0200,64efe8682d38ee729f4aaa57,73H
 3218924,a,2023-09-01 05:00:00 +0200,QS4147,Sal Island,SmartWings,1,"",Expected 05:30,2023-08-31 05:01:10 +0200,2023-08-31 23:43:11 +0200,true,2023-09-01 05:30:00 +0200,64f002322d38ee729f4ac371,7M8
 3218955,a,2023-09-01 06:40:00 +0200,TWI0797,Antalya,Tailwind Airlines,1,"","",2023-08-31 06:41:12 +0200,2023-08-31 06:41:12 +0200,true,,64f019a12d38ee729f4ae89b,321
 3218960,a,2023-09-01 06:55:00 +0200,QR0289,Doha/DOH,Qatar Airways,1,"","",2023-08-31 06:56:12 +0200,2023-08-31 06:56:12 +0200,true,,64f01d252d38ee729f4aedd5,320
