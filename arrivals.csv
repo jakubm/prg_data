@@ -140,3 +140,4 @@ id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,crea
 3229081,a,2023-09-19 23:40:00 +0200,QS1117,Kerkyra/CORFU,SmartWings,2,"","",2023-09-18 23:41:10 +0200,2023-09-18 23:41:10 +0200,true,,6508c3b02d38ee729f6e5a7b,73H
 3229086,a,2023-09-19 23:50:00 +0200,QS1165,Palma De Mallorca,SmartWings,2,"","",2023-09-18 23:51:10 +0200,2023-09-18 23:51:10 +0200,true,,6508c60a2d38ee729f6e5b80,320
 3229088,a,2023-09-20 00:15:00 +0200,QS2855,Monastir,SmartWings,1,"","",2023-09-19 00:16:12 +0200,2023-09-19 00:16:12 +0200,true,,6508cbe62d38ee729f6e5ea2,73H
+3229089,a,2023-09-20 00:25:00 +0200,FR2013,London/STANSTED,Ryanair,1,"","",2023-09-19 00:26:17 +0200,2023-09-19 00:26:17 +0200,true,,6508ce3d2d38ee729f6e5ebc,73H
