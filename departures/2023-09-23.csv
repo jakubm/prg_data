@@ -1,6 +1,6 @@
 id,direction,scheduled,flight_number,city,airline,terminal,gate,last_status,created_at,updated_at,is_primary,actual,flight_guid,plane
 3230732,d,2023-09-23 04:05:00 +0200,QS1108,Larnaca,SmartWings,1,B7,"",2023-09-22 04:06:12 +0200,2023-09-22 15:53:10 +0200,true,,650cf64d2d38ee729f73be75,73H
-3230734,d,2023-09-23 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,D4,"",2023-09-22 04:06:12 +0200,2023-09-22 17:35:11 +0200,true,,650cf64d2d38ee729f73be76,73J
+3230734,d,2023-09-23 04:05:00 +0200,QS1130,Preveza/LEFKADA,SmartWings,2,D4,Check-in,2023-09-22 04:06:12 +0200,2023-09-23 01:35:09 +0200,true,,650cf64d2d38ee729f73be76,73J
 3230736,d,2023-09-23 04:45:00 +0200,QS1146,Rhodes,SmartWings,2,D3,"",2023-09-22 04:46:10 +0200,2023-09-22 21:15:09 +0200,true,,650cffac2d38ee729f73cace,73H
 3230738,d,2023-09-23 04:45:00 +0200,QS1190,Antalya,SmartWings,1,B8,"",2023-09-22 04:46:10 +0200,2023-09-22 15:47:09 +0200,true,,650cffac2d38ee729f73cacf,73J
 3230740,d,2023-09-23 04:50:00 +0200,QS1126,Kos,SmartWings,2,C11,"",2023-09-22 04:51:11 +0200,2023-09-22 20:28:09 +0200,true,,650d00d82d38ee729f73ccf9,73H
