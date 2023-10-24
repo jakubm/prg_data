@@ -18,14 +18,14 @@ jobs:
         fetch-depth: 0
     - name: Fetch departure data
       run: |-
-        curl "http://mfids.prg.aero/notificator/flights?spec=departure" > departures.xml
+        curl "https://mfids.prg.aero/notificator/flights?spec=departure" > departures.xml
     - name: Fetch departure data from prg-aero.com
       run: |-
         curl "http://prg-aero.com/departures.csv" > departures.csv
         cp departures.csv departures/$(TZ=Europe/Prague date +%F).csv
     - name: Fetch arrival data
       run: |-
-        curl "http://mfids.prg.aero/notificator/flights?spec=arrivals" > arrivals.xml
+        curl "https://mfids.prg.aero/notificator/flights?spec=arrivals" > arrivals.xml
     - name: Fetch arrival data from prg-aero.com
       run: |-
         curl "http://prg-aero.com/arrivals.csv" > arrivals.csv
